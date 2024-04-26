@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /market
+Disallow: /certificado
+Disallow: /certificate
+Disallow: /sello
+Disallow: /seal
+Disallow: /captcha
+Disallow: /get-cupon
+Disallow: /pagos-paginas
+Disallow: /rest/webhooks
+Disallow: /qm_admin
+Sitemap: https://qualitasplaza.com/sitemap.xml

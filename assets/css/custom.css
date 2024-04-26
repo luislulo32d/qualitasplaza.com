@@ -1,0 +1,501 @@
+/* Add here all your css styles (customizations) */
+
+body {
+    transition: all 0.15s ease-out;
+}
+body.dark-theme {
+    background-color: #353535;
+    color: #fff;
+}
+
+.fa-dashboard {
+    color: #2D8AE4 !important;
+}
+
+.url-button {
+    height: 42px !important;
+}
+
+.input-group-prepend {
+    margin-right: 0px;
+}
+
+.icon-background {
+    background-color: transparent;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    font-size: 30px;
+}
+
+.institute-number {
+    margin-left: -4px; 
+}
+
+.collapse-padding {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+}
+
+.search-input {
+    background-color: transparent;
+}
+
+.search-input:focus {
+    background-color: transparent;
+}
+
+.icon-color {
+    color: #333;
+}
+
+.card {
+    background-color: transparent;
+}
+
+.form-contacto {
+    background-color: rgba(130,130,130,0.2) !important;
+}
+
+.u-header__section--light .navbar-nav:not([class*="u-main-nav-v"]) .nav-link, .u-header__section--light--shift.js-header-change-moment .navbar-nav:not([class*="u-main-nav-v"]) .nav-link {
+    color: #999;
+}
+
+.nav-link:hover {
+    color: #de7722 !important;
+}
+
+#container-new {
+    max-width: 1300px !important;
+}
+
+.flag-size {
+    width: 30px;
+}
+
+.h2-margin-top {
+	margin-top: 50px;
+}
+
+.g-pt-60 {
+	background-image: url(../img-temp/footer.jpg);
+	opacity: 0.9;
+}
+
+.list-group-item {
+	width: 24%;
+	display: inline-block;
+	margin: 0 auto;
+}
+
+.center-title {
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+
+.paragraph-size {
+	font-size: 12px;
+}
+
+.box-margin-top {
+	margin-top: 30px;
+}
+
+.g-color-gray-dark-v3 {
+	color: #222 !important;
+}
+
+#list-tab {
+	text-align: center;
+}
+
+.no-margin {
+	margin-left: 0px !important;
+	margin-right: 0px !important;
+	max-width: 1400px !important;
+}
+
+.g-width-200 {
+  width: 200px !important;
+}
+
+.plan-title {
+    margin-bottom: -15px;
+}
+
+.card-header {
+    text-align: center;
+}
+
+.price-paragraph {
+    font-size: 15px !important;
+    line-height: 0.8 !important;
+}
+
+.demo-button {
+    margin-bottom: 10px !important;
+}
+
+.form-control-styles {
+    background-color: transparent;
+}
+
+.form-control {
+    font-weight: bold !important;
+    font-size: 14px !important;
+}
+
+.form-control-styles:active, .form-control-styles:focus {
+    border-color: #247fcc !important;
+    background-color: transparent;
+}
+
+.title-color {
+    color: #247fcc !important;
+}
+
+.module_title {
+    margin-top: 50px;
+    margin-bottom: 20px; 
+    font-size: 40px;
+    color: #de7722;
+    text-align: center;
+}
+
+.paragraph_title {
+    margin-bottom: 80px; 
+    font-size: 20px;
+    text-align: center;
+}
+
+.estilos-tooltip {
+    background-color: transparent;
+    font-size: 17px;
+    color: #999;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 3px;
+    margin-top: -3px;
+}
+
+#box-col-padding {
+    padding: 2px !important;
+}
+
+.tooltip-text {
+    margin-top: -7px;
+    margin-left: -2px;
+    font-size: 11px;
+}
+
+.text-styles {
+    text-align: center;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.code-box {
+    padding: 10px;
+    margin: 0px 20px 10px 20px;
+    border: 2px solid #999;
+}
+
+.code-box-title {
+    font-size: 14px;
+    text-align: center;
+    font-weight: bold;
+    color: #2D8AE4;
+}
+
+.code-box-p {
+    font-size: 14px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.card-header {
+    font-weight: bold !important;
+    font-size: 16px;
+}
+
+.code-box-input {
+    text-align: center;
+    margin-top: 10px;
+    background-color: rgba(130,130,130,0.2) !important;
+    color: #2D8AE4 !important;
+    transition: 300ms;
+}
+
+.icon-border {
+    border: 0px !important;
+}
+
+.code-box-title2 {
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.code-box-p2 {
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+    color: #2D8AE4;
+}
+
+.btn-estilos {
+    border-radius: 0px;
+    border-color: #2D8AE4;
+    background-color: transparent;
+    margin-bottom: 20px;
+    color: #2D8AE4;
+    transition: 500ms;
+    margin-top: -10px;
+}
+
+.btn-estilos:hover {
+    background-color: #2D8AE4;
+    transition: 500ms;
+    color: #fff;
+}
+
+.fa-icon {
+    color: #44C122;
+    font-size: 20px;
+}
+
+.padding-box {
+    padding: 20px !important;
+}
+
+.p-margin-bottom p {
+    margin-bottom: 0.7rem !important;
+}
+
+.select-margin-bottom div {
+    margin-bottom: 0.2rem !important;
+}
+
+.select-margin-bottom ul {
+    margin-bottom: 0.2rem !important;
+}
+
+.background-color-box {
+    background-color: #555 !important;
+}
+
+.list-group-item:first-child {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+.list-group-item:last-child {
+    border-bottom-right-radius: 0rem;
+    border-bottom-left-radius: 0rem;
+}
+
+.list-group-item {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-color: transparent;
+    transition: 300ms;
+    box-shadow: 2px 4px #999;
+    border: 1px solid #eee;
+    background-color: transparent;
+    font-weight: bold !important;
+    margin-bottom: 10px;
+    color: #999;
+}
+
+.list-group-item-action:hover {
+    background-color: transparent;
+    color: #999;
+}
+
+.list-group-item.active {
+    background-color: #de7722;
+    color: #fff;
+    border-color: transparent;
+    font-weight: bold !important;
+    transition: 300ms;
+}
+
+.personal_photo {
+    padding: 40px;
+}
+
+.cuadro-gris {
+    background-color: #333;
+}
+
+.u-ns-bg-v1-top.g-bg-primary::before, .g-parent.g-bg-primary .u-ns-bg-v1-top::before {
+    border-bottom-color: #555;
+}
+
+.button-dark {
+    background-color: transparent;
+    padding: 3px 10px 3px 10px;
+    border: 2px solid #888;
+    transition: 500ms;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.dark-item {
+    color: #999;
+}
+
+.onoffswitch {
+    position: relative; width: 65px;
+    -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
+    margin-top: 6px;
+}
+.onoffswitch-checkbox {
+    display: none;
+}
+.onoffswitch-label {
+    display: block; overflow: hidden; cursor: pointer;
+    border: 2px solid #999999; border-radius: 20px;
+}
+.onoffswitch-inner {
+    display: block; width: 200%; margin-left: -100%;
+    transition: margin 0.3s ease-in 0s;
+}
+.onoffswitch-inner:before, .onoffswitch-inner:after {
+    display: block; float: left; width: 50%; height: 20px; padding: 0; line-height: 20px;
+    font-size: 12px; color: white; font-family: Trebuchet, Arial, sans-serif; font-weight: bold;
+    box-sizing: border-box;
+}
+.onoffswitch-inner:before {
+    content: " Dark ";
+    padding-left: 10px;
+    background-color: #111; color: #EEE;
+}
+.onoffswitch-inner:after {
+    content: " Light ";
+    padding-right: 10px;
+    background-color: #EEE; color: #111;
+    text-align: right;
+}
+.onoffswitch-switch {
+    display: block; width: 14px; height: 14px; margin: 5px;
+    background: #FFFFFF;
+    position: absolute; top: 0; bottom: 0;
+    right: 41px;
+    border: 2px solid #999999; border-radius: 20px;
+    transition: all 0.3s ease-in 0s; 
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-inner {
+    margin-left: 0;
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-switch {
+    right: 0px; 
+}
+
+.form-control {
+    color: #999 !important;
+}
+
+.fondo-hover:hover {
+    background-color: #555;
+}
+
+.borde-fondo {
+    border: 2px solid rgba(158,158,158,.8);
+    border-radius: 10px;
+    background-color: transparent;
+}
+
+/* The switch - the box around the slider */
+.switch {
+  position: relative;
+  display: inline-block;
+  margin-top: 6px;
+  width: 50px;
+  height: 21px;
+}
+
+.light-button {
+    color: #fff !important;
+}
+
+.light-button:hover {
+    color: #fff !important;
+    cursor: default;
+}
+
+.dark-button {
+    color: #333 !important;
+}
+
+.dark-button:hover {
+    color: #333 !important;
+    cursor: default;
+}
+
+/* Hide default HTML checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #666;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 15px;
+  width: 15px;
+  left: 5px;
+  bottom: 3px;
+  background-color: #2D8AE4;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #ccc;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #ccc;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+@media only screen and (max-width: 600px) {
+    .list-group-item {
+        width: 100%;
+    }
+
+    .button-dark {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+}
+

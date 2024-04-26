@@ -1,0 +1,166 @@
+
+RewriteOptions inherit
+Header always set Strict-Transport-Security: "max-age=31536000" env=HTTPS
+Header always set Content-Security-Policy "upgrade-insecure-requests"
+Header always set X-XSS-Protection "0"
+Header always set X-Content-Type-Options "nosniff"
+Header always set Referrer-Policy "strict-origin-when-cross-origin"
+Header always set X-Frame-Options: "SAMEORIGIN"
+Header always set Permissions-Policy: "" 
+
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+Header set X-Content-Type-Options nosniff
+Header Set Strict-Transport-Security: max-age=10886400;
+## EXPIRES CACHING ##
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType image/jpg "access 1 year"
+ExpiresByType image/jpeg "access 1 year"
+ExpiresByType image/gif "access 1 year"
+ExpiresByType image/png "access 1 year"
+ExpiresByType text/css "access 1 month"
+ExpiresByType application/pdf "access 1 month"
+ExpiresByType application/javascript "access 1 month"
+ExpiresByType application/x-javascript "access 1 month"
+ExpiresByType application/x-shockwave-flash "access 1 month"
+ExpiresByType image/x-icon "access 1 year"
+ExpiresDefault "access 2 days"
+</IfModule>
+
+<IfModule mod_deflate.c> 
+# Filtramos los tipos de contenido 
+AddOutputFilterByType DEFLATE text/plain 
+AddOutputFilterByType DEFLATE text/html 
+AddOutputFilterByType DEFLATE text/xml 
+AddOutputFilterByType DEFLATE text/css 
+AddOutputFilterByType DEFLATE application/xml 
+AddOutputFilterByType DEFLATE application/xhtml+xml 
+AddOutputFilterByType DEFLATE application/rss+xml 
+AddOutputFilterByType DEFLATE application/javascript 
+AddOutputFilterByType DEFLATE application/x-javascript 
+AddOutputFilterByType DEFLATE application/x-httpd-php 
+AddOutputFilterByType DEFLATE application/x-httpd-fastphp 
+AddOutputFilterByType DEFLATE image/svg+xml 
+
+# Quitamos los navegadores que dan problemas con GZIP 
+BrowserMatch ^Mozilla/4 gzip-only-text/html 
+BrowserMatch ^Mozilla/4\.0[678] no-gzip 
+BrowserMatch \bMSI[E] !no-gzip !gzip-only-text/html 
+
+# Nos aseguramos de que los Proxy no muestren contenido equivocado 
+Header append Vary User-Agent env=!dont-vary 
+</IfModule>
+
+## EXPIRES CACHING
+
+RewriteCond %{HTTP_REFERER} !^http://civiscausa.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://civiscausa.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://civiscausa.org/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://civiscausa.org$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://ecm-creatik.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://ecm-creatik.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://ecm-creatik.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://ecm-creatik.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://marketing-standard.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://marketing-standard.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://marketing-standard.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://marketing-standard.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://marketingstandard.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://marketingstandard.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://marketingstandard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://marketingstandard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://qualitasplaza.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://qualitasplaza.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://qualitasplaza.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://qualitasplaza.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://republicaoficialdevenezuela.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://republicaoficialdevenezuela.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://republicaoficialdevenezuela.org/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://republicaoficialdevenezuela.org$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.civiscausa.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.civiscausa.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.civiscausa.org/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.civiscausa.org$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.ecm-creatik.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.ecm-creatik.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.ecm-creatik.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.ecm-creatik.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.marketing-standard.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.marketing-standard.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.marketing-standard.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.marketing-standard.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.marketingstandard.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.marketingstandard.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.marketingstandard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.marketingstandard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.qualitasplaza.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.qualitasplaza.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.qualitasplaza.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.qualitasplaza.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.republicaoficialdevenezuela.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.republicaoficialdevenezuela.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.republicaoficialdevenezuela.org/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.republicaoficialdevenezuela.org$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://civiscausa.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://civiscausa.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://civiscausa.org/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://civiscausa.org$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://ecm-creatik.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://ecm-creatik.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://ecm-creatik.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://ecm-creatik.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://marketing-standard.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://marketing-standard.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://marketing-standard.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://marketing-standard.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://marketingstandard.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://marketingstandard.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://marketingstandard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://marketingstandard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://qualitasplaza.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://qualitasplaza.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://qualitasplaza.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://qualitasplaza.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://republicaoficialdevenezuela.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://republicaoficialdevenezuela.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://republicaoficialdevenezuela.org/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://republicaoficialdevenezuela.org$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.civiscausa.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.civiscausa.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.civiscausa.org/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.civiscausa.org$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.ecm-creatik.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.ecm-creatik.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.ecm-creatik.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.ecm-creatik.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.marketing-standard.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.marketing-standard.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.marketing-standard.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.marketing-standard.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.marketingstandard.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.marketingstandard.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.marketingstandard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.marketingstandard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.qualitasplaza.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.qualitasplaza.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.qualitasplaza.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.qualitasplaza.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.republicaoficialdevenezuela.marketing-standard.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.republicaoficialdevenezuela.marketing-standard.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.republicaoficialdevenezuela.org/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.republicaoficialdevenezuela.org$      [NC]
+RewriteRule .*\.(jpg|jpeg|gif|png|bmp)$ - [F,NC]
+RewriteCond %{HTTP_HOST} ^qualitasplaza\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.qualitasplaza\.com$
+RewriteRule ^(.*)$ "https\:\/\/www\.qualitasplaza\.com\/$1" [R=301,L]
