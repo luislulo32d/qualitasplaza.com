@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 
 <head>
   <!-- Title -->
-  <title>Qualitas Plaza - Página no encontrada</title>
-  <link rel="canonical" href="https://qualitasplaza.com/404.html">
+  <title>Qualitas Plaza - Page not found</title>
+  <link rel="canonical" href="https://qualitasplaza.com/404_en.html">
 
   <!-- Required Meta Tags Always Come First -->
   <meta charset="utf-8">
@@ -28,7 +28,7 @@
   <link rel="stylesheet" href="assets/vendor/dzsparallaxer/advancedscroller/plugin.css">
   <link rel="stylesheet" href="assets/vendor/animate.css">
   <link rel="stylesheet" href="assets/vendor/fancybox/jquery.fancybox.min.css">
-  <link rel="stylesheet" href="assets/vendor/slick-carousel/slick/slick.css"> 
+  <link rel="stylesheet" href="assets/vendor/slick-carousel/slick/slick.css">
   <link rel="stylesheet" href="assets/vendor/typedjs/typed.css">
   <link rel="stylesheet" href="assets/vendor/hs-megamenu/src/hs.megamenu.css">
   <link rel="stylesheet" href="assets/vendor/hamburgers/hamburgers.min.css">
@@ -51,147 +51,18 @@
 <body>
   <main>
     <!-- Header -->
-    <header id="js-header" class="u-header u-header--static">
-      <div class="u-header__section u-header__section--light g-transition-0_3 g-py-10">
-        <nav class="js-mega-menu navbar navbar-expand-lg hs-menu-initialized hs-menu-horizontal">
-          <div class="container no-margin">
-            <!-- Responsive Toggle Button -->
-            <button class="navbar-toggler navbar-toggler-right btn g-line-height-1 g-brd-none g-pa-0 g-pos-abs g-top-minus-3 g-right-0" type="button" aria-label="Toggle navigation" aria-expanded="false" data-toggle="collapse" data-target="#navBar">
-              <span class="hamburger hamburger--slider">
-            <span class="hamburger-box">
-              <span class="hamburger-inner"></span>
-              </span>
-              </span>
-            </button>
-            <!-- End Responsive Toggle Button -->
-
-            <!-- Logo -->
-            <a href="index.html">
-              <img src="assets/img-temp/qualitasplaza.png" alt="qualitas plaza header" width="180" style="margin-right: 80px;">
-            </a>
-            <!-- End Logo -->
-
-            <!-- Navigation -->
-            
-            <div class="collapse navbar-collapse align-items-center flex-sm-row g-pt-10 g-pt-5--lg" id="navBar">
-              
-              <ul class="navbar-nav text-uppercase g-pos-rel g-font-weight-600 ml-auto">
-                <li>
-                  <a class="nav-link light-button"> Light </a>
-                </li>
-                <!-- Dark skin -->
-                <label class="switch">
-                  <input type="checkbox">
-                  <span class="slider round" id="change-theme-btn"></span>
-                </label>
-                <!-- End Dark skin -->
-                <li>
-                  <a class="nav-link dark-button"> Dark </a>
-                </li>
-              </ul>
-              <ul class="navbar-nav text-uppercase g-pos-rel g-font-weight-600 ml-auto">
-                <!-- Intro -->
-                <li class="nav-item  g-mx-10--lg g-mx-15--xl">
-                  <a href="index.html" class="nav-link g-py-7 g-px-0">Inicio</a>
-                </li>
-                <!-- End Intro -->
-
-                <!-- Nosotros -->
-                <li class="nav-item  g-mx-10--lg g-mx-15--xl">
-                  <a href="nosotros.html" class="nav-link g-py-7 g-px-0">Nosotros</a>
-                </li>
-                <!-- End Nosotros -->
-
-                <!-- Servicios -->
-                <li class="nav-item  g-mx-10--lg g-mx-15--xl">
-                  <a href="servicios.html" class="nav-link g-py-7 g-px-0">Servicios</a>
-                </li>
-                <!-- End Servicios -->
-
-                <!-- Planes -->
-                <li class="nav-item  g-mx-10--lg g-mx-15--xl">
-                  <a href="planes.html" class="nav-link g-py-7 g-px-0">Planes</a>
-                </li>
-                <!-- End Planes -->
-
-                <!-- Contacto -->
-                <li class="nav-item  g-mx-10--lg g-mx-15--xl">
-                  <a href="soporte.html" class="nav-link g-py-7 g-px-0">Soporte</a>
-                </li>
-                <!-- End Contacto -->
-              </ul>
-            </div>
-            <!-- End Navigation -->
-
-            <div class="collapse navbar-collapse align-items-center flex-sm-row g-pt-10 g-pt-5--lg" id="navBar">
-              <ul class="navbar-nav text-uppercase g-pos-rel g-font-weight-600 ml-auto">
-                  <!-- Home -->
-                  <li class="hs-has-mega-menu nav-item active g-mx-10--lg g-mx-15--xl" data-animation-in="fadeIn" data-animation-out="fadeOut" data-max-width="100%" data-position="right">
-                    <a id="mega-menu-home" class="nav-link g-py-7 g-px-0" href="#!" aria-haspopup="true" aria-expanded="false">Cuenta <i class="icon-user"></i>
-                    <i class="hs-icon hs-icon-arrow-bottom g-font-size-11 g-ml-7"></i></a>
-
-                    <!-- Mega Menu -->
-                    <div class="w-100 hs-mega-menu u-shadow-v11 font-weight-normal g-brd-top g-brd-primary g-brd-top-2 g-color-gray-dark-v2 g-mt-18 g-mt-8--lg--scrolling" aria-labelledby="mega-menu-home">
-                      <div class="row align-items-stretch no-gutters">
-                        <!-- Home (col) -->
-                        <div class="col-lg-12">
-                          <ul class="list-unstyled">
-                            <li class="dropdown-item">
-                              <a href="index.html" class="nav-link g-py-7 g-px-0">Iniciar sesión</a>
-                            </li>
-                            <li class="dropdown-item">
-                              <a href="index.html" class="nav-link g-py-7 g-px-0">Registrarse</a>
-                            </li>
-                          </ul>
-                        </div>
-                        <!-- End Home (col) -->
-                      </div>
-                    </div>
-                  </li>
-                </ul>
-              </div>
-
-            <!-- Navigation -->
-            <div class="collapse navbar-collapse align-items-center flex-sm-row g-pt-10 g-pt-5--lg" id="navBar">
-              <ul class="navbar-nav text-uppercase g-pos-rel g-font-weight-600 ml-auto">
-                <!-- Home -->
-                <li class="hs-has-mega-menu nav-item active g-mx-10--lg g-mx-15--xl" data-animation-in="fadeIn" data-animation-out="fadeOut" data-max-width="100%" data-position="right">
-                  <a id="mega-menu-home" class="nav-link g-py-7 g-px-0" href="#!" aria-haspopup="true" aria-expanded="false"><img src="assets/img-temp/spanish.png" width="30px">
-                  <i class="hs-icon hs-icon-arrow-bottom g-font-size-11 g-ml-7"></i></a>
-
-                  <!-- Mega Menu -->
-                  <div class="w-100 hs-mega-menu u-shadow-v11 font-weight-normal g-brd-top g-brd-primary g-brd-top-2 g-bg-white g-mt-18 g-mt-8--lg--scrolling" aria-labelledby="mega-menu-home">
-                    <div class="row align-items-stretch no-gutters">
-                      <!-- Home (col) -->
-                      <div class="col-lg-12">
-                        <ul class="list-unstyled">
-                          <li class="dropdown-item active">
-                            <a href="index.html" class="nav-link"><img src="assets/img-temp/spanish.png" width="30px"></a>
-                          </li>
-                          <li class="dropdown-item ">
-                            <a href="index_en.html" class="nav-link"><img src="assets/img-temp/english.png" width="30px"></a>
-                          </li>
-                        </ul>
-                      </div>
-                      <!-- End Home (col) -->
-                    </div>
-                  </div>
-                </li>
-              </ul>
-            </div>
-            <!-- End Navigation -->
-          </div>
-        </nav>
-      </div>
-    </header>
+      <?php
+        include_once 'includes/header_en.php'
+      ?>
     <!-- End Header -->
+
       <body class="g-bg-gray-dark-v1 g-color-white">
         <main class="g-height-100x g-min-height-100vh g-flex-centered g-pa-15">
           <div class="text-center g-flex-centered-item g-position-rel">
             <div class="g-font-size-180 g-font-size-240--sm g-font-size-420--lg g-line-height-1 g-font-weight-200 g-color-gray-dark-v2">404</div>
 
             <div class="g-absolute-centered">
-              <h1 class="g-font-weight-200 g-mb-20">Página&nbsp;No&nbsp;Encontrada</h1>
+              <h1 class="g-font-weight-200 g-mb-20">Page&nbsp;Not&nbsp;Found</h1>
               <p class="g-color-white-opacity-0_6 g-font-size-18">Oops! Looks like you followed a&nbsp;bad&nbsp;link.</p>
               <p class="g-color-white-opacity-0_6 g-font-size-18">If you think this is a problem with us, please&nbsp;<a href="#!" class="g-color-white g-color-primary--hover g-text-no-underline--hover">tell us</a>.</p>
               <p class="g-color-white-opacity-0_6 g-font-size-18 mb-0">Here is a link to the <a href="#!" class="g-color-white g-color-primary--hover g-text-no-underline--hover">home page</a>.</p>
@@ -208,31 +79,31 @@
                   <!-- Footer Content -->
                   <div class="col-lg-3 col-md-6 g-mb-40 g-mb-0--lg">
                     <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
-                      <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Quienes somos</h2>
+                      <h2 class="u-heading-v2__title h6 text-uppercase mb-0">About us</h2>
                     </div>
 
                     <div class="g-mb-30">
-                      <p>Qualitas Plaza es una herramienta para mejorar las ventas, aumentar la satisfacción y fidelización.</p>
+                      <p>Qualitas Plaza is a tool to improve sales, increase satisfaction and loyalty.</p>
                     </div>
 
                     <address class="mb-0">
                       <div class="g-mb-30">
-                        <h4 class="h6 g-font-weight-600">Dirección</h4>
+                        <h4 class="h6 g-font-weight-600">Address</h4>
                         <p class="mb-0">Calle Dec. Antonio Zedano, 3 Portal 2 Ofic. 14, 29620 Torremolinos. España.</p>
                       </div>
 
                       <div class="g-mb-30">
-                        <h4 class="h6 g-font-weight-600">Teléfono</h4>
+                        <h4 class="h6 g-font-weight-600">Phone</h4>
                         <p class="g-mb-10">(+34) 951 23 9395</p>
                       </div>
 
                       <div class="mb-0">
                         <h4 class="h6 g-font-weight-600">Email</h4>
-                        <p class="mb-0">Latinoamérica y Estados Unidos:
-                          <a class="g-color-white-opacity-0_8">am@qualitasplaza.com</a>
+                        <p class="mb-0">Latin America and United States:
+                          <a class="g-color-white-opacity-0_8" href="#!">am@qualitasplaza.com</a>
                         </p>
-                        <p class="mb-0">Europa y resto del Mundo:
-                          <a class="g-color-white-opacity-0_8">info@qualitasplaza.com</a>
+                        <p class="mb-0">Europe and rest of the world:
+                          <a class="g-color-white-opacity-0_8" href="#!">info@qualitasplaza.com</a>
                         </p>
                       </div>
                     </address>
@@ -242,42 +113,42 @@
                   <!-- Footer Content -->
                   <div class="col-lg-3 col-md-6 g-mb-40 g-mb-0--lg">
                     <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
-                      <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Secciones</h2>
+                      <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Sections</h2>
                     </div>
 
                     <ul class="list-unstyled">
                       <li class="g-mb-5">
                         <i class="fa fa-angle-right g-mr-5"></i>
-                        <a class="g-color-white-opacity-0_8" href="servicios.html">Servicios</a>
+                        <a class="g-color-white-opacity-0_8" href="services.html">Services</a>
                       </li>
                       <li class="g-mb-5">
                         <i class="fa fa-angle-right g-mr-5"></i>
-                        <a class="g-color-white-opacity-0_8" href="instituto.html">Instituto</a>
+                        <a class="g-color-white-opacity-0_8" href="institute.html">Institute</a>
                       </li>
                       <li class="g-mb-5">
                         <i class="fa fa-angle-right g-mr-5"></i>
-                        <a class="g-color-white-opacity-0_8" href="planes.html">Planes</a>
+                        <a class="g-color-white-opacity-0_8" href="plans.html">Plans</a>
                       </li>
                     </ul>
 
                     <br>
 
                     <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
-                      <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Guía de compras</h2>
+                      <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Shopping guide</h2>
                     </div>
 
                     <ul class="list-unstyled">
                       <li class="g-mb-5">
                         <i class="fa fa-angle-right g-mr-5"></i>
-                        <a class="g-color-white-opacity-0_8" href="preguntas.html">Preguntas frecuentes</a>
+                        <a class="g-color-white-opacity-0_8" href="questions.html">Frequently Asked Questions</a>
                       </li>
                       <li class="g-mb-5">
                         <i class="fa fa-angle-right g-mr-5"></i>
-                        <a class="g-color-white-opacity-0_8" href="politicas.html">Política de privacidad</a>
+                        <a class="g-color-white-opacity-0_8" href="policy.html">Privacy Policy</a>
                       </li>
                       <li class="g-mb-5">
                         <i class="fa fa-angle-right g-mr-5"></i>
-                        <a class="g-color-white-opacity-0_8" href="terminos.html">Términos y condiciones</a>
+                        <a class="g-color-white-opacity-0_8" href="terms.html">Terms and Conditions</a>
                       </li>
                     </ul>
                   </div>
@@ -286,25 +157,25 @@
                   <!-- Footer Content -->
                   <div class="col-lg-3 col-md-6 g-mb-40 g-mb-0--lg">
                     <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
-                      <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Cadena de valor</h2>
+                      <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Value chain</h2>
                     </div>
 
                     <ul class="list-unstyled">
                       <li class="g-mb-5">
                         <i class="fa fa-angle-right g-mr-5"></i>
-                        <a class="g-color-white-opacity-0_8" href="partners.html">Partners</a>
+                        <a class="g-color-white-opacity-0_8" href="partners2.html">Partners</a>
                       </li>
                       <li class="g-mb-5">
                         <i class="fa fa-angle-right g-mr-5"></i>
-                        <a class="g-color-white-opacity-0_8" href="programadores.html">Programadores</a>
+                        <a class="g-color-white-opacity-0_8" href="programmers.html">Programmers</a>
                       </li>
                       <li class="g-mb-5">
                         <i class="fa fa-angle-right g-mr-5"></i>
-                        <a class="g-color-white-opacity-0_8" href="agencias.html">Agencias</a>
+                        <a class="g-color-white-opacity-0_8" href="agencies.html">Agencies</a>
                       </li>
                       <li class="g-mb-5">
                         <i class="fa fa-angle-right g-mr-5"></i>
-                        <a class="g-color-white-opacity-0_8" href="freelancers.html">Freelancers</a>
+                        <a class="g-color-white-opacity-0_8" href="freelancers2.html">Freelancers</a>
                       </li>
                     </ul>
                   </div>
@@ -313,24 +184,24 @@
                   <!-- Footer Content -->
                   <div class="col-lg-3 col-md-6">
                     <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
-                      <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Boletín</h2>
+                      <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Bulletin</h2>
                     </div>
 
                     <div class="g-mb-30">
-                      <p>¡Suscríbete a nuestro boletín y mantente al día con las últimas noticias y ofertas!</p>
+                      <p>Subscribe to our newsletter and stay up to date with the latest news and offers!</p>
                       <div class="input-group border-0 g-rounded-30">
                         <input class="form-control border-0 g-rounded-left-30 g-px-12 g-py-8" type="email" placeholder="Email">
                         <div class="input-group-addon border-0 p-0">
-                          <button class="btn u-btn-primary g-rounded-right-30 g-px-12 g-py-8" type="submit" role="button">Suscribirse</button>
+                          <button class="btn u-btn-primary g-rounded-right-30 g-px-12 g-py-8" type="submit" role="button">Subscribe</button>
                         </div>
                       </div>
                     </div>
 
                     <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
-                      <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Síguenos en nuestras redes</h2>
+                      <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Follow us</h2>
                     </div>
 
-                    <p>Síguenos si desea mantenerse al día sobre lo que está sucediendo, minuto a minuto.</p>
+                    <p>Follow us if you want to stay up to date on what is happening.</p>
                     <ul class="list-inline mb-0">
                       <li class="list-inline-item g-mr-10">
                         <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-white-opacity-0_2--hover g-color-white-opacity-0_6 rounded" href="https://www.facebook.com/qualitasplaza/" target="_blank">
@@ -356,7 +227,7 @@
               <!-- Copyright Footer -->
               <div class="g-bg-black-opacity-0_1 g-color-white-opacity-0_8 text-center g-py-20">
                 <div class="container">
-                  <small class="g-font-size-default g-mr-10 g-mb-10 g-mb-0--md">2022 &copy; Todos los derechos reservados.
+                  <small class="g-font-size-default g-mr-10 g-mb-10 g-mb-0--md">2022 &copy; All Rights Reserved.
                   </small>
                 </div>
               </div>
