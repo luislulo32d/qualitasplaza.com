@@ -4,8 +4,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <!-- Title -->
-  <title>Qualitas Plaza - Programa Partners</title>
-  <link rel="canonical" href="https://qualitasplaza.com/partners.html">
+  <title>Agencias</title>
+  <link rel="canonical" href="https://qualitasplaza.com/agencias.html">
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-68921505-1"></script>
   <script>
@@ -24,7 +24,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="description"
-    content="Compromiso de tu plataforma con garantía de prestación de servicio. Permite a las plataformas de tus clientes garantizar la ejecución de estándares web.">
+    content="Apoyo para agencias de publicidad, empresa digital y consultores. Ideal para emprendedores permitiendo mayores ventas al asegurar la calidad de servicios.">
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="assets/img-temp/favicon.png">
@@ -101,19 +101,19 @@
                 <fieldset>
 
                   <!-- Form Name -->
-                  <legend>Registro de partner</legend>
+                  <legend>Registro de agencia</legend>
                   <p class="agile-form-description"></p>
                   <div style="display: none; height: 0px; width: 0px;">
-                    <input type="hidden" id="_agile_form_name" name="_agile_form_name" value="Registro de partner">
+                    <input type="hidden" id="_agile_form_name" name="_agile_form_name" value="Registro de agencia">
                     <input type="hidden" id="_agile_domain" name="_agile_domain" value="qualitasplaza">
                     <input type="hidden" id="_agile_api" name="_agile_api" value="4cfvjhag0ln8k6pkbrh4im157l">
                     <input type="hidden" id="_agile_redirect_url" name="_agile_redirect_url"
-                      value="https://qualitasplaza.com/gracias.html">
+                      value="https://qualitasplaza.com/gracias-confirmacion.html">
                     <input type="hidden" id="_agile_document_url" name="_agile_document_url" value="">
                     <input type="hidden" id="_agile_confirmation_msg" name="_agile_confirmation_msg" value="">
-                    <input type="hidden" id="_agile_form_id_tags" name="tags" value="partner">
+                    <input type="hidden" id="_agile_form_id_tags" name="tags" value="agencia">
 
-                    <input type="hidden" id="_agile_form_id" name="_agile_form_id" value="5739111277133824">
+                    <input type="hidden" id="_agile_form_id" name="_agile_form_id" value="5701746336727040">
                   </div>
                   <!-- Text input-->
                   <div class="agile-group required-control">
@@ -136,21 +136,22 @@
                     <div class="agile-custom-clear"></div>
                   </div>
                   <!-- Prepended text-->
-                  <div class="agile-group required-control">
-                    <label class="agile-label" for="agilefield-3">Sitio web 1<span class="agile-span-asterisk">
-                        *</span></label>
+                  <div class="agile-group">
+                    <label class="agile-label" for="agilefield-5">Sitio web 3</label>
                     <div class="agile-field-xlarge agile-field">
                       <div class="agile-input-group">
                         <span class="agile-group-addon">Sitio web*</span>
-                        <input maxlength="250" id="agilefield-3" name="website"
-                          class="agile-field-xlarge agile-height-default" placeholder="http://" type="text" required="">
+                        <input maxlength="250" id="agilefield-5" name="note"
+                          class="agile-field-xlarge agile-height-default" placeholder="http://" type="text">
                       </div>
                     </div>
                     <div class="agile-custom-clear"></div>
                   </div>
                   <div class="agile-group">
                     <p class="agile-text-element" style="text-align:left ;font-size:11px ">*Podrás agregar más sitios
-                      web una vez que ingreses al programa.</p>
+                      web una vez que ingreses al programa.
+
+                    </p>
                   </div>
 
 
@@ -179,6 +180,7 @@
                 (function (a) { var b = a.onload, p = false; isCaptcha = true; if (p) { a.onload = "function" != typeof b ? function () { try { _agile_load_form_fields() } catch (a) { } } : function () { b(); try { _agile_load_form_fields() } catch (a) { } } }; var formLen = document.forms.length; for (i = 0; i < formLen; i++) { if (document.forms.item(i).getAttribute("id") == "agile-form") { a.document.forms.item(i).onsubmit = function (a) { a.preventDefault(); try { _agile_synch_form_v5(this) } catch (b) { this.submit() } } } } })(window);
               </script>
 
+
               <!-- End Promo Block - Form -->
             </div>
           </div>
@@ -193,7 +195,7 @@
           <div class="col-lg-7">
             <!-- Heading -->
             <div class="text-center">
-              <h2 class="h3 text-uppercase mb-2">Contenido del programa partner.</h2>
+              <h2 class="h3 text-uppercase mb-2">Contenido del programa.</h2>
               <div class="d-inline-block g-width-35 g-height-2 g-bg-primary mb-2"></div>
               <p class="mb-0">¿Qué obtienes?</p>
             </div>
@@ -218,11 +220,9 @@
             </div>
             <h3 class="g-color-primary g-font-weight-600 g-font-size-17 text-uppercase mb-3">
               <span class="g-font-weight-700">01.</span>
-              PLAN NEGOCIOS
+              DEMO SIN COSTE
             </h3>
-            <p>- Diagnóstico y sello de validación.</p>
-            <p>- Módulos calidad web / e-commerce.</p>
-            <p>- Consulta en permanencia.</p>
+            <p>Módulos de control y supervisión de la experiencia online para tus clientes.</p>
           </div>
           <!-- End Icon Blocks -->
         </li>
@@ -245,9 +245,7 @@
               <span class="g-font-weight-700">02.</span>
               LICENCIA
             </h3>
-            <p>- Descuentos en planes
-              por cantidad.</p>
-            <p>- Demos con panel de seguimiento.</p>
+            <p>Demo para cada cliente por 14 días y Sello de validación de ventas online.</p>
           </div>
           <!-- End Icon Blocks -->
         </li>
@@ -270,26 +268,21 @@
               <span class="g-font-weight-700">03.</span>
               Programa Afiliados
             </h3>
-            <p>- Demos o planes por cantidad.</p>
-            <p>- Recibe un 20% de comisión o regala un 20% de descuento para tu red.</p>
+            <p>20% de comisión o descuento y muchas más ventajas para tu red.</p>
           </div>
           <!-- End Icon Blocks -->
         </li>
       </ul>
-
       <div class="shortcode-html g-mt-50">
         <div class="row">
           <div class="col-md-6">
             <div class="u-heading-v2-3--bottom g-brd-primary g-mb-30">
-              <h1 class="h3 text-uppercase g-font-weight-300 u-heading-v2__title">Con este convenio obtienes una
-                licencia con servicios especiales que podrás otorgar a tus clientes.
+              <h1 class="h3 text-uppercase g-font-weight-300 u-heading-v2__title">ESPECIAL PARA EMPRESAS DIGITALES,
+                AGENCIAS DE PUBLICIDAD Y CONSULTORES.
               </h1>
             </div>
-            <p class="lead"><strong>Para tu plataforma: </strong>Genera valor y compromiso empresarial respaldado con
-              una garantía real de prestación de servicio.
-            </p>
-            <p class="lead"><strong>Para tus clientes: </strong>Permite que sus plataformas web puedan garantizar el
-              cumplimiento de estándares y buenas prácticas.
+            <p class="lead">También ideal para emprendedores y consultores ya que facilita la contratación y permite
+              mayores ventas al asegurar la calidad de sus servicios en la entrega.
             </p>
           </div>
 
@@ -300,6 +293,7 @@
           </div>
         </div>
       </div>
+
 
       <div class="shortcode-html">
         <header class="text-center g-mb-60 g-mt-70">
@@ -313,9 +307,9 @@
           <div class="col-lg-4 g-mb-30">
             <!-- Icon Blocks -->
             <div class="text-center u-icon-block--hover">
-              <img class="u-image-icon-size-2xl rounded-circle g-mb-25" src="assets/img/icons/set-1/01.png"
+              <img class="u-image-icon-size-2xl rounded-circle g-mb-25" src="../../assets/img/icons/set-1/01.png"
                 alt="Image Description">
-              <h3 class="h5 mb-3">Validar clientes y plataformas web del cluster.</h3>
+              <h3 class="h5 mb-3">Valida clientes y plataformas web de tu cluster.</h3>
             </div>
             <!-- End Icon Blocks -->
           </div>
@@ -323,9 +317,9 @@
           <div class="col-lg-4 g-mb-30">
             <!-- Icon Blocks -->
             <div class="text-center u-icon-block--hover">
-              <img class="u-image-icon-size-2xl rounded-circle g-mb-25" src="assets/img/icons/set-1/02.png"
+              <img class="u-image-icon-size-2xl rounded-circle g-mb-25" src="../../assets/img/icons/set-1/02.png"
                 alt="Image Description">
-              <h3 class="h5 mb-3">Comprueba y asegura mayor calidad para los negocios de los clientes.</h3>
+              <h3 class="h5 mb-3">Mejora los resultados comerciales de tus clientes.</h3>
             </div>
             <!-- End Icon Blocks -->
           </div>
@@ -333,9 +327,9 @@
           <div class="col-lg-4 g-mb-30">
             <!-- Icon Blocks -->
             <div class="text-center u-icon-block--hover">
-              <img class="u-image-icon-size-2xl rounded-circle g-mb-25" src="assets/img/icons/set-1/03.png"
+              <img class="u-image-icon-size-2xl rounded-circle g-mb-25" src="../../assets/img/icons/set-1/03.png"
                 alt="Image Description">
-              <h3 class="h5 mb-3">Fidelización genuina! Refuerza los lazos con clientes reales y potenciales.</h3>
+              <h3 class="h5 mb-3">Comprueba y asegura una mayor calidad para tus proyectos.</h3>
             </div>
             <!-- End Icon Blocks -->
           </div>
@@ -347,9 +341,9 @@
           <div class="col-lg-4 g-mb-30">
             <!-- Icon Blocks -->
             <div class="text-center u-icon-block--hover">
-              <img class="u-image-icon-size-2xl rounded-circle g-mb-25" src="assets/img/icons/set-1/04.png"
+              <img class="u-image-icon-size-2xl rounded-circle g-mb-25" src="../../assets/img/icons/set-1/04.png"
                 alt="Image Description">
-              <h3 class="h5 mb-3">Miembros del cluster: 20% de comisión por facturación o 20% de descuento.</h3>
+              <h3 class="h5 mb-3">Fidelización genuina! Refuerza los lazos con clientes reales y potenciales.</h3>
             </div>
             <!-- End Icon Blocks -->
           </div>
@@ -357,9 +351,9 @@
           <div class="col-lg-4 g-mb-30">
             <!-- Icon Blocks -->
             <div class="text-center u-icon-block--hover">
-              <img class="u-image-icon-size-2xl rounded-circle g-mb-25" src="assets/img/icons/set-1/05.png"
+              <img class="u-image-icon-size-2xl rounded-circle g-mb-25" src="../../assets/img/icons/set-1/05.png"
                 alt="Image Description">
-              <h3 class="h5 mb-3">Reitera el compromiso de calidad.</h3>
+              <h3 class="h5 mb-3">Garantiza imparcialidad con una empresa externa e independiente.</h3>
             </div>
             <!-- End Icon Blocks -->
           </div>
@@ -367,9 +361,9 @@
           <div class="col-lg-4 g-mb-30">
             <!-- Icon Blocks -->
             <div class="text-center u-icon-block--hover">
-              <img class="u-image-icon-size-2xl rounded-circle g-mb-25" src="assets/img/icons/set-1/06.png"
+              <img class="u-image-icon-size-2xl rounded-circle g-mb-25" src="../../assets/img/icons/set-1/06.png"
                 alt="Image Description">
-              <h3 class="h5 mb-3">Democratiza el acceso a los estándares de la industria digital.</h3>
+              <h3 class="h5 mb-3">Diferenciación: gana clientes con presupuestos robustos.</h3>
             </div>
             <!-- End Icon Blocks -->
           </div>
@@ -384,7 +378,7 @@
             <div class="text-center">
               <h2 class="h3 text-uppercase mb-2">Beneficios.</h2>
               <div class="d-inline-block g-width-35 g-height-2 g-bg-primary mb-2"></div>
-              <p class="mb-0">El acuerdo exclusivo para partners incluye:</p>
+              <p class="mb-0">El acuerdo exclusivo para agencias incluye:</p>
             </div>
             <!-- End Heading -->
           </div>
@@ -445,7 +439,6 @@
       <!-- Icon Blocks -->
       <!-- End Icon Blocks -->
     </div>
-
     <div class="modal fade" id="myModal1-12" tabindex="-1" role="dialog" aria-labelledby="myModal">
       <div class="modal-dialog" role="document">
         <div class="modal-content">
@@ -532,9 +525,9 @@
     <!-- End Promo Block -->
     <div class="shortcode-html">
       <!-- Footer -->
-     <?php
+      <?php
         include_once 'includes/footer.php'
-     ?>
+      ?>
       <!-- End Footer -->
     </div>
 
