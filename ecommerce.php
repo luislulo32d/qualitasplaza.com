@@ -5,7 +5,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <!-- Title -->
   <title>Qualitas Plaza - Ecommerce</title>
-  <link rel="canonical" href="https://qualitasplaza.com/ecommerce.html">
+  <link rel="canonical" href="https://qualitasplaza.com/ecommerce.php">
   <!-- Start of helloqp Zendesk Widget script -->
   <script id="ze-snippet"
     src="https://static.zdassets.com/ekr/snippet.js?key=718eec9e-4bf9-4d9a-9775-d92d68b12a06"> </script>

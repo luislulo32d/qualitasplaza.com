@@ -4,7 +4,7 @@
 <head>
   <!-- Title -->
   <title>Qualitas Plaza - Support</title>
-  <link rel="canonical" href="https://qualitasplaza.com/support.html">
+  <link rel="canonical" href="https://qualitasplaza.com/support.php">
   <!-- Start of qualitasplaza Zendesk Widget script -->
   <script id="ze-snippet"
     src="https://static.zdassets.com/ekr/snippet.js?key=b101c333-0722-41b0-829c-06046bdf8609"> </script>

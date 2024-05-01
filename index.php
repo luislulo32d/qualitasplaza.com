@@ -5,7 +5,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <!-- Title -->
   <title>Qualitas Plaza - Inicio - Supervisa la Experiencia de Cliente (CX)</title>
-  <link rel="canonical" href="http://qualitasplaza.com/index.html" />
+  <link rel="canonical" href="http://qualitasplaza.com/index.php" />
   
   <!-- Required Meta Tags Always Come First -->
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">

@@ -4,7 +4,7 @@
 <head>
   <!-- Title -->
   <title>Qualitas Plaza - Upgrade</title>
-  <link rel="canonical" href="https://qualitasplaza.com/upgrade.html">
+  <link rel="canonical" href="https://qualitasplaza.com/upgrade.php">
 
   <!-- Required Meta Tags Always Come First -->
   <meta charset="utf-8">

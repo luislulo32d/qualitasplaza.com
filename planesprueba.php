@@ -2,7 +2,7 @@
 <html lang="es">
 
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="canonical" href="https://qualitasplaza.com/planesprueba.html">
+<link rel="canonical" href="https://qualitasplaza.com/planesprueba.php">
   <!-- Title -->
   <title>Qualitas Plaza - Planes de prueba</title>
    <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -4,7 +4,7 @@
 <head>
   <!-- Title -->
   <title>Qualitas Plaza - Standards</title>
-  <link rel="canonical" href="https://qualitasplaza.com/standards" />
+  <link rel="canonical" href="https://qualitasplaza.com/standards.php" />
 
   <!-- Required Meta Tags Always Come First -->
   <meta charset="utf-8">

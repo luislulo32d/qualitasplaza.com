@@ -5,7 +5,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!-- Title -->
   <title>Qualitas Plaza - Terminos y Condiciones</title>
-  <link rel="canonical" href="https://qualitasplaza.com/terminos.html">
+  <link rel="canonical" href="https://qualitasplaza.com/terminos.php">
 
   <!-- Required Meta Tags Always Come First -->
   

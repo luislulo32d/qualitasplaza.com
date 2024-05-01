@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <!-- Title -->
-  <link rel="canonical" href="https://qualitasplaza.com/quote-business.html">
+  <link rel="canonical" href="https://qualitasplaza.com/quote-business.php">
   <title>Qualitas Plaza - Quote business</title>
   
   <!-- Required Meta Tags Always Come First -->

@@ -4,7 +4,7 @@
 <head>
   <!-- Title -->
   <title>Qualitas Plaza - Invitation specialist</title>
-  <link rel="canonical" href="https://qualitasplaza.com/invitation-specialist.html">
+  <link rel="canonical" href="https://qualitasplaza.com/invitation-specialist.php">
 
   <!-- Required Meta Tags Always Come First -->
   <meta charset="utf-8">

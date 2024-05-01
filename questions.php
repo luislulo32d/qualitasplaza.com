@@ -4,7 +4,7 @@
 <head>
   <!-- Title -->
   <title>Qualitas Plaza - Frecuently Questions</title>
-  <link rel="canonical" href="https://qualitasplaza.com/question.html">
+  <link rel="canonical" href="https://qualitasplaza.com/question.php">
 
   <!-- Required Meta Tags Always Come First -->
   <meta charset="utf-8">

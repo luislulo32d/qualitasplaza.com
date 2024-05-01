@@ -4,7 +4,7 @@
 <head>
   <!-- Title -->
   <title>Qualitas Plaza - Update tool</title>
-  <link rel="canonical" href="https://qualitasplaza.com/update-tool.html">
+  <link rel="canonical" href="https://qualitasplaza.com/update-tool.php">
 
   <!-- Required Meta Tags Always Come First -->
   <meta charset="utf-8">

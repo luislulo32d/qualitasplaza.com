@@ -4,7 +4,7 @@
 <head>
   <!-- Title -->
   <title>Qualitas Plaza - Terms and Conditions</title>
-  <link rel="canonical" href="https://qualitasplaza.com/terms.html">
+  <link rel="canonical" href="https://qualitasplaza.com/terms.php">
 
   <!-- Required Meta Tags Always Come First -->
   <meta charset="utf-8">

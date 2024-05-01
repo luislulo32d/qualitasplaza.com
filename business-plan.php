@@ -4,7 +4,7 @@
 <head>
   <!-- Title -->
   <title>Qualitas Plaza - Business Plan</title>
-  <link rel="canonical" href="https://qualitasplaza.com/business-plan.html">
+  <link rel="canonical" href="https://qualitasplaza.com/business-plan.php">
 
   <!-- Required Meta Tags Always Come First -->
   <meta charset="utf-8">

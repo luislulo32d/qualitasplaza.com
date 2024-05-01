@@ -4,7 +4,7 @@
 <head>
   <!-- Title -->
   <title>Alerts</title>
-  <link rel="canonical" href="https://qualitasplaza.com/alerts.html">
+  <link rel="canonical" href="https://qualitasplaza.com/alerts.php">
 
   <!-- Required Meta Tags Always Come First -->
   <meta charset="utf-8">

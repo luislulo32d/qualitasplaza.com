@@ -5,7 +5,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <!-- Title -->
   <title>Qualitas Plaza - About us</title>
-  <link rel="canonical" href="https://qualitasplaza.com/about.html">
+  <link rel="canonical" href="https://qualitasplaza.com/about.php">
 
   <!-- Required Meta Tags Always Come First -->
 

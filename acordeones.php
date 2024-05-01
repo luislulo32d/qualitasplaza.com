@@ -5,7 +5,7 @@
 <head>
   <!-- Title -->
   <title>Accordions | Unify - Responsive Website Template</title>
-  <link rel="canonical" href="https://qualitasplaza.com/acordeones.html">
+  <link rel="canonical" href="https://qualitasplaza.com/acordeones.php">
 
   <!-- Required Meta Tags Always Come First -->
   <meta charset="utf-8">

@@ -4,7 +4,7 @@
 <head>
   <!-- Title -->
   <title>Qualitas Plaza - Gracias por el cuestionario</title>
-  <link rel="canonical" href="https://qualitasplaza.com/gracias-cuestionario.html">
+  <link rel="canonical" href="https://qualitasplaza.com/gracias-cuestionario.php">
   <!-- Start of helloqp Zendesk Widget script -->
   <script id="ze-snippet"
     src="https://static.zdassets.com/ekr/snippet.js?key=718eec9e-4bf9-4d9a-9775-d92d68b12a06"> </script>

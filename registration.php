@@ -4,7 +4,7 @@ ins<!DOCTYPE html>
 <head>
   <!-- Title -->
   <title>Qualitas Plaza - Registration</title>
-  <link rel="canonical" href="https://qualitasplaza.com/registration.html">
+  <link rel="canonical" href="https://qualitasplaza.com/registration.php">
 
   <!-- Required Meta Tags Always Come First -->
   <meta charset="utf-8">

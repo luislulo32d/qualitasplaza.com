@@ -4,7 +4,7 @@
 <head>
   <!-- Title -->
   <title>Qualitas Plaza - Programmers</title>
-  <link rel="canonical" href="https://qualitasplaza.com/programmers.html">
+  <link rel="canonical" href="https://qualitasplaza.com/programmers.php">
 
   <!-- Required Meta Tags Always Come First -->
   <meta charset="utf-8">

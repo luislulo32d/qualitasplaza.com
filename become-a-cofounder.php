@@ -4,7 +4,7 @@
 <head>
   <!-- Title -->
   <title>Qualitas Plaza - Become a cofounder</title>
-  <link rel="canonical" href="https://qualitasplaza.com/become-a-cofounder.html">
+  <link rel="canonical" href="https://qualitasplaza.com/become-a-cofounder.php">
 
   <!-- Required Meta Tags Always Come First -->
   <meta charset="utf-8">

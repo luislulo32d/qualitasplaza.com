@@ -4,7 +4,7 @@
 <head>
   <!-- Title -->
   <title>Qualitas Plaza - Thanks</title>
-  <link rel="canonical" href="https://qualitasplaza.com/thanks.html">
+  <link rel="canonical" href="https://qualitasplaza.com/thanks.php">
 
   <!-- Required Meta Tags Always Come First -->
   <meta charset="utf-8">

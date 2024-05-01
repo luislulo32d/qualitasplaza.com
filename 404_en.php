@@ -4,7 +4,7 @@
 <head>
   <!-- Title -->
   <title>Qualitas Plaza - Page not found</title>
-  <link rel="canonical" href="https://qualitasplaza.com/404_en.html">
+  <link rel="canonical" href="https://qualitasplaza.com/404_en.php">
 
   <!-- Required Meta Tags Always Come First -->
   <meta charset="utf-8">

@@ -4,7 +4,7 @@
 <head>
   <!-- Title -->
   <title>Blog Single Item 1 | | Unify - Responsive Website Template</title>
-  <link rel="canonical" href="https://qualitasplaza.com/blog-single-item-1.html">
+  <link rel="canonical" href="https://qualitasplaza.com/blog-single-item-1.php">
 
   <!-- Required Meta Tags Always Come First -->
   <meta charset="utf-8">

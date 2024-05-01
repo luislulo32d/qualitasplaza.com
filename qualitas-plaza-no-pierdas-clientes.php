@@ -4,7 +4,7 @@
 <head>
   <!-- Title -->
   <title>Qualitas Plaza - No pierdas clientes</title>
-  <link rel="canonical" href="https://qualitasplaza.com/qualitas-plaza-no-pierdas-clientes.html">
+  <link rel="canonical" href="https://qualitasplaza.com/qualitas-plaza-no-pierdas-clientes.php">
   <!-- Start of helloqp Zendesk Widget script -->
   <script id="ze-snippet"
     src="https://static.zdassets.com/ekr/snippet.js?key=718eec9e-4bf9-4d9a-9775-d92d68b12a06"> </script>

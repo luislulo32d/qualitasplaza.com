@@ -5,7 +5,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <!-- Title -->
   <title>Planes</title>
-  <link rel="canonical" href="https://qualitasplaza.com/planes.html">
+  <link rel="canonical" href="https://qualitasplaza.com/planes.php">
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-68921505-1"></script>
   <script>
