@@ -17,7 +17,7 @@
 
             <!-- Logo -->
             <a href="index.html">
-              <img src="assets/img-temp/qualitasplaza.png" alt="qualitas plaza header" width="180"
+              <img src="assets/img-temp/qualitasplaza.png" alt="qualitas plaza header" width="180" height="31.19"
                 style="margin-right: 80px;">
             </a>
             <!-- End Logo -->
@@ -119,7 +119,7 @@
                 <li class="hs-has-mega-menu nav-item active g-mx-10--lg g-mx-15--xl" data-animation-in="fadeIn"
                   data-animation-out="fadeOut" data-max-width="100%" data-position="right">
                   <a id="mega-menu-home" class="nav-link g-py-7 g-px-0" href="#!" aria-haspopup="true"
-                    aria-expanded="false"><img src="assets/img-temp/spanish.png" width="30px">
+                    aria-expanded="false"><img src="assets/img-temp/spanish.png" width="30px" height="18px">
                     <i class="hs-icon hs-icon-arrow-bottom g-font-size-11 g-ml-7"></i></a>
 
                   <!-- Mega Menu -->
@@ -132,11 +132,11 @@
                         <ul class="list-unstyled">
                           <li class="dropdown-item active">
                             <a href="index.html" class="nav-link"><img src="assets/img-temp/spanish.png"
-                                width="30px"></a>
+                                width="30px" height="18px"></a>
                           </li>
                           <li class="dropdown-item ">
                             <a href="index_en.html" class="nav-link"><img src="assets/img-temp/english.png"
-                                width="30px"></a>
+                                width="30px" height="18px"></a>
                           </li>
                         </ul>
                       </div>
