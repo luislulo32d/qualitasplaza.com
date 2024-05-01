@@ -8,6 +8,6 @@ RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
     Header always set Content-Security-Policy "upgrade-insecure-requests;"
 </IfModule>
 #Redirección de rutas .html a .php#
-#RewriteRule ^(.*)\.html$ /$1.php [R=301,L]#
+RewriteRule ^(.*)\.html$ /$1.php [R=301,L]
 #redirección en servidor local#
-RewriteRule ^(.*)\.html$ /qualitasplaza.com/$1.php [R=301,L]
+#RewriteRule ^(.*)\.html$ /qualitasplaza.com/$1.php [R=301,L]#
