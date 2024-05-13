@@ -129,7 +129,7 @@
         <!-- Copyright Footer -->
         <div class="g-bg-black-opacity-0_1 g-color-white-opacity-0_8 text-center g-py-20">
           <div class="container">
-            <small class="g-font-size-default g-mr-10 g-mb-10 g-mb-0--md">2023 &copy; Todos los derechos reservados.
+            <small class="g-font-size-default g-mr-10 g-mb-10 g-mb-0--md">2024 &copy; Todos los derechos reservados.
             </small>
           </div>
         </div>
