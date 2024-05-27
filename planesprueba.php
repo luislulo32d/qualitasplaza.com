@@ -201,7 +201,7 @@
                               <p class="card-text g-font-weight-500 g-font-size-15 g-mt-10">Podrás personalizar tu plan y precio <br>al finalizar el DEMO.</p>
                             </center>
                             <center>
-                                 <a href="actualizacion-tool.html" class="btn btn-md u-btn-outline-orange g-mr-10 g-mb-15">Comienza con una DEMO**</a>
+                                 <a href="actualizacion-tool.php" class="btn btn-md u-btn-outline-orange g-mr-10 g-mb-15">Comienza con una DEMO**</a>
                             </center>
                               <center>
                              <p class="card-text g-font-weight-300 g-font-size-13">**Sin coste / sin tarjeta de crédito.</p>
@@ -219,7 +219,7 @@
                         </div>
                         <div class="row g-mb-30">
                           <div class="col-xs-12 col-sm-12 col-md-4">
-                            <p class="g-font-weight-600 g-font-size-16 mb-3">Accede en el <a href="freelancers.html">programa especial</a> que contiene los siguientes módulos:</p>
+                            <p class="g-font-weight-600 g-font-size-16 mb-3">Accede en el <a href="freelancers.php">programa especial</a> que contiene los siguientes módulos:</p>
                           </div>
                           <div class="col-xs-12 col-sm-12 col-md-4">
                             <p><i class="fa fa-check-circle fa-icon"></i> Invita o gestiona las cuentas de tus clientes.</p>
@@ -340,7 +340,7 @@
                             <p class="card-text g-font-weight-600 g-font-size-12">*Dos meses gratis con pago único.</p>
                             </center>
                             <center>
-                              <a href="freelancers.html" class="btn btn-md u-btn-outline-orange g-mr-10 g-mb-15">Ingresar al programa freelancers**</a>
+                              <a href="freelancers.php" class="btn btn-md u-btn-outline-orange g-mr-10 g-mb-15">Ingresar al programa freelancers**</a>
                             </center>
                               <center>
                             <p class="card-text g-font-weight-300 g-font-size-13">**Inicia con una demo / sin tarjeta de crédito.</p>
@@ -358,7 +358,7 @@
                         </div>
                         <div class="row g-mb-30">
                           <div class="col-xs-12 col-sm-12 col-md-4">
-                            <p class="g-font-weight-600 g-font-size-16 mb-3">Accede en el <a href="agencias.html">programa especial</a> que contiene los siguientes módulos:</p>
+                            <p class="g-font-weight-600 g-font-size-16 mb-3">Accede en el <a href="agencias.php">programa especial</a> que contiene los siguientes módulos:</p>
                           </div>
                           <div class="col-xs-12 col-sm-12 col-md-4">
                             <p><i class="fa fa-check-circle fa-icon"></i> Invita o gestiona las cuentas de tu cluster.</p>
@@ -478,7 +478,7 @@
                             <p class="card-text g-font-weight-600 g-font-size-12">*Dos meses gratis con pago único.</p>
                             </center>
                             <center>
-                             <a href="agencias.html" class="btn btn-md u-btn-outline-orange g-mr-10 g-mb-15">Ingresar al programa agencias**</a>
+                             <a href="agencias.php" class="btn btn-md u-btn-outline-orange g-mr-10 g-mb-15">Ingresar al programa agencias**</a>
                             </center>
                               <center>
                             <p class="card-text g-font-weight-300 g-font-size-13">**Inicia con una demo / sin tarjeta de crédito.</p>
@@ -496,7 +496,7 @@
                         </div>
                         <div class="row g-mb-30">
                           <div class="col-xs-12 col-sm-12 col-md-4">
-                            <p class="g-font-weight-600 g-font-size-16 mb-3">Accede en el <a href="partners.html">programa especial</a> que contiene los siguientes módulos:</p>
+                            <p class="g-font-weight-600 g-font-size-16 mb-3">Accede en el <a href="partners.php">programa especial</a> que contiene los siguientes módulos:</p>
                           </div>
                           <div class="col-xs-12 col-sm-12 col-md-4">
                             <p><i class="fa fa-check-circle fa-icon"></i> Invita y apoya a tus miembros o aliados.</p>
@@ -616,7 +616,7 @@
                             <p class="card-text g-font-weight-600 g-font-size-12">*Dos meses gratis con pago único.</p>
                             </center>
                             <center>
-                                 <a href="partners.html" class="btn btn-md u-btn-outline-orange g-mr-10 g-mb-15">Ingresar al programa partners**</a>
+                                 <a href="partners.php" class="btn btn-md u-btn-outline-orange g-mr-10 g-mb-15">Ingresar al programa partners**</a>
                             </center>
                               <center>
                              <p class="card-text g-font-weight-300 g-font-size-13">**Inicia con una demo / sin tarjeta de crédito.</p>
@@ -636,7 +636,7 @@
                           </div>
 
                           <div class="col-md-3 align-self-center text-md-right">
-                            <a class="btn btn-md u-btn-primary g-brd-2 rounded-0" href="cotizacion-negocios.html">SOLICITAR PRESUPUESTO*</a>
+                            <a class="btn btn-md u-btn-primary g-brd-2 rounded-0" href="cotizacion-negocios.php">SOLICITAR PRESUPUESTO*</a>
                             <center>
                            <p class="lead g-mb-20 g-mb-0--md g-font-weight-600 g-font-size-12">*Sin coste / sin compromiso.</p>
                             </center>
@@ -671,7 +671,7 @@
                       <p class="lead g-mb-20 g-mb-0--md">Comprobación metódica del funcionamiento de tu sitio Web por parte de un usuario y presentación de un informe exhaustivo.</p>
                     </div>
                     <div class="col-md-4 align-self-md-center text-md-center">
-                 <a href="cotizacion-testert.html" class="btn btn-md u-btn-outline-orange g-mr-5 g-mb-5 g-font-size-16">Solicitar presupuesto</a>
+                 <a href="cotizacion-testert.php" class="btn btn-md u-btn-outline-orange g-mr-5 g-mb-5 g-font-size-16">Solicitar presupuesto</a>
                     </div>
                   </div>
                 </div>
@@ -687,7 +687,7 @@
                       <p class="lead g-mb-20 g-mb-0--md">Creación de una herramienta gráfica para monitorizar y evaluar automáticamente los factores de desempeño de tu negocio digital.</p>
                     </div>
                     <div class="col-md-4 align-self-md-center text-md-center">
-                      <a href="cotizacion-tool.html" class="btn btn-md u-btn-outline-orange g-mr-5 g-mb-5 g-font-size-16">Solicitar presupuesto</a>
+                      <a href="cotizacion-tool.php" class="btn btn-md u-btn-outline-orange g-mr-5 g-mb-5 g-font-size-16">Solicitar presupuesto</a>
                     </div>
                   </div>
                 </div>
@@ -711,7 +711,7 @@
 <input type="hidden" id="_agile_form_name" name="_agile_form_name" value="Suscripción a boletín">
 <input type="hidden" id="_agile_domain" name="_agile_domain" value="qualitasplaza">
 <input type="hidden" id="_agile_api" name="_agile_api" value="4cfvjhag0ln8k6pkbrh4im157l">
-<input type="hidden" id="_agile_redirect_url" name="_agile_redirect_url" value="https://qualitasplaza.com/gracias-suscripcion.html">
+<input type="hidden" id="_agile_redirect_url" name="_agile_redirect_url" value="https://qualitasplaza.com/gracias-suscripcion.php">
 <input type="hidden" id="_agile_document_url" name="_agile_document_url" value="">
 <input type="hidden" id="_agile_confirmation_msg" name="_agile_confirmation_msg" value="">
 <input type="hidden" id="_agile_form_id_tags" name="tags" value="suscriptor-boletin">
@@ -867,9 +867,9 @@
 			parseInt($('#exampleSelect_' + a + '_6').val(), 10)
 		);
 		if (a == '1')
-			$('#exampleSelect_' + a).html('Desde ' + b + ' € / año.');
+			$('#exampleSelect_' + a).php('Desde ' + b + ' € / año.');
 		else
-			$('#exampleSelect_' + a).html('Desde ' + b + ' € / Web al mes*');
+			$('#exampleSelect_' + a).php('Desde ' + b + ' € / Web al mes*');
 	}
 	$('#exampleSelect_1_1').on('change', function () {
 		Recalculate('1');

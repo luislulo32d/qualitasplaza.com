@@ -310,7 +310,7 @@
                 together in the construction of a new culture of Customer Experience.</p>
               <p>Do you want to join our team?</p>
             </div>
-            <a class="btn btn-md u-btn-primary g-font-size-default rounded-0 g-py-10" href="/support.html">
+            <a class="btn btn-md u-btn-primary g-font-size-default rounded-0 g-py-10" href="/support.php">
               Contact us</a>
           </div>
           <div class="col-lg-6 g-mb-30">
@@ -469,7 +469,7 @@
                   <input type="hidden" id="_agile_domain" name="_agile_domain" value="qualitasplaza">
                   <input type="hidden" id="_agile_api" name="_agile_api" value="4cfvjhag0ln8k6pkbrh4im157l">
                   <input type="hidden" id="_agile_redirect_url" name="_agile_redirect_url"
-                    value="https://qualitasplaza.com/thanks-subscription.html">
+                    value="https://qualitasplaza.com/thanks-subscription.php">
                   <input type="hidden" id="_agile_document_url" name="_agile_document_url" value="">
                   <input type="hidden" id="_agile_confirmation_msg" name="_agile_confirmation_msg" value="">
                   <input type="hidden" id="_agile_form_id_tags" name="tags" value="suscriptor-boletin-eng">

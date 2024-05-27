@@ -67,7 +67,7 @@ ins<!DOCTYPE html>
 
             <p class="g-max-width-700 g-color-white g-font-size-18 g-mb-45">To get an account, start with a demo without cost and without commitment. We will send you the access to customer panel hiring our services.</p>
 
-            <a class="btn btn-lg u-btn-primary g-color-black g-font-weight-600 g-font-size-13 text-uppercase rounded-0 g-px-25 g-py-15 mr-2 mb-3" href="update-tool.html">
+            <a class="btn btn-lg u-btn-primary g-color-black g-font-weight-600 g-font-size-13 text-uppercase rounded-0 g-px-25 g-py-15 mr-2 mb-3" href="update-tool.php">
               <i class="g-font-size-15 g-pos-rel g-top-2 mr-2"></i>
               Request demo
             </a>

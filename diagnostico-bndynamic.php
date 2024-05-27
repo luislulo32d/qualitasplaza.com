@@ -233,7 +233,7 @@
                       <p class="card-text">Utilizamos criterios con base en valores ajustados a la industria y
                       estándares internacionales del World Wide Web
                       Consortium, además de tendencias aceptadas a nivel mundial como las reglas de usabilidad de Jakob Nielsen y normas ISO relacionadas, 
-                      Normas de las Buenas Prácticas del Comercio Electrónico. Puedes ver los estándares <a href="https://qualitasplaza.com/estandares.html" target="_blank">aquí</a>.</p>
+                      Normas de las Buenas Prácticas del Comercio Electrónico. Puedes ver los estándares <a href="https://qualitasplaza.com/estandares.php" target="_blank">aquí</a>.</p>
                     </div>
                   </div>
                   <!-- End Unify Teal Outline Panel-->
@@ -330,7 +330,7 @@
 
           <strong>Importante!</strong> Alertas disponibles para usuarios con plan negocios.
           
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-5 g-mb-15 g-mt-5">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-5 g-mb-15 g-mt-5">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -411,7 +411,7 @@ Upgrade
                     <h4 class="media g-font-weight-400 g-font-size-16 g-mb-10 g-mb-20--md">
                     <span class="d-flex align-self-center g-color-gray-dark-v6 g-font-weight-500"><span class=""><i class="fas fa-building"></i></span> Identidad <br> de tu web</span>
                     <span class="media-body d-flex align-self-center justify-content-end g-font-size-18--md g-color-black">
-                      <span>  <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-ml-25 g-mt-10">
+                      <span>  <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-ml-25 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a></span>
@@ -438,7 +438,7 @@ Upgrade
                     <h4 class="media g-font-weight-400 g-font-size-16 g-mb-10 g-mb-20--md">
                     <span class="d-flex align-self-center g-color-gray-dark-v6 g-font-weight-500"><span class=""><i class="fas fa-shopping-cart"></i></span>Fortaleza <br>de ventas</span>
                     <span class="media-body d-flex align-self-center justify-content-end g-font-size-18--md g-color-black">
-                      <span>  <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-ml-25 g-mt-10">
+                      <span>  <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-ml-25 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a></span>
@@ -979,7 +979,7 @@ conformidad con las expectativas del usuario definidas en la ISO 9241-10.
         <span class="media-body align-self-center">
 
           <strong>Importante!</strong> resultados sólo están disponibles para usuarios con plan negocios.
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -1183,7 +1183,7 @@ Upgrade
         <span class="media-body align-self-center">
 
           <strong>Importante!</strong> resultados sólo están disponibles para usuarios con plan negocios.
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -1683,7 +1683,7 @@ Upgrade
 
           <strong>Importante!</strong> Lista de elementos críticos sólo está disponible para usuarios con plan negocios.
           <br>
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -2295,7 +2295,7 @@ Información sobre la evaluación de los elementos visuales críticos y el enfoq
         <span class="media-body align-self-center">
 
           <strong>Importante!</strong> resultados sólo están disponibles para usuarios con plan negocios.
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -2413,7 +2413,7 @@ Upgrade
         <span class="media-body align-self-center">
 
           <strong>Importante!</strong> resultados sólo están disponibles para usuarios con plan negocios.
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -2962,7 +2962,7 @@ de interfaces de usuario. Cuanto más claro, mejor.</p>
         <span class="media-body align-self-center">
 
           <strong>Importante!</strong> reporte detallado sólo disponible para usuarios con plan negocios.
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -3092,7 +3092,7 @@ de interfaces de usuario. Cuanto más claro, mejor.</p>
         <span class="media-body align-self-center">
 
           <strong>Importante!</strong> reporte detallado sólo disponible para usuarios con plan negocios.
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -3151,7 +3151,7 @@ de interfaces de usuario. Cuanto más claro, mejor.</p>
         <span class="media-body align-self-center">
 
           <strong>Importante!</strong> reporte detallado sólo disponible para usuarios con plan negocios.
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -3207,7 +3207,7 @@ de interfaces de usuario. Cuanto más claro, mejor.</p>
         <span class="media-body align-self-center">
 
           <strong>Importante!</strong> la función agregar URL sólo está disponible para usuarios con plan negocios.
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -3251,7 +3251,7 @@ Upgrade
         <span class="media-body align-self-center">
 
           <strong>Importante!</strong> reporte detallado sólo disponible para usuarios con plan negocios.
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -3310,7 +3310,7 @@ de interfaces de usuario. Cuanto más claro, mejor.</p>
         <span class="media-body align-self-center">
 
           <strong>Importante!</strong> reporte detallado sólo disponible para usuarios con plan negocios.
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -3370,7 +3370,7 @@ de interfaces de usuario. Cuanto más claro, mejor.</p>
         <span class="media-body align-self-center">
 
           <strong>Importante!</strong> reporte detallado sólo disponible para usuarios con plan negocios.
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -3425,7 +3425,7 @@ Upgrade
         <span class="media-body align-self-center">
 
           <strong>Importante!</strong> reporte detallado sólo disponible para usuarios con plan negocios.
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -3474,7 +3474,7 @@ Upgrade
         <span class="media-body align-self-center">
 
           <strong>Importante!</strong> reporte detallado sólo disponible para usuarios con plan negocios.
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -3523,7 +3523,7 @@ Upgrade
         <span class="media-body align-self-center">
 
           <strong>Importante!</strong> reporte detallado sólo disponible para usuarios con plan negocios.
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -3575,7 +3575,7 @@ Upgrade
         <span class="media-body align-self-center">
 
           <strong>Importante!</strong> reporte detallado sólo disponible para usuarios con plan negocios.
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -3631,7 +3631,7 @@ Upgrade
         <span class="media-body align-self-center">
 
           <strong>Importante!</strong> reporte detallado sólo disponible para usuarios con plan negocios.
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -3740,7 +3740,7 @@ Upgrade
         <span class="media-body align-self-center">
 
           <strong>Importante!</strong> reporte detallado sólo disponible para usuarios con plan negocios.
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -3796,7 +3796,7 @@ Upgrade
         <span class="media-body align-self-center">
 
           <strong>Importante!</strong> resultados sólo están disponibles para usuarios con plan negocios.
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -3854,7 +3854,7 @@ Upgrade
         <span class="media-body align-self-center">
 
           <strong>Importante!</strong> reporte detallado sólo disponible para usuarios con plan negocios.
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -4013,7 +4013,7 @@ Upgrade
         <span class="media-body align-self-center">
 
           <strong>Importante!</strong> reporte detallado sólo disponible para usuarios con plan negocios.
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -4220,7 +4220,7 @@ Web.
         <span class="media-body align-self-center">
 
           <strong>Importante!</strong> reporte completo sólo disponible para usuarios con plan negocios.
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -4266,7 +4266,7 @@ Upgrade
         <span class="media-body align-self-center">
 
           <strong>Importante!</strong> reporte detallado sólo disponible para usuarios con plan negocios.
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -4307,7 +4307,7 @@ Upgrade
         <span class="media-body align-self-center">
 
           <strong>Importante!</strong> reporte completo sólo disponible para usuarios con plan negocios.
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -4349,7 +4349,7 @@ Upgrade
         <span class="media-body align-self-center">
 
           <strong>Importante!</strong> reporte completo sólo disponible para usuarios con plan negocios.
-          <a href="https://qualitasplaza.com/cotizacion-negocios.html" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
+          <a href="https://qualitasplaza.com/cotizacion-negocios.php" class="btn btn-sm u-btn-indigo g-mr-10 g-mb-15 g-mt-10">
                     <i class="fa fa-check-circle g-mr-3"></i>
 Upgrade
                   </a>
@@ -4411,7 +4411,7 @@ Upgrade
 <input type="hidden" id="_agile_form_name" name="_agile_form_name" value="Suscripción a boletín">
 <input type="hidden" id="_agile_domain" name="_agile_domain" value="qualitasplaza">
 <input type="hidden" id="_agile_api" name="_agile_api" value="4cfvjhag0ln8k6pkbrh4im157l">
-<input type="hidden" id="_agile_redirect_url" name="_agile_redirect_url" value="https://qualitasplaza.com/gracias-suscripcion.html">
+<input type="hidden" id="_agile_redirect_url" name="_agile_redirect_url" value="https://qualitasplaza.com/gracias-suscripcion.php">
 <input type="hidden" id="_agile_document_url" name="_agile_document_url" value="">
 <input type="hidden" id="_agile_confirmation_msg" name="_agile_confirmation_msg" value="">
 <input type="hidden" id="_agile_form_id_tags" name="tags" value="suscriptor-boletin">

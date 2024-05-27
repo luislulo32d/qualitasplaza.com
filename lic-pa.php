@@ -65,7 +65,7 @@
             <!-- End Responsive Toggle Button -->
 
             <!-- Logo -->
-            <a href="index.html">
+            <a href="index.php">
               <img src="assets/img-temp/qualitasplaza.png" alt="qualitas plaza header" width="240" style="margin-right: 80px;">
             </a>
             <!-- End Logo -->

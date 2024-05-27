@@ -334,7 +334,7 @@
                 trabajar juntos en la construcción de una nueva cultura de Customer Experience (CX).</p>
               <p>¿Deseas unirte a nuestro equipo?</p>
             </div>
-            <a class="btn btn-md u-btn-primary g-font-size-default rounded-0 g-py-10" href="soporte.html">
+            <a class="btn btn-md u-btn-primary g-font-size-default rounded-0 g-py-10" href="soporte.php">
               Contáctanos</a>
           </div>
           <div class="col-lg-6 g-mb-30">

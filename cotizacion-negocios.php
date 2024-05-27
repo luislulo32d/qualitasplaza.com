@@ -112,7 +112,7 @@
                     <input type="hidden" id="_agile_domain" name="_agile_domain" value="qualitasplaza">
                     <input type="hidden" id="_agile_api" name="_agile_api" value="4cfvjhag0ln8k6pkbrh4im157l">
                     <input type="hidden" id="_agile_redirect_url" name="_agile_redirect_url"
-                      value="https://qualitasplaza.com/gracias-cotizacion.html">
+                      value="https://qualitasplaza.com/gracias-cotizacion.php">
                     <input type="hidden" id="_agile_document_url" name="_agile_document_url" value="">
                     <input type="hidden" id="_agile_confirmation_msg" name="_agile_confirmation_msg" value="">
                     <input type="hidden" id="_agile_form_id_tags" name="tags" value="cotizacion-plan-negocios">
@@ -207,7 +207,7 @@
                   <input type="hidden" id="_agile_domain" name="_agile_domain" value="qualitasplaza">
                   <input type="hidden" id="_agile_api" name="_agile_api" value="4cfvjhag0ln8k6pkbrh4im157l">
                   <input type="hidden" id="_agile_redirect_url" name="_agile_redirect_url"
-                    value="https://qualitasplaza.com/gracias-suscripcion.html">
+                    value="https://qualitasplaza.com/gracias-suscripcion.php">
                   <input type="hidden" id="_agile_document_url" name="_agile_document_url" value="">
                   <input type="hidden" id="_agile_confirmation_msg" name="_agile_confirmation_msg" value="">
                   <input type="hidden" id="_agile_form_id_tags" name="tags" value="suscriptor-boletin">
@@ -312,12 +312,12 @@
               <ul class="list-unstyled">
                 <li class="g-mb-5">
                   <i class="fa fa-angle-right g-mr-5"></i>
-                  <a class="g-color-white-opacity-0_8" href="servicios.html">Servicios</a>
+                  <a class="g-color-white-opacity-0_8" href="servicios.php">Servicios</a>
                 </li>
 
                 <li class="g-mb-5">
                   <i class="fa fa-angle-right g-mr-5"></i>
-                  <a class="g-color-white-opacity-0_8" href="planes.html">Planes</a>
+                  <a class="g-color-white-opacity-0_8" href="planes.php">Planes</a>
                 </li>
               </ul>
 
@@ -330,15 +330,15 @@
               <ul class="list-unstyled">
                 <li class="g-mb-5">
                   <i class="fa fa-angle-right g-mr-5"></i>
-                  <a class="g-color-white-opacity-0_8" href="preguntas.html">Preguntas frecuentes</a>
+                  <a class="g-color-white-opacity-0_8" href="preguntas.php">Preguntas frecuentes</a>
                 </li>
                 <li class="g-mb-5">
                   <i class="fa fa-angle-right g-mr-5"></i>
-                  <a class="g-color-white-opacity-0_8" href="politicas.html">Política de privacidad</a>
+                  <a class="g-color-white-opacity-0_8" href="politicas.php">Política de privacidad</a>
                 </li>
                 <li class="g-mb-5">
                   <i class="fa fa-angle-right g-mr-5"></i>
-                  <a class="g-color-white-opacity-0_8" href="terminos.html">Términos y condiciones</a>
+                  <a class="g-color-white-opacity-0_8" href="terminos.php">Términos y condiciones</a>
                 </li>
               </ul>
             </div>
@@ -353,19 +353,19 @@
               <ul class="list-unstyled">
                 <li class="g-mb-5">
                   <i class="fa fa-angle-right g-mr-5"></i>
-                  <a class="g-color-white-opacity-0_8" href="partners.html">Partners</a>
+                  <a class="g-color-white-opacity-0_8" href="partners.php">Partners</a>
                 </li>
                 <li class="g-mb-5">
                   <i class="fa fa-angle-right g-mr-5"></i>
-                  <a class="g-color-white-opacity-0_8" href="programadores.html">Programadores</a>
+                  <a class="g-color-white-opacity-0_8" href="programadores.php">Programadores</a>
                 </li>
                 <li class="g-mb-5">
                   <i class="fa fa-angle-right g-mr-5"></i>
-                  <a class="g-color-white-opacity-0_8" href="agencias.html">Agencias</a>
+                  <a class="g-color-white-opacity-0_8" href="agencias.php">Agencias</a>
                 </li>
                 <li class="g-mb-5">
                   <i class="fa fa-angle-right g-mr-5"></i>
-                  <a class="g-color-white-opacity-0_8" href="freelancers.html">Freelancers</a>
+                  <a class="g-color-white-opacity-0_8" href="freelancers.php">Freelancers</a>
                 </li>
               </ul>
             </div>

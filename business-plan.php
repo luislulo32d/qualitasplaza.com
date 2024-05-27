@@ -66,7 +66,7 @@
             <!-- End Responsive Toggle Button -->
 
             <!-- Logo -->
-            <a href="index.html">
+            <a href="index.php">
               <img src="assets/img-temp/qualitasplaza.png" alt="qualitas plaza header" width="180" style="margin-right: 80px;">
             </a>
             <!-- End Logo -->
@@ -90,37 +90,37 @@
               <ul class="navbar-nav text-uppercase g-pos-rel g-font-weight-600 ml-auto">
                 <!-- Intro -->
                 <li class="nav-item  g-mx-10--lg g-mx-15--xl">
-                  <a href="index_en.html" class="nav-link g-py-7 g-px-0">Home</a>
+                  <a href="index_en.php" class="nav-link g-py-7 g-px-0">Home</a>
                 </li>
                 <!-- End Intro -->
 
                 <!-- Nosotros -->
                 <li class="nav-item  g-mx-10--lg g-mx-15--xl">
-                  <a href="about.html" class="nav-link g-py-7 g-px-0">About</a>
+                  <a href="about.php" class="nav-link g-py-7 g-px-0">About</a>
                 </li>
                 <!-- End Nosotros -->
 
                 <!-- Servicios -->
                 <li class="nav-item  g-mx-10--lg g-mx-15--xl">
-                  <a href="services.html" class="nav-link g-py-7 g-px-0">Services</a>
+                  <a href="services.php" class="nav-link g-py-7 g-px-0">Services</a>
                 </li>
                 <!-- End Servicios -->
 
                 <!-- Instituto -->
                 <li class="nav-item  g-mx-10--lg g-mx-15--xl">
-                  <a href="institute.html" class="nav-link g-py-7 g-px-0">Institute</a>
+                  <a href="institute.php" class="nav-link g-py-7 g-px-0">Institute</a>
                 </li>
                 <!-- End Instituto -->
 
                 <!-- Instituto -->
                 <li class="nav-item  g-mx-10--lg g-mx-15--xl">
-                  <a href="plans.html" class="nav-link g-py-7 g-px-0">Plans</a>
+                  <a href="plans.php" class="nav-link g-py-7 g-px-0">Plans</a>
                 </li>
                 <!-- End Instituto -->
 
                 <!-- Contacto -->
                 <li class="nav-item  g-mx-10--lg g-mx-15--xl">
-                  <a href="support.html" class="nav-link g-py-7 g-px-0">Support</a>
+                  <a href="support.php" class="nav-link g-py-7 g-px-0">Support</a>
                 </li>
                 <!-- End Contacto -->
                  <!-- Blog -->
@@ -146,10 +146,10 @@
                         <div class="col-lg-12">
                           <ul class="list-unstyled">
                             <li class="dropdown-item">
-                              <a href="index.html" class="nav-link g-py-7 g-px-0">Login</a>
+                              <a href="index.php" class="nav-link g-py-7 g-px-0">Login</a>
                             </li>
                             <li class="dropdown-item ">
-                              <a href="index.html" class="nav-link g-py-7 g-px-0">Sign in</a>
+                              <a href="index.php" class="nav-link g-py-7 g-px-0">Sign in</a>
                             </li>
                           </ul>
                         </div>
@@ -175,10 +175,10 @@
                       <div class="col-lg-12">
                         <ul class="list-unstyled">
                           <li class="dropdown-item active">
-                            <a href="index_en.html" class="nav-link"><img src="assets/img-temp/english.png" width="30px"></a>
+                            <a href="index_en.php" class="nav-link"><img src="assets/img-temp/english.png" width="30px"></a>
                           </li>
                           <li class="dropdown-item ">
-                            <a href="index.html" class="nav-link"><img src="assets/img-temp/spanish.png" width="30px"></a>
+                            <a href="index.php" class="nav-link"><img src="assets/img-temp/spanish.png" width="30px"></a>
                           </li>
                         </ul>
                       </div>
@@ -308,7 +308,7 @@
 <input type="hidden" id="_agile_form_name" name="_agile_form_name" value="Business - Plan">
 <input type="hidden" id="_agile_domain" name="_agile_domain" value="qualitasplaza">
 <input type="hidden" id="_agile_api" name="_agile_api" value="4cfvjhag0ln8k6pkbrh4im157l">
-<input type="hidden" id="_agile_redirect_url" name="_agile_redirect_url" value="https://qualitasplaza.com/thanks-confirmation.html">
+<input type="hidden" id="_agile_redirect_url" name="_agile_redirect_url" value="https://qualitasplaza.com/thanks-confirmation.php">
 <input type="hidden" id="_agile_document_url" name="_agile_document_url" value="">
 <input type="hidden" id="_agile_confirmation_msg" name="_agile_confirmation_msg" value="">
 <input type="hidden" id="_agile_form_id_tags" name="tags" value="plan-negocios-eng">
@@ -392,7 +392,7 @@
 <input type="hidden" id="_agile_form_name" name="_agile_form_name" value="Newsletter Subscription">
 <input type="hidden" id="_agile_domain" name="_agile_domain" value="qualitasplaza">
 <input type="hidden" id="_agile_api" name="_agile_api" value="4cfvjhag0ln8k6pkbrh4im157l">
-<input type="hidden" id="_agile_redirect_url" name="_agile_redirect_url" value="https://qualitasplaza.com/thanks-subscription.html">
+<input type="hidden" id="_agile_redirect_url" name="_agile_redirect_url" value="https://qualitasplaza.com/thanks-subscription.php">
 <input type="hidden" id="_agile_document_url" name="_agile_document_url" value="">
 <input type="hidden" id="_agile_confirmation_msg" name="_agile_confirmation_msg" value="">
 <input type="hidden" id="_agile_form_id_tags" name="tags" value="suscriptor-boletin-eng">
@@ -484,15 +484,15 @@
                     <ul class="list-unstyled">
                       <li class="g-mb-5">
                         <i class="fa fa-angle-right g-mr-5"></i>
-                        <a class="g-color-white-opacity-0_8" href="services.html">Services</a>
+                        <a class="g-color-white-opacity-0_8" href="services.php">Services</a>
                       </li>
                       <li class="g-mb-5">
                         <i class="fa fa-angle-right g-mr-5"></i>
-                        <a class="g-color-white-opacity-0_8" href="institute.html">Institute</a>
+                        <a class="g-color-white-opacity-0_8" href="institute.php">Institute</a>
                       </li>
                       <li class="g-mb-5">
                         <i class="fa fa-angle-right g-mr-5"></i>
-                        <a class="g-color-white-opacity-0_8" href="plans.html">Plans</a>
+                        <a class="g-color-white-opacity-0_8" href="plans.php">Plans</a>
                       </li>
                     </ul>
 
@@ -505,15 +505,15 @@
                     <ul class="list-unstyled">
                       <li class="g-mb-5">
                         <i class="fa fa-angle-right g-mr-5"></i>
-                        <a class="g-color-white-opacity-0_8" href="questions.html">Frequently Asked Questions</a>
+                        <a class="g-color-white-opacity-0_8" href="questions.php">Frequently Asked Questions</a>
                       </li>
                       <li class="g-mb-5">
                         <i class="fa fa-angle-right g-mr-5"></i>
-                        <a class="g-color-white-opacity-0_8" href="policy.html">Privacy Policy</a>
+                        <a class="g-color-white-opacity-0_8" href="policy.php">Privacy Policy</a>
                       </li>
                       <li class="g-mb-5">
                         <i class="fa fa-angle-right g-mr-5"></i>
-                        <a class="g-color-white-opacity-0_8" href="terms.html">Terms and Conditions</a>
+                        <a class="g-color-white-opacity-0_8" href="terms.php">Terms and Conditions</a>
                       </li>
                     </ul>
                   </div>
@@ -528,19 +528,19 @@
                     <ul class="list-unstyled">
                       <li class="g-mb-5">
                         <i class="fa fa-angle-right g-mr-5"></i>
-                        <a class="g-color-white-opacity-0_8" href="partners2.html">Partners</a>
+                        <a class="g-color-white-opacity-0_8" href="partners2.php">Partners</a>
                       </li>
                       <li class="g-mb-5">
                         <i class="fa fa-angle-right g-mr-5"></i>
-                        <a class="g-color-white-opacity-0_8" href="programmers.html">Programmers</a>
+                        <a class="g-color-white-opacity-0_8" href="programmers.php">Programmers</a>
                       </li>
                       <li class="g-mb-5">
                         <i class="fa fa-angle-right g-mr-5"></i>
-                        <a class="g-color-white-opacity-0_8" href="agencies.html">Agencies</a>
+                        <a class="g-color-white-opacity-0_8" href="agencies.php">Agencies</a>
                       </li>
                       <li class="g-mb-5">
                         <i class="fa fa-angle-right g-mr-5"></i>
-                        <a class="g-color-white-opacity-0_8" href="freelancers2.html">Freelancers</a>
+                        <a class="g-color-white-opacity-0_8" href="freelancers2.php">Freelancers</a>
                       </li>
                     </ul>
                   </div>

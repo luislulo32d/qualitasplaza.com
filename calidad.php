@@ -486,7 +486,7 @@
               </div>
 
               <div class="col-md-3 align-self-center text-md-right">
-                <a class="btn btn-md u-btn-outline-primary g-brd-2 rounded-0" href="estandares.html">Conocer
+                <a class="btn btn-md u-btn-outline-primary g-brd-2 rounded-0" href="estandares.php">Conocer
                   Estándares</a>
               </div>
             </div>

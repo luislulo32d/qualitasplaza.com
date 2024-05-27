@@ -229,7 +229,7 @@
                           after the DEMO.</p>
                       </center>
                       <center>
-                        <a href="update-tool.html" class="btn btn-md u-btn-outline-orange g-mr-10 g-mb-15">Start with a
+                        <a href="update-tool.php" class="btn btn-md u-btn-outline-orange g-mr-10 g-mb-15">Start with a
                           DEMO</a>
                       </center>
                       <center>
@@ -249,7 +249,7 @@
                   </div>
                   <div class="row g-mb-30">
                     <div class="col-xs-12 col-sm-12 col-md-4">
-                      <p class="g-font-weight-600 g-font-size-16 mb-3">Access to <a href="freelancers2.html">special
+                      <p class="g-font-weight-600 g-font-size-16 mb-3">Access to <a href="freelancers2.php">special
                           free program</a> that contains the following modules:</p>
                     </div>
                     <div class="col-xs-12 col-sm-12 col-md-4">
@@ -397,7 +397,7 @@
                         <p class="card-text g-font-weight-600 g-font-size-12">*2 months free with single payment.</p>
                       </center>
                       <center>
-                        <a href="freelancers2.html" class="btn btn-md u-btn-outline-orange g-mr-10 g-mb-15">Access to
+                        <a href="freelancers2.php" class="btn btn-md u-btn-outline-orange g-mr-10 g-mb-15">Access to
                           Freelancers Program</a>
                       </center>
                       <center>
@@ -417,7 +417,7 @@
                   </div>
                   <div class="row g-mb-30">
                     <div class="col-xs-12 col-sm-12 col-md-4">
-                      <p class="g-font-weight-600 g-font-size-16 mb-3">Access to the <a href="agencies.html">special
+                      <p class="g-font-weight-600 g-font-size-16 mb-3">Access to the <a href="agencies.php">special
                           free program</a> that contains the following modules:</p>
                     </div>
                     <div class="col-xs-12 col-sm-12 col-md-4">
@@ -564,7 +564,7 @@
                         <p class="card-text g-font-weight-600 g-font-size-12">*2 months free with single payment.</p>
                       </center>
                       <center>
-                        <a href="agencies.html" class="btn btn-md u-btn-outline-orange g-mr-10 g-mb-15">Access to
+                        <a href="agencies.php" class="btn btn-md u-btn-outline-orange g-mr-10 g-mb-15">Access to
                           Agencies Program</a>
                       </center>
                       <center>
@@ -583,7 +583,7 @@
                   </div>
                   <div class="row g-mb-30">
                     <div class="col-xs-12 col-sm-12 col-md-4">
-                      <p class="g-font-weight-600 g-font-size-16 mb-3">Access to the <a href="partners2.html">special
+                      <p class="g-font-weight-600 g-font-size-16 mb-3">Access to the <a href="partners2.php">special
                           free program</a> that contains the following modules:</p>
                     </div>
                     <div class="col-xs-12 col-sm-12 col-md-4">
@@ -730,7 +730,7 @@
                         <p class="card-text g-font-weight-600 g-font-size-12">*2 months free with single payment.</p>
                       </center>
                       <center>
-                        <a href="partners2.html" class="btn btn-md u-btn-outline-orange g-mr-10 g-mb-15">Access to
+                        <a href="partners2.php" class="btn btn-md u-btn-outline-orange g-mr-10 g-mb-15">Access to
                           Partners Program</a>
                       </center>
                       <center>
@@ -752,7 +752,7 @@
                     </div>
 
                     <div class="col-md-3 align-self-center text-md-right">
-                      <a class="btn btn-md u-btn-primary g-brd-2 rounded-0" href="quote-business.html">REQUEST A
+                      <a class="btn btn-md u-btn-primary g-brd-2 rounded-0" href="quote-business.php">REQUEST A
                         QUOTE</a>
                       <center>
 
@@ -790,7 +790,7 @@
                 out by your targeted user audience. Optimize your business and make the most of it!</p>
             </div>
             <div class="col-md-4 align-self-md-center text-md-center">
-              <a href="quote-tester.html" class="btn btn-md u-btn-outline-orange g-mr-5 g-mb-5 g-font-size-16">Request a
+              <a href="quote-tester.php" class="btn btn-md u-btn-outline-orange g-mr-5 g-mb-5 g-font-size-16">Request a
                 quote</a>
             </div>
           </div>
@@ -808,7 +808,7 @@
                 of your online platform!</p>
             </div>
             <div class="col-md-4 align-self-md-center text-md-center">
-              <a href="panel_en.html" class="btn btn-md u-btn-outline-orange g-mr-5 g-mb-5 g-font-size-16">Request a
+              <a href="panel_en.php" class="btn btn-md u-btn-outline-orange g-mr-5 g-mb-5 g-font-size-16">Request a
                 quote</a>
             </div>
           </div>
@@ -837,7 +837,7 @@
                   <input type="hidden" id="_agile_domain" name="_agile_domain" value="qualitasplaza">
                   <input type="hidden" id="_agile_api" name="_agile_api" value="4cfvjhag0ln8k6pkbrh4im157l">
                   <input type="hidden" id="_agile_redirect_url" name="_agile_redirect_url"
-                    value="https://qualitasplaza.com/thanks-subscription.html">
+                    value="https://qualitasplaza.com/thanks-subscription.php">
                   <input type="hidden" id="_agile_document_url" name="_agile_document_url" value="">
                   <input type="hidden" id="_agile_confirmation_msg" name="_agile_confirmation_msg" value="">
                   <input type="hidden" id="_agile_form_id_tags" name="tags" value="suscriptor-boletin-eng">
@@ -1004,9 +1004,9 @@
           parseInt($('#exampleSelect_' + a + '_6').val(), 10)
         );
       if (a == '1')
-        $('#exampleSelect_' + a).html('Desde ' + b + ' € / año.');
+        $('#exampleSelect_' + a).php('Desde ' + b + ' € / año.');
       else
-        $('#exampleSelect_' + a).html('Desde ' + b + ' € / Web al mes*');
+        $('#exampleSelect_' + a).php('Desde ' + b + ' € / Web al mes*');
     }
     $('#exampleSelect_1_1').on('change', function () {
       Recalculate('1');

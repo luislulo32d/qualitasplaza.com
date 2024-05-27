@@ -78,7 +78,7 @@
               sin coste y sin compromiso. Te enviaremos el acceso al panel de cliente contratando un plan:</p>
 
             <a class="btn btn-lg u-btn-primary g-color-black g-font-weight-600 g-font-size-13 text-uppercase rounded-0 g-px-25 g-py-15 mr-2 mb-3"
-              href="actualizacion-tool.html">
+              href="actualizacion-tool.php">
               <i class="g-font-size-15 g-pos-rel g-top-2 mr-2"></i>
               Solicitar demo
             </a>

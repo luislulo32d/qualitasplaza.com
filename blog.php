@@ -80,7 +80,7 @@
               </li>
               <li class="list-inline-item g-mr-5">
                 <a class="u-link-v5 g-color-white-opacity-0_7 g-font-weight-300 g-font-size-15 g-color-primary--hover"
-                  href="https://qualitasplaza.com/blog.html">Blog</a>
+                  href="https://qualitasplaza.com/blog.php">Blog</a>
               </li>
             </ul>
           </div>
@@ -106,7 +106,7 @@
               <h2 class="h5 g-color-black g-font-weight-600 mb-3">
 
                 <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer"
-                  href="https://qualitasplaza.com/blog-aumentar-las-ventas.html">Qualitas Plaza, su solución para dejar
+                  href="https://qualitasplaza.com/blog-aumentar-las-ventas.php">Qualitas Plaza, su solución para dejar
                   de perder clientes y aumentar las ventas.
                 </a>
 
@@ -114,7 +114,7 @@
               <p class="g-color-gray-dark-v4 g-line-height-1_8">Qualitas Plaza e-Center, es una startup dedicada a
                 atender las necesidades en línea de nuestros clientes, al ayudarlos a mejorar la experiencia y la
                 satisfacción en línea de sus usuarios en la web.</p>
-              <a class="g-font-size-13" href="https://qualitasplaza.com/blog-aumentar-las-ventas.html">Ver más...</a>
+              <a class="g-font-size-13" href="https://qualitasplaza.com/blog-aumentar-las-ventas.php">Ver más...</a>
             </div>
           </article>
           <!-- End Blog Grid Overlap Blocks -->
@@ -130,14 +130,14 @@
               <h2 class="h5 g-color-black g-font-weight-600 mb-3">
 
                 <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer"
-                  href="https://qualitasplaza.com/blog-caso-de-estudio.html">¿Cómo dejar de perder clientes y aumentar
+                  href="https://qualitasplaza.com/blog-caso-de-estudio.php">¿Cómo dejar de perder clientes y aumentar
                   las ventas? un caso de estudio real.</a>
 
               </h2>
               <p class="g-color-gray-dark-v4 g-line-height-1_8">Lo creas o no, más del 80% de los sitios web tienen
                 errores técnicos y muchas deficiencias.
                 Hay un proceso delicado para mantener a los clientes comprometidos.</p>
-              <a class="g-font-size-13" href="https://qualitasplaza.com/blog-caso-de-estudio.html">Ver más...</a>
+              <a class="g-font-size-13" href="https://qualitasplaza.com/blog-caso-de-estudio.php">Ver más...</a>
             </div>
           </article>
           <!-- End Blog Grid Overlap Blocks -->

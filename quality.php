@@ -446,7 +446,7 @@
                           </div>
 
                           <div class="col-md-3 align-self-center text-md-right">
-                            <a class="btn btn-md u-btn-outline-primary g-brd-2 rounded-0" href="standards.html">Meet Standards</a>
+                            <a class="btn btn-md u-btn-outline-primary g-brd-2 rounded-0" href="standards.php">Meet Standards</a>
                           </div>
                         </div>
                       </div>

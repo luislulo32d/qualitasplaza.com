@@ -78,7 +78,7 @@
             <div class="d-inline-block g-width-35 g-height-2 g-bg-primary mb-2"></div>
                <p class="mb-0">You will receive valuable information about our programs to value your business.</p>
              <br>
-             <a class="btn btn-md u-btn-primary g-font-size-default rounded-0 g-py-10" href="https://qualitasplaza.com/index_en.html"> Back to home</a>
+             <a class="btn btn-md u-btn-primary g-font-size-default rounded-0 g-py-10" href="https://qualitasplaza.com/index_en.php"> Back to home</a>
              <br>
           </div>
           <!-- End Heading -->

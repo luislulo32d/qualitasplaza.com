@@ -60,17 +60,17 @@
     <h1>CONFIDENTIALITY, SAFEGUARD AND TREATMENT OF CUSTOMER INFORMATION</h1>
     <br>
     <p>The user personal data of our website will be incorporated into a protected file.</p>
-    <p><a href="index.html">qualitasplaza.com</a> will do everything in their power to keep all the information of its clients in good shelter. It will not undertake disclosing info to third parties, not to sell or make public in any way any information received from its customers will solely be used and exclusively for the purpose of carrying out the transactions agreed with its Clients. According to current legal regulations, any Customer may request to Qualitas Plaza that their data must be modified, corrected or removed from its database.</p>
+    <p><a href="index.php">qualitasplaza.com</a> will do everything in their power to keep all the information of its clients in good shelter. It will not undertake disclosing info to third parties, not to sell or make public in any way any information received from its customers will solely be used and exclusively for the purpose of carrying out the transactions agreed with its Clients. According to current legal regulations, any Customer may request to Qualitas Plaza that their data must be modified, corrected or removed from its database.</p>
     <p>Payment service providers as well as payment systems and related technology service providers to whom data are transmitted to carry out transactions under this contract may be required by the law of the State in which they are operated, or By agreements concluded by it, to provide information on these transactions to the authorities or official bodies of other countries, both within and outside the European Union, in the context of combating the financing of terrorism and serious forms of organized crime, and prevention of money laundering.</p>
-    <p>If you require more information or have questions about our privacy policy, please send them by responding in our <a href="support.html">Contact Form.</a></p>
-    <p>In <a href="index.html">qualitasplaza.com</a> we consider that the privacy of our visitors is very important. This Privacy Policy describes in detail the types of personal information that are collected, protected and used by <a href="index.html">qualitasplaza.com</a></p>
+    <p>If you require more information or have questions about our privacy policy, please send them by responding in our <a href="support.php">Contact Form.</a></p>
+    <p>In <a href="index.php">qualitasplaza.com</a> we consider that the privacy of our visitors is very important. This Privacy Policy describes in detail the types of personal information that are collected, protected and used by <a href="index.php">qualitasplaza.com</a></p>
     <br>
     <h2>REGISTRATION FILES</h2>
-    <p>Like many other websites, <a href="index.html">qualitasplaza.com</a> makes use of log files. Such files simply keep visitors to the site, which is a standard procedure for hosting companies and hosting services analysis. The information included in the log files includes IP address, browser type, internet service provider, date / time stamp, reference / exit pages and possibly the click count. This information is used to analyze trends, manage the website, track user navigation around the website, and gather demographic information. The IP address and other data are not linked to any information that is personally identifiable, these data may be used by the group of companies belonging to Marketing Standard S.A.R.L.
+    <p>Like many other websites, <a href="index.php">qualitasplaza.com</a> makes use of log files. Such files simply keep visitors to the site, which is a standard procedure for hosting companies and hosting services analysis. The information included in the log files includes IP address, browser type, internet service provider, date / time stamp, reference / exit pages and possibly the click count. This information is used to analyze trends, manage the website, track user navigation around the website, and gather demographic information. The IP address and other data are not linked to any information that is personally identifiable, these data may be used by the group of companies belonging to Marketing Standard S.A.R.L.
 </p>
     <br>
     <h2>COOKIES AND WEB BEACONS</h2>
-    <p><a href="index.html">qualitasplaza.com</a> uses cookies to store information about visitors' preferences, to record user-specific information about the websites they visit and to personalize the content of our website based on the type of browser or other information that the user Sends by these means.</p>
+    <p><a href="index.php">qualitasplaza.com</a> uses cookies to store information about visitors' preferences, to record user-specific information about the websites they visit and to personalize the content of our website based on the type of browser or other information that the user Sends by these means.</p>
     <br>
     <h2>OUR ADVERTISEMENT ALLIES</h2>
     <p>Some of our advertising partners may use cookies and web beacons on our site. Our allies are:</p>
@@ -80,10 +80,10 @@
       <li>Facebook</li>
       <li>AgileCRM</li>
     </ul>
-    <p>While each of these advertising partners have their own Privacy Policy, an updated resource for that information can be found here: <a href="policy.html">Privacy Policies.</a></p>
+    <p>While each of these advertising partners have their own Privacy Policy, an updated resource for that information can be found here: <a href="policy.php">Privacy Policies.</a></p>
     <p>You can consult this list to locate the privacy policies of each of our advertising allies.</p>
-    <p>These servers or networks use in their respective advertisements links that appear in <a href="index.html">qualitasplaza.com</a> and that are sent directly to your browser. These automatically receive their IP address when this occurs. Other technologies (such as cookies, JavaScript or Web Beacons) can also be used by our advertising partners to measure the effectiveness of the campaigns and / or customize the content you see on the website.</p>
-    <p><a href="index.html">qualitasplaza.com</a> does not have access or control over these cookies that are used by our advertising allies.</p>
+    <p>These servers or networks use in their respective advertisements links that appear in <a href="index.php">qualitasplaza.com</a> and that are sent directly to your browser. These automatically receive their IP address when this occurs. Other technologies (such as cookies, JavaScript or Web Beacons) can also be used by our advertising partners to measure the effectiveness of the campaigns and / or customize the content you see on the website.</p>
+    <p><a href="index.php">qualitasplaza.com</a> does not have access or control over these cookies that are used by our advertising allies.</p>
     <p>If you wish to deactivate these cookies, you can do so by modifying the personal options of your browser. Further information on the handling of cookies of your browser can be obtained in the Websites of that browser.</p>
     <p>This privacy policy applies only to our online activity and is valid for visitors to our website and refers to information shared and collected there. This policy is not valid for information obtained by channels other than this website.</p>
     <br>
