@@ -497,7 +497,7 @@
                 <span class="u-link-v6-arrow g-font-size-18">→</span>
               </span>
 
-              <a class="u-link-v2" href="calidad.html"></a>
+              <a class="u-link-v2" href="calidad.php"></a>
             </article>
             <!-- End Icon Block -->
           </div>
@@ -524,7 +524,7 @@
                 <span class="u-link-v6-arrow g-font-size-18">→</span>
               </span>
 
-              <a class="u-link-v2" href="ecommerce.html"></a>
+              <a class="u-link-v2" href="ecommerce.php"></a>
             </article>
             <!-- End Icon Block -->
           </div>
@@ -551,7 +551,7 @@
                 <span class="u-link-v6-arrow g-font-size-18">→</span>
               </span>
 
-              <a class="u-link-v2" href="alertas.html"></a>
+              <a class="u-link-v2" href="alertas.php"></a>
             </article>
             <!-- End Icon Block -->
           </div>

@@ -80,8 +80,10 @@
         data-options='{direction: "reverse", settings_mode_oneelement_max_offset: "150"}'>
         <div
           class="divimage dzsparallaxer--target w-100 g-bg-cover g-bg-pos-top-center g-bg-img-hero g-bg-bluegray-opacity-0_2--after"
-          style="height: 130%; background-image: url(assets/img-temp/header.jpg);"></div>
-
+          style="height: 130%;"
+          loading="lazy"
+          data-src="assets/img-temp/header.jpg"
+        ></div>
         <div class="container g-bg-cover__inner g-py-100">
           <div class="row align-items-center">
             <div class="col-lg-6 g-mb-30 g-mb-0--lg">
@@ -139,8 +141,8 @@
           <div class="col-lg-4 align-self-center">
             <div class="input-group">
               <div class="input-group-append">
-                <!--<a href="actualizacion-tool.html">-->
-                <button onclick="window.location.href='actualizacion-tool.html'"
+                <!--<a href="actualizacion-tool.php">-->
+                <button onclick="window.location.href='actualizacion-tool.php'"
                   class="btn u-btn-primary rounded-0 url-button">Sí, quiero una DEMO</button>
                 <!--</a>-->
               </div>
@@ -499,7 +501,7 @@
         <div class="row">
           <div class="col-lg-3 g-mb-30">
             <!-- Icon Blocks -->
-            <a href="programadores.html">
+            <a href="programadores.php">
               <div
                 class="g-bg-cover g-bg-size-cover g-bg-black-opacity-0_7--after g-color-white text-center g-py-60 g-px-30"
                 style="background: url(assets/img-temp/nosotros1.jpg);background-position: center;">
@@ -517,7 +519,7 @@
 
           <div class="col-lg-3 g-mb-30">
             <!-- Icon Blocks -->
-            <a href="agencias.html">
+            <a href="agencias.php">
               <div
                 class="g-bg-cover g-bg-size-cover g-bg-black-opacity-0_7--after g-color-white text-center g-py-60 g-px-30"
                 style="background: url(assets/img-temp/foto2.jpg);background-position: center;">
@@ -535,7 +537,7 @@
 
           <div class="col-lg-3 g-mb-30">
             <!-- Icon Blocks -->
-            <a href="partners.html">
+            <a href="partners.php">
               <div
                 class="g-bg-cover g-bg-size-cover g-bg-black-opacity-0_7--after g-color-white text-center g-py-60 g-px-30"
                 style="background: url(assets/img-temp/foto3.jpg);background-position: center;">
@@ -553,7 +555,7 @@
 
           <div class="col-lg-3 g-mb-30">
             <!-- Icon Blocks -->
-            <a href="freelancers.html">
+            <a href="freelancers.php">
               <div
                 class="g-bg-cover g-bg-size-cover g-bg-black-opacity-0_7--after g-color-white text-center g-py-60 g-px-30"
                 style="background: url(assets/img-temp/foto4.jpg);background-position: center;">

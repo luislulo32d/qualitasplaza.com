@@ -37,11 +37,11 @@
               <ul class="list-unstyled">
                 <li class="g-mb-5">
                   <i class="fa fa-angle-right g-mr-5"></i>
-                  <a class="g-color-white-opacity-0_8" href="services.html">Services</a>
+                  <a class="g-color-white-opacity-0_8" href="services.php">Services</a>
                 </li>
                 <li class="g-mb-5">
                   <i class="fa fa-angle-right g-mr-5"></i>
-                  <a class="g-color-white-opacity-0_8" href="plans.html">Plans</a>
+                  <a class="g-color-white-opacity-0_8" href="plans.php">Plans</a>
                 </li>
               </ul>
               <br>
@@ -51,15 +51,15 @@
               <ul class="list-unstyled">
                 <li class="g-mb-5">
                   <i class="fa fa-angle-right g-mr-5"></i>
-                  <a class="g-color-white-opacity-0_8" href="questions.html">Frequently Asked Questions</a>
+                  <a class="g-color-white-opacity-0_8" href="questions.php">Frequently Asked Questions</a>
                 </li>
                 <li class="g-mb-5">
                   <i class="fa fa-angle-right g-mr-5"></i>
-                  <a class="g-color-white-opacity-0_8" href="policy.html">Privacy Policy</a>
+                  <a class="g-color-white-opacity-0_8" href="policy.php">Privacy Policy</a>
                 </li>
                 <li class="g-mb-5">
                   <i class="fa fa-angle-right g-mr-5"></i>
-                  <a class="g-color-white-opacity-0_8" href="terms.html">Terms and Conditions</a>
+                  <a class="g-color-white-opacity-0_8" href="terms.php">Terms and Conditions</a>
                 </li>
               </ul>
             </div>
@@ -72,19 +72,19 @@
               <ul class="list-unstyled">
                 <li class="g-mb-5">
                   <i class="fa fa-angle-right g-mr-5"></i>
-                  <a class="g-color-white-opacity-0_8" href="partners2.html">Partners</a>
+                  <a class="g-color-white-opacity-0_8" href="partners2.php">Partners</a>
                 </li>
                 <li class="g-mb-5">
                   <i class="fa fa-angle-right g-mr-5"></i>
-                  <a class="g-color-white-opacity-0_8" href="programmers.html">Programmers</a>
+                  <a class="g-color-white-opacity-0_8" href="programmers.php">Programmers</a>
                 </li>
                 <li class="g-mb-5">
                   <i class="fa fa-angle-right g-mr-5"></i>
-                  <a class="g-color-white-opacity-0_8" href="agencies.html">Agencies</a>
+                  <a class="g-color-white-opacity-0_8" href="agencies.php">Agencies</a>
                 </li>
                 <li class="g-mb-5">
                   <i class="fa fa-angle-right g-mr-5"></i>
-                  <a class="g-color-white-opacity-0_8" href="freelancers2.html">Freelancers</a>
+                  <a class="g-color-white-opacity-0_8" href="freelancers2.php">Freelancers</a>
                 </li>
               </ul>
             </div>
@@ -124,7 +124,10 @@
         <!-- Copyright Footer -->
         <div class="g-bg-black-opacity-0_1 g-color-white-opacity-0_8 text-center g-py-20">
           <div class="container">
-            <small class="g-font-size-default g-mr-10 g-mb-10 g-mb-0--md">2023 &copy; All Rights Reserved.
+            <small class="g-font-size-default g-mr-10 g-mb-10 g-mb-0--md">2024
+              
+            
+            &copy; All Rights Reserved.
             </small>
           </div>
         </div>

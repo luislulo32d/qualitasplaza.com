@@ -176,7 +176,7 @@
                   2019</span>
                 <h2 class="h5 g-color-black g-font-weight-600 mb-3">
                   <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer"
-                    href="https://qualitasplaza.com/blog-aumentar-las-ventas.html">Proponemos un diagnóstico integral de
+                    href="https://qualitasplaza.com/blog-aumentar-las-ventas.php">Proponemos un diagnóstico integral de
                     tu negocio online permitiendo verificar y validar los componentes que inciden en la experiencia
                     positiva de tu negocio.</a>
                 </h2>

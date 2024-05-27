@@ -112,7 +112,7 @@
             <div class="col-md-6 g-mb-60 g-mt-15">
               <p>Los usuarios podrán utilizar un servicio de herramienta de evaluación técnica de freemium proporcionado por nosotros y recibir algunos resultados básicos sobre la funcionalidad y la optimización de su sitio web.</p>
               <p>Obtén un análisis parcial de tu portal web sin coste y sin compromiso. Podremos reunirnos o llamarte para explicarte los resultados.</p>
-                 <p>Solicita un diagnóstico gratis <a href="https://qualitasplaza.com/actualizacion-tool.html">aquí</a></p>
+                 <p>Solicita un diagnóstico gratis <a href="https://qualitasplaza.com/actualizacion-tool.php">aquí</a></p>
             </div>
             <div class="col-md-6 g-mb-60">
               <img class="w-100 p-4 g-ml-20" src="assets/img-temp/pc3.jpg" alt="Image Description">
@@ -157,7 +157,7 @@
               <div class="g-bg-white g-pa-30">
                 <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">11 ENE 2019</span>
                 <h2 class="g-font-weight-600 mb-3">
-                    <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer" href="https://qualitasplaza.com/blog-caso-de-estudio.html">¿Cómo dejar de perder clientes y aumentar las ventas? un caso de estudio real</a>
+                    <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer" href="https://qualitasplaza.com/blog-caso-de-estudio.php">¿Cómo dejar de perder clientes y aumentar las ventas? un caso de estudio real</a>
                   </h2>
                 <p class="g-color-gray-dark-v4 g-line-height-1_8">Lo creas o no, más del 80% de los sitios web tienen errores técnicos y muchas deficiencias.
                Hay un proceso delicado para mantener a los clientes comprometidos.</p>

@@ -3,7 +3,7 @@
 
 <head>
   <!-- Title -->
-  <title>Qualitas Plaza</title>
+  <title>Qualitas Plaza - Quote-Tester - Test and Adjust Quotes</title>
   <link rel="canonical" href="https://qualitasplaza.com/quote-tester.php">
   <!-- Required Meta Tags Always Come First -->
   <meta charset="utf-8">
@@ -92,7 +92,7 @@
 <input type="hidden" id="_agile_form_name" name="_agile_form_name" value="Get a Quote - Tester">
 <input type="hidden" id="_agile_domain" name="_agile_domain" value="qualitasplaza">
 <input type="hidden" id="_agile_api" name="_agile_api" value="4cfvjhag0ln8k6pkbrh4im157l">
-<input type="hidden" id="_agile_redirect_url" name="_agile_redirect_url" value="https://qualitasplaza.com/thanks.html">
+<input type="hidden" id="_agile_redirect_url" name="_agile_redirect_url" value="https://qualitasplaza.com/thanks.php">
 <input type="hidden" id="_agile_document_url" name="_agile_document_url" value="">
 <input type="hidden" id="_agile_confirmation_msg" name="_agile_confirmation_msg" value="">
 <input type="hidden" id="_agile_form_id_tags" name="tags" value="cotizacion-tester-eng">
@@ -182,7 +182,7 @@
 <input type="hidden" id="_agile_form_name" name="_agile_form_name" value="Newsletter Subscription">
 <input type="hidden" id="_agile_domain" name="_agile_domain" value="qualitasplaza">
 <input type="hidden" id="_agile_api" name="_agile_api" value="4cfvjhag0ln8k6pkbrh4im157l">
-<input type="hidden" id="_agile_redirect_url" name="_agile_redirect_url" value="https://qualitasplaza.com/thanks-subscription.html">
+<input type="hidden" id="_agile_redirect_url" name="_agile_redirect_url" value="https://qualitasplaza.com/thanks-subscription.php">
 <input type="hidden" id="_agile_document_url" name="_agile_document_url" value="">
 <input type="hidden" id="_agile_confirmation_msg" name="_agile_confirmation_msg" value="">
 <input type="hidden" id="_agile_form_id_tags" name="tags" value="suscriptor-boletin-eng">

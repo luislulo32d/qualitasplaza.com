@@ -65,7 +65,7 @@
             <!-- End Responsive Toggle Button -->
 
             <!-- Logo -->
-            <a href="index.html">
+            <a href="index.php">
               <img src="assets/img-temp/qualitasplaza.png" alt="qualitas plaza header" width="240" style="margin-right: 80px;">
             </a>
             <!-- End Logo -->
@@ -651,7 +651,7 @@ verifica caídas de tu portal Web.</p>
 <input type="hidden" id="_agile_form_name" name="_agile_form_name" value="Ingresa al programa especial">
 <input type="hidden" id="_agile_domain" name="_agile_domain" value="qualitasplaza">
 <input type="hidden" id="_agile_api" name="_agile_api" value="4cfvjhag0ln8k6pkbrh4im157l">
-<input type="hidden" id="_agile_redirect_url" name="_agile_redirect_url" value="https://qualitasplaza.com/gracias.html">
+<input type="hidden" id="_agile_redirect_url" name="_agile_redirect_url" value="https://qualitasplaza.com/gracias.php">
 <input type="hidden" id="_agile_document_url" name="_agile_document_url" value="">
 <input type="hidden" id="_agile_confirmation_msg" name="_agile_confirmation_msg" value="">
 <input type="hidden" id="_agile_form_id_tags" name="tags" value="diagostico">

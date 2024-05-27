@@ -77,7 +77,7 @@
                 requerimientos de tu negocio</p>
             </div>
             <a class="btn u-btn-primary g-brd-main--hover g-bg-main--hover g-font-weight-600 g-font-size-12 text-uppercase g-px-25 g-py-13 mr-3"
-              href="cotizacion-negocios.html">
+              href="cotizacion-negocios.php">
               Solicitar presupuesto
               <i class="g-pos-rel g-top-minus-1 ml-2 fa fa-angle-right"></i>
             </a>
@@ -103,14 +103,14 @@
               <div class="row no-gutters">
                 <div class="col">
                   <a class="btn btn-block u-btn-facebook g-font-weight-600 g-font-size-12 text-uppercase g-rounded-right-0 g-rounded-left-3 g-px-25 g-py-13"
-                    href="actualizacion-tool.html">
+                    href="actualizacion-tool.php">
                     <i class=""></i>
                     Solicitar acceso
                   </a>
                 </div>
                 <div class="col">
                   <a class="btn btn-block u-btn-twitter g-font-weight-600 g-font-size-12 text-uppercase g-rounded-left-0 g-rounded-right-3 g-px-25 g-py-13"
-                    href="index.html">
+                    href="index.php">
                     <i class=""></i>
                     Salir
                   </a>

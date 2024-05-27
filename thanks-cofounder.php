@@ -78,7 +78,7 @@
             <div class="d-inline-block g-width-35 g-height-2 g-bg-primary mb-2"></div>
                <p class="mb-0">We will contact you through your email to set up an interview. We will send you a proposal to meeting in the next few days.</p>
                  <br>
-                  <a class="btn btn-md u-btn-primary g-font-size-default rounded-0 g-py-10" href="https://qualitasplaza.com/index_en.html"> Back to home</a>
+                  <a class="btn btn-md u-btn-primary g-font-size-default rounded-0 g-py-10" href="https://qualitasplaza.com/index_en.php"> Back to home</a>
      
           </div>
           <!-- End Heading -->

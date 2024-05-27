@@ -71,7 +71,7 @@
             <!-- End Responsive Toggle Button -->
 
             <!-- Logo -->
-            <a href="../../index.html" class="navbar-brand d-flex">
+            <a href="../../index.php" class="navbar-brand d-flex">
               <svg width="86px" height="32px" viewBox="0 0 86 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
                   <g transform="translate(-78.000000, -19.000000)">
@@ -91,7 +91,7 @@
               <ul class="navbar-nav text-uppercase g-pos-rel g-font-weight-600 ml-auto">
                 <!-- Intro -->
                 <li class="nav-item  g-mx-10--lg g-mx-15--xl">
-                  <a href="../../index.html" class="nav-link g-py-7 g-px-0">Intro</a>
+                  <a href="../../index.php" class="nav-link g-py-7 g-px-0">Intro</a>
                 </li>
                 <!-- End Intro -->
 
@@ -108,28 +108,28 @@
                       <div class="col-lg-6">
                         <ul class="list-unstyled">
                           <li class="dropdown-item ">
-                            <a href="../../unify-main/home/home-default.html" class="nav-link">Default</a>
+                            <a href="../../unify-main/home/home-default.php" class="nav-link">Default</a>
                           </li>
                           <li class="dropdown-item ">
-                            <a href="../../unify-main/home/home-incredible.html" class="nav-link">Incredible</a>
+                            <a href="../../unify-main/home/home-incredible.php" class="nav-link">Incredible</a>
                           </li>
                           <li class="dropdown-item ">
-                            <a href="../../unify-main/home/home-studio.html" class="nav-link">Studio</a>
+                            <a href="../../unify-main/home/home-studio.php" class="nav-link">Studio</a>
                           </li>
                           <li class="dropdown-item ">
-                            <a href="../../unify-main/home/home-allure.html" class="nav-link">Allure</a>
+                            <a href="../../unify-main/home/home-allure.php" class="nav-link">Allure</a>
                           </li>
                           <li class="dropdown-item ">
-                            <a href="../../unify-main/home/home-inspire.html" class="nav-link">Inspire</a>
+                            <a href="../../unify-main/home/home-inspire.php" class="nav-link">Inspire</a>
                           </li>
                           <li class="dropdown-item ">
-                            <a href="../../unify-main/home/home-portfolio.html" class="nav-link">Portfolio</a>
+                            <a href="../../unify-main/home/home-portfolio.php" class="nav-link">Portfolio</a>
                           </li>
                           <li class="dropdown-item ">
-                            <a href="../../unify-main/home/home-creative.html" class="nav-link">Creative</a>
+                            <a href="../../unify-main/home/home-creative.php" class="nav-link">Creative</a>
                           </li>
                           <li class="dropdown-item ">
-                            <a href="../../unify-main/home/home-projects.html" class="nav-link">Projects</a>
+                            <a href="../../unify-main/home/home-projects.php" class="nav-link">Projects</a>
                           </li>
                         </ul>
                       </div>
@@ -139,28 +139,28 @@
                       <div class="col-lg-6 g-brd-left--lg g-brd-gray-light-v5">
                         <ul class="list-unstyled">
                           <li class="dropdown-item ">
-                            <a href="../../unify-main/home/home-discover.html" class="nav-link">Discover</a>
+                            <a href="../../unify-main/home/home-discover.php" class="nav-link">Discover</a>
                           </li>
                           <li class="dropdown-item ">
-                            <a href="../../unify-main/home/home-brave.html" class="nav-link">Brave</a>
+                            <a href="../../unify-main/home/home-brave.php" class="nav-link">Brave</a>
                           </li>
                           <li class="dropdown-item ">
-                            <a href="../../unify-main/home/home-business.html" class="nav-link">Business</a>
+                            <a href="../../unify-main/home/home-business.php" class="nav-link">Business</a>
                           </li>
                           <li class="dropdown-item ">
-                            <a href="../../unify-main/home/home-corporate.html" class="nav-link">Corporate</a>
+                            <a href="../../unify-main/home/home-corporate.php" class="nav-link">Corporate</a>
                           </li>
                           <li class="dropdown-item ">
-                            <a href="../../unify-main/home/home-web-agency.html" class="nav-link">Web Agency</a>
+                            <a href="../../unify-main/home/home-web-agency.php" class="nav-link">Web Agency</a>
                           </li>
                           <li class="dropdown-item ">
-                            <a href="../../unify-main/home/home-aspire.html" class="nav-link">Aspire</a>
+                            <a href="../../unify-main/home/home-aspire.php" class="nav-link">Aspire</a>
                           </li>
                           <li class="dropdown-item ">
-                            <a href="../../unify-main/home/home-showcase.html" class="nav-link">Showcase</a>
+                            <a href="../../unify-main/home/home-showcase.php" class="nav-link">Showcase</a>
                           </li>
                           <li class="dropdown-item ">
-                            <a href="../../unify-main/home/home-news.html" class="nav-link">News</a>
+                            <a href="../../unify-main/home/home-news.php" class="nav-link">News</a>
                           </li>
                         </ul>
                       </div>
@@ -183,28 +183,28 @@
                       <!-- Submenu (level 2) -->
                       <ul class="hs-sub-menu list-unstyled u-shadow-v11 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-minus-2" id="nav-submenu--pages--about" aria-labelledby="nav-link--pages--about">
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-about-1.html">About 1</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-about-1.php">About 1</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-about-2.html">About 2</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-about-2.php">About 2</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-about-3.html">About 3</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-about-3.php">About 3</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-about-4.html">About 4</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-about-4.php">About 4</a>
                         </li>
 
                         <li class="dropdown-divider"></li>
 
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-about-me-1.html">About me 1</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-about-me-1.php">About me 1</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-about-me-2.html">About me 2</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-about-me-2.php">About me 2</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-about-me-3.html">About me 3</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-about-me-3.php">About me 3</a>
                         </li>
                       </ul>
                       <!-- End Submenu (level 2) -->
@@ -218,37 +218,37 @@
                       <!-- Submenu (level 2) -->
                       <ul class="hs-sub-menu list-unstyled u-shadow-v11 u-dropdown-col-2 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-minus-2" id="nav-submenu--pages--portfolio" aria-labelledby="nav-link--pages--portfolio">
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-portfolio-case-study-1.html">Case Studies 1</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-portfolio-case-study-1.php">Case Studies 1</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-portfolio-case-study-2.html">Case Studies 2</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-portfolio-case-study-2.php">Case Studies 2</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-portfolio-single-item-1.html">Single item 1</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-portfolio-single-item-1.php">Single item 1</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-portfolio-single-item-2.html">Single item 2</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-portfolio-single-item-2.php">Single item 2</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-portfolio-single-item-3.html">Single item 3</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-portfolio-single-item-3.php">Single item 3</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-portfolio-single-item-4.html">Single item 4</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-portfolio-single-item-4.php">Single item 4</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-portfolio-single-item-5.html">Single item 5</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-portfolio-single-item-5.php">Single item 5</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-portfolio-single-item-6.html">Single item 6</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-portfolio-single-item-6.php">Single item 6</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-portfolio-single-item-7.html">Single item 7</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-portfolio-single-item-7.php">Single item 7</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-portfolio-single-item-8.html">Single item 8</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-portfolio-single-item-8.php">Single item 8</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-portfolio-single-item-9.html">Single item 9</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-portfolio-single-item-9.php">Single item 9</a>
                         </li>
                       </ul>
                       <!-- End Submenu (level 2) -->
@@ -262,79 +262,79 @@
                       <!-- Submenu (level 2) -->
                       <ul class="hs-sub-menu list-unstyled u-shadow-v11 u-dropdown-col-2 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-minus-2" id="nav-submenu--pages--login-signup" aria-labelledby="nav-link--pages--login-signup">
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-login-and-signup-1.html">Login &amp; Signup</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-login-and-signup-1.php">Login &amp; Signup</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-signup-1.html">Signup 1</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-signup-1.php">Signup 1</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-signup-2.html">Signup 2</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-signup-2.php">Signup 2</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-signup-3.html">Signup 3</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-signup-3.php">Signup 3</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-signup-4.html">Signup 4</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-signup-4.php">Signup 4</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-signup-5.html">Signup 5</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-signup-5.php">Signup 5</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-signup-6.html">Signup 6</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-signup-6.php">Signup 6</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-signup-7.html">Signup 7</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-signup-7.php">Signup 7</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-signup-8.html">Signup 8</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-signup-8.php">Signup 8</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-signup-9.html">Signup 9</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-signup-9.php">Signup 9</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-signup-10.html">Signup 10</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-signup-10.php">Signup 10</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-signup-11.html">Signup 11</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-signup-11.php">Signup 11</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-signup-12.html">Signup 12</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-signup-12.php">Signup 12</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-login-1.html">login 1</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-login-1.php">login 1</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-login-2.html">Login 2</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-login-2.php">Login 2</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-login-3.html">Login 3</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-login-3.php">Login 3</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-login-4.html">Login 4</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-login-4.php">Login 4</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-login-5.html">Login 5</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-login-5.php">Login 5</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-login-6.html">Login 6</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-login-6.php">Login 6</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-login-7.html">Login 7</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-login-7.php">Login 7</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-login-8.html">Login 8</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-login-8.php">Login 8</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-login-9.html">Login 9</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-login-9.php">Login 9</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-login-10.html">Login 10</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-login-10.php">Login 10</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-login-11.html">Login 11</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-login-11.php">Login 11</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-login-12.html">Login 12</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-login-12.php">Login 12</a>
                         </li>
                       </ul>
                       <!-- End Submenu (level 2) -->
@@ -348,16 +348,16 @@
                       <!-- Submenu (level 2) -->
                       <ul class="hs-sub-menu list-unstyled u-shadow-v11 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-minus-2" id="nav-submenu--pages--services" aria-labelledby="nav-link--pages--services">
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-services-1.html">Services 1</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-services-1.php">Services 1</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-services-2.html">Services 2</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-services-2.php">Services 2</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-services-3.html">Services 3</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-services-3.php">Services 3</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-services-4.html">Services 4</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-services-4.php">Services 4</a>
                         </li>
                       </ul>
                       <!-- End Submenu (level 2) -->
@@ -371,19 +371,19 @@
                       <!-- Submenu (level 2) -->
                       <ul class="hs-sub-menu list-unstyled u-shadow-v11 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-minus-2" id="nav-submenu--pages--search-result" aria-labelledby="nav-link--pages--search-result">
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-search-results-grid-veiw-1.html">Grid View</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-search-results-grid-veiw-1.php">Grid View</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-search-results-grid-veiw-left-sidebar-1.html">Grid View <span class="g-opacity-0_5">(with Sidebar)</span></a>
+                          <a class="nav-link" href="../../unify-main/pages/page-search-results-grid-veiw-left-sidebar-1.php">Grid View <span class="g-opacity-0_5">(with Sidebar)</span></a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-search-results-list-veiw-1.html">List View 1</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-search-results-list-veiw-1.php">List View 1</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-search-results-list-veiw-2.html">List View 2</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-search-results-list-veiw-2.php">List View 2</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-search-results-list-veiw-left-sidebar-1.html">List View <span class="g-opacity-0_5">(with Sidebar)</span></a>
+                          <a class="nav-link" href="../../unify-main/pages/page-search-results-list-veiw-left-sidebar-1.php">List View <span class="g-opacity-0_5">(with Sidebar)</span></a>
                         </li>
                       </ul>
                       <!-- End Submenu (level 2) -->
@@ -397,37 +397,37 @@
                       <!-- Submenu (level 2) -->
                       <ul class="hs-sub-menu list-unstyled u-shadow-v11 u-dropdown-col-2 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-minus-2" id="nav-submenu--pages--profile" aria-labelledby="nav-link--pages--profile">
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-profile-main-1.html">Main</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-profile-main-1.php">Main</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-profile-profile-1.html">User</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-profile-profile-1.php">User</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-profile-projects-1.html">Projects</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-profile-projects-1.php">Projects</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-profile-comments-1.html">Comments</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-profile-comments-1.php">Comments</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-profile-history-1.html">History</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-profile-history-1.php">History</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-profile-reviews-1.html">Reviews</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-profile-reviews-1.php">Reviews</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-profile-settings-1.html">Settings</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-profile-settings-1.php">Settings</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-profile-users-1.html">Contacts 1</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-profile-users-1.php">Contacts 1</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-profile-users-1-full-width.html">Contacts 1 <span class="g-opacity-0_5">(full width)</span></a>
+                          <a class="nav-link" href="../../unify-main/pages/page-profile-users-1-full-width.php">Contacts 1 <span class="g-opacity-0_5">(full width)</span></a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-profile-users-2.html">Contacts 2</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-profile-users-2.php">Contacts 2</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-profile-users-2-full-width.html">Contacts 2 <span class="g-opacity-0_5">(full width)</span></a>
+                          <a class="nav-link" href="../../unify-main/pages/page-profile-users-2-full-width.php">Contacts 2 <span class="g-opacity-0_5">(full width)</span></a>
                         </li>
                       </ul>
                       <!-- End Submenu (level 2) -->
@@ -441,28 +441,28 @@
                       <!-- Submenu (level 2) -->
                       <ul class="hs-sub-menu list-unstyled u-shadow-v11 u-dropdown-col-2 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-minus-2" id="nav-submenu--pages--contacts" aria-labelledby="nav-link--pages--contacts">
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-contacts-1.html">Сontacts 1</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-contacts-1.php">Сontacts 1</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-contacts-2.html">Сontacts 2</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-contacts-2.php">Сontacts 2</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-contacts-3.html">Сontacts 3</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-contacts-3.php">Сontacts 3</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-contacts-4.html">Сontacts 4</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-contacts-4.php">Сontacts 4</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-contacts-5.html">Сontacts 5</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-contacts-5.php">Сontacts 5</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-contacts-6.html">Сontacts 6</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-contacts-6.php">Сontacts 6</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-contacts-7.html">Сontacts 7</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-contacts-7.php">Сontacts 7</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-contacts-8.html">Сontacts 8</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-contacts-8.php">Сontacts 8</a>
                         </li>
                       </ul>
                       <!-- End Submenu (level 2) -->
@@ -476,10 +476,10 @@
                       <!-- Submenu (level 2) -->
                       <ul class="hs-sub-menu list-unstyled u-shadow-v11 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-minus-2" id="nav-submenu--pages--jobs" aria-labelledby="nav-link--pages--jobs">
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-jobs-1.html">Jobs</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-jobs-1.php">Jobs</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-jobs-description-right-sidebar-1.html">Jobs Description</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-jobs-description-right-sidebar-1.php">Jobs Description</a>
                         </li>
                       </ul>
                       <!-- End Submenu (level 2) -->
@@ -488,7 +488,7 @@
 
                     <!-- Pages - Pricing -->
                     <li class="dropdown-item ">
-                      <a class="nav-link" href="../../unify-main/pages/page-pricing-1.html">Pricing</a>
+                      <a class="nav-link" href="../../unify-main/pages/page-pricing-1.php">Pricing</a>
                     </li>
                     <!-- End Pages - Pricing -->
 
@@ -499,10 +499,10 @@
                       <!-- Submenu (level 2) -->
                       <ul class="hs-sub-menu list-unstyled u-shadow-v11 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-minus-2" id="nav-submenu--pages--faq" aria-labelledby="nav-link--pages--faq">
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-faq-1.html">FAQ 1</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-faq-1.php">FAQ 1</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-faq-2.html">FAQ 2</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-faq-2.php">FAQ 2</a>
                         </li>
                       </ul>
                       <!-- End Submenu (level 2) -->
@@ -516,25 +516,25 @@
                       <ul class="hs-sub-menu list-unstyled u-shadow-v11 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-minus-2" id="nav-submenu--pages--others" aria-labelledby="nav-link--pages--others">
                         <!-- Clients -->
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-clients-1.html">Clients</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-clients-1.php">Clients</a>
                         </li>
                         <!-- End Clients -->
 
                         <!-- Terms -->
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-terms-1.html">Terms</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-terms-1.php">Terms</a>
                         </li>
                         <!-- End Terms -->
 
                         <!-- Сookies -->
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-cookies-1.html">Сookies</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-cookies-1.php">Сookies</a>
                         </li>
                         <!-- End Сookies -->
 
                         <!-- Invoice -->
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/pages/page-invoice-1.html">Invoice</a>
+                          <a class="nav-link" href="../../unify-main/pages/page-invoice-1.php">Invoice</a>
                         </li>
                         <!-- End Invoice -->
 
@@ -544,10 +544,10 @@
 
                           <ul class="hs-sub-menu list-unstyled u-shadow-v11 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-minus-2 " id="nav-submenu--pages--404" aria-labelledby="nav-link--pages--404">
                             <li class="dropdown-item ">
-                              <a class="nav-link" href="../../specialty-pages/404/404-1.html">404 1</a>
+                              <a class="nav-link" href="../../specialty-pages/404/404-1.php">404 1</a>
                             </li>
                             <li class="dropdown-item ">
-                              <a class="nav-link" href="../../specialty-pages/404/404-2.html">404 2</a>
+                              <a class="nav-link" href="../../specialty-pages/404/404-2.php">404 2</a>
                             </li>
                           </ul>
                         </li>
@@ -559,7 +559,7 @@
 
                           <ul class="hs-sub-menu list-unstyled u-shadow-v11 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-minus-2 " id="nav-submenu--pages--coming-soon" aria-labelledby="nav-link--pages--coming-soon">
                             <li class="dropdown-item ">
-                              <a class="nav-link" href="../../specialty-pages/coming-soon/page-coming-soon-1.html">Coming Soon</a>
+                              <a class="nav-link" href="../../specialty-pages/coming-soon/page-coming-soon-1.php">Coming Soon</a>
                             </li>
                           </ul>
                         </li>
@@ -583,40 +583,40 @@
                       <!-- Submenu (level 2) -->
                       <ul class="hs-sub-menu list-unstyled u-shadow-v11 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-minus-2" id="nav-submenu--pages--blog--minimal" aria-labelledby="nav-link--pages--blog--minimal">
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-minimal-1.html">Minimal 1</a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-minimal-1.php">Minimal 1</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-minimal-1-left-sidebar.html">Minimal 1 <span class="g-opacity-0_5">(left sidebar)</span></a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-minimal-1-left-sidebar.php">Minimal 1 <span class="g-opacity-0_5">(left sidebar)</span></a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-minimal-1-right-sidebar.html">Minimal 1 <span class="g-opacity-0_5">(right sidebar)</span></a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-minimal-1-right-sidebar.php">Minimal 1 <span class="g-opacity-0_5">(right sidebar)</span></a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-minimal-2.html">Minimal 2</a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-minimal-2.php">Minimal 2</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-minimal-2-left-sidebar.html">Minimal 2 <span class="g-opacity-0_5">(left sidebar)</span></a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-minimal-2-left-sidebar.php">Minimal 2 <span class="g-opacity-0_5">(left sidebar)</span></a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-minimal-2-right-sidebar.html">Minimal 2 <span class="g-opacity-0_5">(right sidebar)</span></a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-minimal-2-right-sidebar.php">Minimal 2 <span class="g-opacity-0_5">(right sidebar)</span></a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-minimal-3.html">Minimal 3</a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-minimal-3.php">Minimal 3</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-minimal-3-left-sidebar.html">Minimal 3 <span class="g-opacity-0_5">(left sidebar)</span></a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-minimal-3-left-sidebar.php">Minimal 3 <span class="g-opacity-0_5">(left sidebar)</span></a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-minimal-3-right-sidebar.html">Minimal 3 <span class="g-opacity-0_5">(right sidebar)</span></a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-minimal-3-right-sidebar.php">Minimal 3 <span class="g-opacity-0_5">(right sidebar)</span></a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-minimal-4.html">Minimal 4</a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-minimal-4.php">Minimal 4</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-minimal-4-left-sidebar.html">Minimal 4 <span class="g-opacity-0_5">(left sidebar)</span></a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-minimal-4-left-sidebar.php">Minimal 4 <span class="g-opacity-0_5">(left sidebar)</span></a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-minimal-4-right-sidebar.html">Minimal 4 <span class="g-opacity-0_5">(right sidebar)</span></a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-minimal-4-right-sidebar.php">Minimal 4 <span class="g-opacity-0_5">(right sidebar)</span></a>
                         </li>
                       </ul>
                       <!-- End Submenu (level 2) -->
@@ -630,25 +630,25 @@
                       <!-- Submenu (level 2) -->
                       <ul class="hs-sub-menu list-unstyled u-shadow-v11 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-minus-2" id="nav-submenu--pages--blog--grid-bg" aria-labelledby="nav-link--pages--blog--grid-bg">
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-grid-background-overlay-2.html">Column 2</a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-grid-background-overlay-2.php">Column 2</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-grid-background-overlay-left-sidebar.html">Column 2 <span class="g-opacity-0_5">(left sidebar)</span></a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-grid-background-overlay-left-sidebar.php">Column 2 <span class="g-opacity-0_5">(left sidebar)</span></a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-grid-background-overlay-right-sidebar.html">Column 2 <span class="g-opacity-0_5">(right sidebar)</span></a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-grid-background-overlay-right-sidebar.php">Column 2 <span class="g-opacity-0_5">(right sidebar)</span></a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-grid-background-overlay-3.html">Column 3</a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-grid-background-overlay-3.php">Column 3</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-grid-background-overlay-3-fullwidth.html">Column 3 <span class="g-opacity-0_5">(full width)</span></a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-grid-background-overlay-3-fullwidth.php">Column 3 <span class="g-opacity-0_5">(full width)</span></a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-grid-background-overlay-4.html">Column 4</a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-grid-background-overlay-4.php">Column 4</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-grid-background-overlay-4-fullwidth.html">Column 4 <span class="g-opacity-0_5">(full width)</span></a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-grid-background-overlay-4-fullwidth.php">Column 4 <span class="g-opacity-0_5">(full width)</span></a>
                         </li>
                       </ul>
                       <!-- End Submenu (level 2) -->
@@ -662,25 +662,25 @@
                       <!-- Submenu (level 2) -->
                       <ul class="hs-sub-menu list-unstyled u-shadow-v11 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-minus-2" id="nav-submenu--pages--blog--grid-classic" aria-labelledby="nav-link--pages--blog--grid-classic">
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-grid-classic-2.html">Column 2</a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-grid-classic-2.php">Column 2</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-grid-classic-left-sidebar.html">Column 2 <span class="g-opacity-0_5">(left sidebar)</span></a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-grid-classic-left-sidebar.php">Column 2 <span class="g-opacity-0_5">(left sidebar)</span></a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-grid-classic-right-sidebar.html">Column 2 <span class="g-opacity-0_5">(right sidebar)</span></a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-grid-classic-right-sidebar.php">Column 2 <span class="g-opacity-0_5">(right sidebar)</span></a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-grid-classic-3.html">Column 3</a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-grid-classic-3.php">Column 3</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-grid-classic-3-fullwidth.html">Column 3 <span class="g-opacity-0_5">(full width)</span></a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-grid-classic-3-fullwidth.php">Column 3 <span class="g-opacity-0_5">(full width)</span></a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-grid-classic-4.html">Column 4</a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-grid-classic-4.php">Column 4</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-grid-classic-4-fullwidth.html">Column 4 <span class="g-opacity-0_5">(full width)</span></a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-grid-classic-4-fullwidth.php">Column 4 <span class="g-opacity-0_5">(full width)</span></a>
                         </li>
                       </ul>
                       <!-- End Submenu (level 2) -->
@@ -694,10 +694,10 @@
                       <!-- Submenu (level 2) -->
                       <ul class="hs-sub-menu list-unstyled u-shadow-v11 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-minus-2" id="nav-submenu--pages--blog--grid-modern" aria-labelledby="nav-link--pages--blog--grid-modern">
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-grid-modern-1.html">Modern 1</a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-grid-modern-1.php">Modern 1</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-grid-modern-2.html">Modern 2</a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-grid-modern-2.php">Modern 2</a>
                         </li>
                       </ul>
                       <!-- End Submenu (level 2) -->
@@ -711,22 +711,22 @@
                       <!-- Submenu (level 2) -->
                       <ul class="hs-sub-menu list-unstyled u-shadow-v11 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-minus-2" id="nav-submenu--pages--blog--grid-overlap" aria-labelledby="nav-link--pages--blog--grid-overlap">
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-grid-overlap-2.html">Column 2</a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-grid-overlap-2.php">Column 2</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-grid-overlap-left-sidebar.html">Column 2 <span class="g-opacity-0_5">(left sidebar)</span></a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-grid-overlap-left-sidebar.php">Column 2 <span class="g-opacity-0_5">(left sidebar)</span></a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-grid-overlap-right-sidebar.html">Column 2 <span class="g-opacity-0_5">(right sidebar)</span></a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-grid-overlap-right-sidebar.php">Column 2 <span class="g-opacity-0_5">(right sidebar)</span></a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-grid-overlap-3.html">Column 3</a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-grid-overlap-3.php">Column 3</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-grid-overlap-3-fullwidth.html">Column 3 <span class="g-opacity-0_5">(full width)</span></a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-grid-overlap-3-fullwidth.php">Column 3 <span class="g-opacity-0_5">(full width)</span></a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-grid-overlap-4-fullwidth.html">Column 4 <span class="g-opacity-0_5">(full width)</span></a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-grid-overlap-4-fullwidth.php">Column 4 <span class="g-opacity-0_5">(full width)</span></a>
                         </li>
                       </ul>
                       <!-- End Submenu (level 2) -->
@@ -740,19 +740,19 @@
                       <!-- Submenu (level 2) -->
                       <ul class="hs-sub-menu list-unstyled u-shadow-v11 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-minus-2" id="nav-submenu--pages--blog--masonry" aria-labelledby="nav-link--pages--blog--masonry">
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-masonry-col-2.html">Column 2</a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-masonry-col-2.php">Column 2</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-masonry-col-3.html">Column 3</a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-masonry-col-3.php">Column 3</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-masonry-col-3-fullwidth.html">Column 3 <span class="g-opacity-0_5">(full width)</span></a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-masonry-col-3-fullwidth.php">Column 3 <span class="g-opacity-0_5">(full width)</span></a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-masonry-col-4.html">Column 4</a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-masonry-col-4.php">Column 4</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-masonry-col-4-fullwidth.html">Column 4 <span class="g-opacity-0_5">(full width)</span></a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-masonry-col-4-fullwidth.php">Column 4 <span class="g-opacity-0_5">(full width)</span></a>
                         </li>
                       </ul>
                       <!-- End Submenu (level 2) -->
@@ -766,10 +766,10 @@
                       <!-- Submenu (level 2) -->
                       <ul class="hs-sub-menu list-unstyled u-shadow-v11 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-minus-2" id="nav-submenu--pages--blog--single-item" aria-labelledby="nav-link--pages--blog--single-item">
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-single-item-1.html">Single item 1</a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-single-item-1.php">Single item 1</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/blog/blog-single-item-2.html">Single item 2</a>
+                          <a class="nav-link" href="../../unify-main/blog/blog-single-item-2.php">Single item 2</a>
                         </li>
                       </ul>
                       <!-- End Submenu (level 2) -->
@@ -786,13 +786,13 @@
                   <ul class="hs-sub-menu list-unstyled u-shadow-v11 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-18 g-mt-8--lg--scrolling" id="nav-submenu--features" aria-labelledby="nav-link--features">
                     <!-- Features - Headers -->
                     <li class="dropdown-item ">
-                      <a class="nav-link" href="../../unify-main/shortcodes/headers/index.html">Headers</a>
+                      <a class="nav-link" href="../../unify-main/shortcodes/headers/index.php">Headers</a>
                     </li>
                     <!-- End Features - Headers -->
 
                     <!-- Features - Promo blocks -->
                     <li class="dropdown-item ">
-                      <a class="nav-link" href="../../unify-main/shortcodes/promo/index.html">Promo Blocks</a>
+                      <a class="nav-link" href="../../unify-main/shortcodes/promo/index.php">Promo Blocks</a>
                     </li>
                     <!-- End Features - Promo blocks -->
 
@@ -802,10 +802,10 @@
 
                       <ul class="hs-sub-menu list-unstyled u-shadow-v11 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-minus-2" id="nav-submenu--features--sliders" aria-labelledby="nav-link--features--sliders">
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../revolution-slider/index.html">Revolution sliders</a>
+                          <a class="nav-link" href="../../revolution-slider/index.php">Revolution sliders</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../master-slider/index.html">Master sliders</a>
+                          <a class="nav-link" href="../../master-slider/index.php">Master sliders</a>
                         </li>
                       </ul>
                     </li>
@@ -817,13 +817,13 @@
 
                       <ul class="hs-sub-menu list-unstyled u-shadow-v11 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-minus-2" id="nav-submenu--features--pop-ups" aria-labelledby="nav-link--features--pop-ups">
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/shortcodes/shortcode-base-lightbox.html">Lightbox</a>
+                          <a class="nav-link" href="../../unify-main/shortcodes/shortcode-base-lightbox.php">Lightbox</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/shortcodes/shortcode-base-modals.html">Modals</a>
+                          <a class="nav-link" href="../../unify-main/shortcodes/shortcode-base-modals.php">Modals</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/shortcodes/shortcode-blocks-gallery-grid.html">Gallery</a>
+                          <a class="nav-link" href="../../unify-main/shortcodes/shortcode-blocks-gallery-grid.php">Gallery</a>
                         </li>
                       </ul>
                     </li>
@@ -835,13 +835,13 @@
 
                       <ul class="hs-sub-menu list-unstyled u-shadow-v11 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-minus-2" id="nav-submenu--features--maps" aria-labelledby="nav-link--features--maps">
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/shortcodes/shortcode-base-google-maps.html">Google Maps</a>
+                          <a class="nav-link" href="../../unify-main/shortcodes/shortcode-base-google-maps.php">Google Maps</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/shortcodes/shortcode-base-maps-with-pins.html">Maps With Pins</a>
+                          <a class="nav-link" href="../../unify-main/shortcodes/shortcode-base-maps-with-pins.php">Maps With Pins</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/shortcodes/shortcode-base-vector-maps.html">Vector Maps</a>
+                          <a class="nav-link" href="../../unify-main/shortcodes/shortcode-base-vector-maps.php">Vector Maps</a>
                         </li>
                       </ul>
                     </li>
@@ -853,16 +853,16 @@
 
                       <ul class="hs-sub-menu list-unstyled u-shadow-v11 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-minus-2" id="nav-submenu--features--footers" aria-labelledby="nav-link--features--footers">
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/shortcodes/footers/shortcode-blocks-footer-classic.html">Classic Footers</a>
+                          <a class="nav-link" href="../../unify-main/shortcodes/footers/shortcode-blocks-footer-classic.php">Classic Footers</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/shortcodes/footers/shortcode-blocks-footer-contact-forms.html">Contact Forms</a>
+                          <a class="nav-link" href="../../unify-main/shortcodes/footers/shortcode-blocks-footer-contact-forms.php">Contact Forms</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/shortcodes/footers/shortcode-blocks-footer-maps.html">Footers Maps</a>
+                          <a class="nav-link" href="../../unify-main/shortcodes/footers/shortcode-blocks-footer-maps.php">Footers Maps</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../unify-main/shortcodes/footers/shortcode-blocks-footer-modern.html">Modern Footers</a>
+                          <a class="nav-link" href="../../unify-main/shortcodes/footers/shortcode-blocks-footer-modern.php">Modern Footers</a>
                         </li>
                       </ul>
                     </li>
@@ -873,7 +873,7 @@
 
                 <!-- Shortcodes -->
                 <li class="nav-item active g-mx-10--lg g-mx-15--xl">
-                  <a href="../../unify-main/shortcodes/index.html" class="nav-link g-py-7 g-px-0">Shortcodes</a>
+                  <a href="../../unify-main/shortcodes/index.php" class="nav-link g-py-7 g-px-0">Shortcodes</a>
                 </li>
                 <!-- End Shortcodes -->
 
@@ -888,67 +888,67 @@
 
                       <ul class="hs-sub-menu list-unstyled u-shadow-v11 u-dropdown-col-2 g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-mt-minus-2 hs-reversed" id="nav-submenu--demos--one-page" aria-labelledby="nav-link--demos--one-page">
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../one-pages/accounting/index.html" target="_blank">Accounting</a>
+                          <a class="nav-link" href="../../one-pages/accounting/index.php" target="_blank">Accounting</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../one-pages/agency/index.html" target="_blank">Agency</a>
+                          <a class="nav-link" href="../../one-pages/agency/index.php" target="_blank">Agency</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../one-pages/app/index.html" target="_blank">App</a>
+                          <a class="nav-link" href="../../one-pages/app/index.php" target="_blank">App</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../one-pages/architecture/index.html" target="_blank">Architecture</a>
+                          <a class="nav-link" href="../../one-pages/architecture/index.php" target="_blank">Architecture</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../one-pages/business/index.html" target="_blank">Business</a>
+                          <a class="nav-link" href="../../one-pages/business/index.php" target="_blank">Business</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../one-pages/charity/index.html" target="_blank">Charity</a>
+                          <a class="nav-link" href="../../one-pages/charity/index.php" target="_blank">Charity</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../one-pages/consulting/index.html" target="_blank">Сonsulting</a>
+                          <a class="nav-link" href="../../one-pages/consulting/index.php" target="_blank">Сonsulting</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../one-pages/construction/index.html" target="_blank">Construction</a>
+                          <a class="nav-link" href="../../one-pages/construction/index.php" target="_blank">Construction</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../one-pages/courses/index.html" target="_blank">Courses</a>
+                          <a class="nav-link" href="../../one-pages/courses/index.php" target="_blank">Courses</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../one-pages/corporate/index.html" target="_blank">Corporate</a>
+                          <a class="nav-link" href="../../one-pages/corporate/index.php" target="_blank">Corporate</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../one-pages/event/index.html" target="_blank">Event</a>
+                          <a class="nav-link" href="../../one-pages/event/index.php" target="_blank">Event</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../one-pages/gym/index.html" target="_blank">GYM</a>
+                          <a class="nav-link" href="../../one-pages/gym/index.php" target="_blank">GYM</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../one-pages/lawyer/index.html" target="_blank">Lawyer</a>
+                          <a class="nav-link" href="../../one-pages/lawyer/index.php" target="_blank">Lawyer</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../one-pages/music/index.html" target="_blank">Music</a>
+                          <a class="nav-link" href="../../one-pages/music/index.php" target="_blank">Music</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../one-pages/photography/index.html" target="_blank">Photography</a>
+                          <a class="nav-link" href="../../one-pages/photography/index.php" target="_blank">Photography</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../one-pages/real-estate/index.html" target="_blank">Real Estate</a>
+                          <a class="nav-link" href="../../one-pages/real-estate/index.php" target="_blank">Real Estate</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../one-pages/restaurant/index.html" target="_blank">Restaurant</a>
+                          <a class="nav-link" href="../../one-pages/restaurant/index.php" target="_blank">Restaurant</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../one-pages/shipping/index.html" target="_blank">Shipping</a>
+                          <a class="nav-link" href="../../one-pages/shipping/index.php" target="_blank">Shipping</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../one-pages/spa/index.html" target="_blank">Spa</a>
+                          <a class="nav-link" href="../../one-pages/spa/index.php" target="_blank">Spa</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../one-pages/travel/index.html" target="_blank">Travel</a>
+                          <a class="nav-link" href="../../one-pages/travel/index.php" target="_blank">Travel</a>
                         </li>
                         <li class="dropdown-item ">
-                          <a class="nav-link" href="../../one-pages/wedding/index.html" target="_blank">Wedding</a>
+                          <a class="nav-link" href="../../one-pages/wedding/index.php" target="_blank">Wedding</a>
                         </li>
                       </ul>
                     </li>
@@ -956,37 +956,37 @@
 
                     <!-- Demos - Admin Template -->
                     <li class="dropdown-item ">
-                      <a class="nav-link" href="../../admin-template/dashboards/dashboard-v1.html" target="_blank">Admin Template <span class="u-label g-rounded-3 g-font-size-10 g-bg-lightred g-py-3 g-pos-rel g-top-minus-1 g-ml-5">New</span></a>
+                      <a class="nav-link" href="../../admin-template/dashboards/dashboard-v1.php" target="_blank">Admin Template <span class="u-label g-rounded-3 g-font-size-10 g-bg-lightred g-py-3 g-pos-rel g-top-minus-1 g-ml-5">New</span></a>
                     </li>
                     <!-- End Demos - Admin Template -->
 
                     <!-- Demos - E-Commerce -->
                     <li class="dropdown-item ">
-                      <a class="nav-link" href="../../e-commerce/home-page-1.html" target="_blank">E-Commerce <span class="g-opacity-0_5">(44 Pages)</span></a>
+                      <a class="nav-link" href="../../e-commerce/home-page-1.php" target="_blank">E-Commerce <span class="g-opacity-0_5">(44 Pages)</span></a>
                     </li>
                     <!-- End Demos - E-Commerce -->
 
                     <!-- Demos - University -->
                     <li class="dropdown-item ">
-                      <a class="nav-link" href="../../multipage/education/home-page-1.html" target="_blank">University <span class="g-opacity-0_5">(13 Pages)</span></a>
+                      <a class="nav-link" href="../../multipage/education/home-page-1.php" target="_blank">University <span class="g-opacity-0_5">(13 Pages)</span></a>
                     </li>
                     <!-- End Demos - University -->
 
                     <!-- Demos - Marketing -->
                     <li class="dropdown-item ">
-                      <a class="nav-link" href="../../multipage/marketing/home-page-1.html" target="_blank">Marketing <span class="g-opacity-0_5">(10 Pages)</span></a>
+                      <a class="nav-link" href="../../multipage/marketing/home-page-1.php" target="_blank">Marketing <span class="g-opacity-0_5">(10 Pages)</span></a>
                     </li>
                     <!-- End Demos - Marketing -->
 
                     <!-- Demos - Real Estate -->
                     <li class="dropdown-item ">
-                      <a class="nav-link" href="../../multipage/real-estate/home-page-1.html" target="_blank">Real Estate <span class="g-opacity-0_5">(13 Pages)</span></a>
+                      <a class="nav-link" href="../../multipage/real-estate/home-page-1.php" target="_blank">Real Estate <span class="g-opacity-0_5">(13 Pages)</span></a>
                     </li>
                     <!-- End Demos - Real Estate -->
 
                     <!-- Demos - Blogs & Magazines -->
                     <li class="dropdown-item ">
-                      <a class="nav-link" href="../../multipage/blog-magazine/classic/bm-classic-home-page-1.html" target="_blank">Blogs &amp; Magazines  <span class="g-opacity-0_5">(6 Pages)</span></a>
+                      <a class="nav-link" href="../../multipage/blog-magazine/classic/bm-classic-home-page-1.php" target="_blank">Blogs &amp; Magazines  <span class="g-opacity-0_5">(6 Pages)</span></a>
                     </li>
                     <!-- End Demos - Blogs & Magazines -->
                   </ul>
@@ -1036,112 +1036,112 @@
 
           <ul class="js-shortcode-filter-result nav flex-column u-sidebar-navigation-list">
             <li class="js-shortcode-filter__item nav-item bases">
-              <a href="../../unify-main/shortcodes/shortcode-base-accordions.html" class="nav-link active">Accordions</a>
+              <a href="../../unify-main/shortcodes/shortcode-base-accordions.php" class="nav-link active">Accordions</a>
             </li>
             <li class="js-shortcode-filter__item nav-item bases">
-              <a href="../../unify-main/shortcodes/shortcode-base-alerts.html" class="nav-link ">Alerts</a>
+              <a href="../../unify-main/shortcodes/shortcode-base-alerts.php" class="nav-link ">Alerts</a>
             </li>
             <li class="js-shortcode-filter__item nav-item bases">
-              <a href="../../unify-main/shortcodes/shortcode-base-badges.html" class="nav-link ">Badges</a>
+              <a href="../../unify-main/shortcodes/shortcode-base-badges.php" class="nav-link ">Badges</a>
             </li>
             <li class="js-shortcode-filter__item nav-item bases">
-              <a href="../../unify-main/shortcodes/shortcode-base-blockquotes.html" class="nav-link ">Blockquotes</a>
+              <a href="../../unify-main/shortcodes/shortcode-base-blockquotes.php" class="nav-link ">Blockquotes</a>
             </li>
             <li class="js-shortcode-filter__item nav-item bases">
-              <a href="../../unify-main/shortcodes/shortcode-base-box-shadows.html" class="nav-link ">Box Shadow</a>
+              <a href="../../unify-main/shortcodes/shortcode-base-box-shadows.php" class="nav-link ">Box Shadow</a>
             </li>
             <li class="js-shortcode-filter__item nav-item bases">
-              <a href="../../unify-main/shortcodes/shortcode-base-breadcrumbs.html" class="nav-link ">Breadcrumbs</a>
+              <a href="../../unify-main/shortcodes/shortcode-base-breadcrumbs.php" class="nav-link ">Breadcrumbs</a>
             </li>
             <li class="js-shortcode-filter__item nav-item bases">
-              <a href="../../unify-main/shortcodes/shortcode-base-buttons.html" class="nav-link ">Buttons</a>
+              <a href="../../unify-main/shortcodes/shortcode-base-buttons.php" class="nav-link ">Buttons</a>
             </li>
             <li class="js-shortcode-filter__item nav-item bases">
-              <a href="../../unify-main/shortcodes/shortcode-base-dividers.html" class="nav-link ">Dividers</a>
+              <a href="../../unify-main/shortcodes/shortcode-base-dividers.php" class="nav-link ">Dividers</a>
             </li>
             <li class="js-shortcode-filter__item nav-item bases">
-              <a href="../../unify-main/shortcodes/shortcode-base-modals.html" class="nav-link ">Modals</a>
+              <a href="../../unify-main/shortcodes/shortcode-base-modals.php" class="nav-link ">Modals</a>
             </li>
             <li class="js-shortcode-filter__item nav-item bases">
-              <a href="../../unify-main/shortcodes/shortcode-base-gradient-backgrounds.html" class="nav-link ">Gradient Backgrounds</a>
+              <a href="../../unify-main/shortcodes/shortcode-base-gradient-backgrounds.php" class="nav-link ">Gradient Backgrounds</a>
             </li>
             <li class="js-shortcode-filter__item nav-item bases">
-              <a href="../../unify-main/shortcodes/shortcode-base-labels.html" class="nav-link ">Labels</a>
+              <a href="../../unify-main/shortcodes/shortcode-base-labels.php" class="nav-link ">Labels</a>
             </li>
             <li class="js-shortcode-filter__item nav-item bases">
-              <a href="../../unify-main/shortcodes/shortcode-base-lists-group.html" class="nav-link ">Lists Group</a>
+              <a href="../../unify-main/shortcodes/shortcode-base-lists-group.php" class="nav-link ">Lists Group</a>
             </li>
             <li class="js-shortcode-filter__item nav-item dropdown bases">
               <a class="nav-link dropdown-toggle " href="#!" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Media</a>
               <div class="dropdown-menu u-dropdown-static">
                 <ul class="nav flex-column">
                   <li class="js-shortcode-filter__item nav-item bases">
-                    <a href="../../unify-main/shortcodes/shortcode-base-media-audios.html" class="nav-link ">Media Audios</a>
+                    <a href="../../unify-main/shortcodes/shortcode-base-media-audios.php" class="nav-link ">Media Audios</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item bases">
-                    <a href="../../unify-main/shortcodes/shortcode-base-media-images.html" class="nav-link ">Media Images</a>
+                    <a href="../../unify-main/shortcodes/shortcode-base-media-images.php" class="nav-link ">Media Images</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item bases">
-                    <a href="../../unify-main/shortcodes/shortcode-base-media-videos.html" class="nav-link ">Media Videos</a>
+                    <a href="../../unify-main/shortcodes/shortcode-base-media-videos.php" class="nav-link ">Media Videos</a>
                   </li>
                 </ul>
               </div>
             </li>
             <li class="js-shortcode-filter__item nav-item bases">
-              <a href="../../unify-main/shortcodes/shortcode-base-onscroll-animations.html" class="nav-link ">Onscroll Animations</a>
+              <a href="../../unify-main/shortcodes/shortcode-base-onscroll-animations.php" class="nav-link ">Onscroll Animations</a>
             </li>
             <li class="js-shortcode-filter__item nav-item bases">
-              <a href="../../unify-main/shortcodes/shortcode-base-paginations.html" class="nav-link ">Paginations</a>
+              <a href="../../unify-main/shortcodes/shortcode-base-paginations.php" class="nav-link ">Paginations</a>
             </li>
             <li class="js-shortcode-filter__item nav-item bases">
-              <a href="../../unify-main/shortcodes/shortcode-base-panels.html" class="nav-link ">Panels</a>
+              <a href="../../unify-main/shortcodes/shortcode-base-panels.php" class="nav-link ">Panels</a>
             </li>
             <li class="js-shortcode-filter__item nav-item bases">
-              <a href="../../unify-main/shortcodes/shortcode-base-progress-bars.html" class="nav-link ">Progress Bars</a>
+              <a href="../../unify-main/shortcodes/shortcode-base-progress-bars.php" class="nav-link ">Progress Bars</a>
             </li>
             <li class="js-shortcode-filter__item nav-item dropdown blocks">
               <a class="nav-link dropdown-toggle " href="#!" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Process Blocks</a>
               <div class="dropdown-menu u-dropdown-static">
                 <ul class="nav flex-column">
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-base-dynamic-process-blocks-1.html" class="nav-link ">Dynamic Process Blocks</a>
+                    <a href="../../unify-main/shortcodes/shortcode-base-dynamic-process-blocks-1.php" class="nav-link ">Dynamic Process Blocks</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-base-static-process-blocks-1.html" class="nav-link ">Static Process Blocks</a>
+                    <a href="../../unify-main/shortcodes/shortcode-base-static-process-blocks-1.php" class="nav-link ">Static Process Blocks</a>
                   </li>
                 </ul>
               </div>
             </li>
             <li class="js-shortcode-filter__item nav-item bases">
-              <a href="../../unify-main/shortcodes/shortcode-base-tables.html" class="nav-link ">Tables</a>
+              <a href="../../unify-main/shortcodes/shortcode-base-tables.php" class="nav-link ">Tables</a>
             </li>
             <li class="js-shortcode-filter__item nav-item bases">
-              <a href="../../unify-main/shortcodes/shortcode-base-taglines.html" class="nav-link ">Taglines</a>
+              <a href="../../unify-main/shortcodes/shortcode-base-taglines.php" class="nav-link ">Taglines</a>
             </li>
             <li class="js-shortcode-filter__item nav-item bases">
-              <a href="../../unify-main/shortcodes/shortcode-base-tags.html" class="nav-link ">Tags</a>
+              <a href="../../unify-main/shortcodes/shortcode-base-tags.php" class="nav-link ">Tags</a>
             </li>
             <li class="js-shortcode-filter__item nav-item bases">
-              <a href="../../unify-main/shortcodes/shortcode-base-headings.html" class="nav-link ">Headings</a>
+              <a href="../../unify-main/shortcodes/shortcode-base-headings.php" class="nav-link ">Headings</a>
             </li>
             <li class="js-shortcode-filter__item nav-item bases">
-              <a href="../../unify-main/shortcodes/shortcode-base-typography.html" class="nav-link ">Typography</a>
+              <a href="../../unify-main/shortcodes/shortcode-base-typography.php" class="nav-link ">Typography</a>
             </li>
             <li class="js-shortcode-filter__item nav-item bases">
-              <a href="../../unify-main/shortcodes/shortcode-base-dropcaps.html" class="nav-link ">Dropcaps</a>
+              <a href="../../unify-main/shortcodes/shortcode-base-dropcaps.php" class="nav-link ">Dropcaps</a>
             </li>
             <li class="js-shortcode-filter__item nav-item dropdown bases">
               <a class="nav-link dropdown-toggle " href="#!" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Maps</a>
               <div class="dropdown-menu u-dropdown-static">
                 <ul class="nav flex-column">
                   <li class="js-shortcode-filter__item nav-item bases">
-                    <a href="../../unify-main/shortcodes/shortcode-base-google-maps.html" class="nav-link ">Google Maps</a>
+                    <a href="../../unify-main/shortcodes/shortcode-base-google-maps.php" class="nav-link ">Google Maps</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item bases">
-                    <a href="../../unify-main/shortcodes/shortcode-base-vector-maps.html" class="nav-link ">Vector Maps</a>
+                    <a href="../../unify-main/shortcodes/shortcode-base-vector-maps.php" class="nav-link ">Vector Maps</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item bases">
-                    <a href="../../unify-main/shortcodes/shortcode-base-maps-with-pins.html" class="nav-link ">Maps With Pins</a>
+                    <a href="../../unify-main/shortcodes/shortcode-base-maps-with-pins.php" class="nav-link ">Maps With Pins</a>
                   </li>
                 </ul>
               </div>
@@ -1151,25 +1151,25 @@
               <div class="dropdown-menu u-dropdown-static">
                 <ul class="nav flex-column">
                   <li class="js-shortcode-filter__item nav-item bases">
-                    <a href="../../unify-main/shortcodes/forms/shortcode-base-forms-bootstrap.html" class="nav-link ">Forms Bootstrap</a>
+                    <a href="../../unify-main/shortcodes/forms/shortcode-base-forms-bootstrap.php" class="nav-link ">Forms Bootstrap</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item bases">
-                    <a href="../../unify-main/shortcodes/forms/shortcode-base-forms-unify.html" class="nav-link ">Forms Unify</a>
+                    <a href="../../unify-main/shortcodes/forms/shortcode-base-forms-unify.php" class="nav-link ">Forms Unify</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/forms/shortcode-base-form-layouts.html" class="nav-link ">Form Layouts</a>
+                    <a href="../../unify-main/shortcodes/forms/shortcode-base-form-layouts.php" class="nav-link ">Form Layouts</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item bases">
-                    <a href="../../unify-main/shortcodes/forms/shortcode-base-forms-horizontal-unify.html" class="nav-link ">Forms Horizontal Unify</a>
+                    <a href="../../unify-main/shortcodes/forms/shortcode-base-forms-horizontal-unify.php" class="nav-link ">Forms Horizontal Unify</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item bases">
-                    <a href="../../unify-main/shortcodes/forms/shortcode-base-forms-disabled-states-unify.html" class="nav-link ">Forms Disabled States Unify</a>
+                    <a href="../../unify-main/shortcodes/forms/shortcode-base-forms-disabled-states-unify.php" class="nav-link ">Forms Disabled States Unify</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item bases">
-                    <a href="../../unify-main/shortcodes/forms/shortcode-base-forms-success-states-unify.html" class="nav-link ">Forms Success States Unify</a>
+                    <a href="../../unify-main/shortcodes/forms/shortcode-base-forms-success-states-unify.php" class="nav-link ">Forms Success States Unify</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item bases">
-                    <a href="../../unify-main/shortcodes/forms/shortcode-base-forms-error-states-unify.html" class="nav-link ">Forms Error States Unify</a>
+                    <a href="../../unify-main/shortcodes/forms/shortcode-base-forms-error-states-unify.php" class="nav-link ">Forms Error States Unify</a>
                   </li>
                 </ul>
               </div>
@@ -1179,93 +1179,93 @@
               <div class="dropdown-menu u-dropdown-static">
                 <ul class="nav flex-column">
                   <li class="js-shortcode-filter__item nav-item bases">
-                    <a href="../../unify-main/shortcodes/icons/shortcode-base-icons.html" class="nav-link ">Icons</a>
+                    <a href="../../unify-main/shortcodes/icons/shortcode-base-icons.php" class="nav-link ">Icons</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item bases">
-                    <a href="../../unify-main/shortcodes/icons/shortcode-base-icon-hovers.html" class="nav-link ">Icon Hovers</a>
+                    <a href="../../unify-main/shortcodes/icons/shortcode-base-icon-hovers.php" class="nav-link ">Icon Hovers</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item bases">
-                    <a href="../../unify-main/shortcodes/icons/shortcode-base-icon-sizes.html" class="nav-link ">Icon Sizes</a>
+                    <a href="../../unify-main/shortcodes/icons/shortcode-base-icon-sizes.php" class="nav-link ">Icon Sizes</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item bases">
-                    <a href="../../unify-main/shortcodes/icons/shortcode-base-social-icons.html" class="nav-link ">Social Icons</a>
+                    <a href="../../unify-main/shortcodes/icons/shortcode-base-social-icons.php" class="nav-link ">Social Icons</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item bases">
-                    <a href="../../unify-main/shortcodes/icons/shortcode-base-icon-fontawesome.html" class="nav-link ">Icon Fontawesome</a>
+                    <a href="../../unify-main/shortcodes/icons/shortcode-base-icon-fontawesome.php" class="nav-link ">Icon Fontawesome</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item bases">
-                    <a href="../../unify-main/shortcodes/icons/shortcode-base-icon-material.html" class="nav-link ">Material Icons</a>
+                    <a href="../../unify-main/shortcodes/icons/shortcode-base-icon-material.php" class="nav-link ">Material Icons</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item bases">
-                    <a href="../../unify-main/shortcodes/icons/shortcode-base-icon-line-icons-pro-1.html" class="nav-link ">Icon Line Icons Pro 1</a>
+                    <a href="../../unify-main/shortcodes/icons/shortcode-base-icon-line-icons-pro-1.php" class="nav-link ">Icon Line Icons Pro 1</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item bases">
-                    <a href="../../unify-main/shortcodes/icons/shortcode-base-icon-line-icons-pro-2.html" class="nav-link ">Icon Line Icons Pro 2</a>
+                    <a href="../../unify-main/shortcodes/icons/shortcode-base-icon-line-icons-pro-2.php" class="nav-link ">Icon Line Icons Pro 2</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item bases">
-                    <a href="../../unify-main/shortcodes/icons/shortcode-base-icon-simple-line-icons.html" class="nav-link ">Icon Simple Line Icons</a>
+                    <a href="../../unify-main/shortcodes/icons/shortcode-base-icon-simple-line-icons.php" class="nav-link ">Icon Simple Line Icons</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item bases">
-                    <a href="../../unify-main/shortcodes/icons/shortcode-base-icon-et-line-icon.html" class="nav-link ">Icon Et Line Icon</a>
+                    <a href="../../unify-main/shortcodes/icons/shortcode-base-icon-et-line-icon.php" class="nav-link ">Icon Et Line Icon</a>
                   </li>
                 </ul>
               </div>
             </li>
             <li class="js-shortcode-filter__item nav-item bases">
-              <a href="../../unify-main/shortcodes/tabs/index.html" class="nav-link ">Tabs</a>
+              <a href="../../unify-main/shortcodes/tabs/index.php" class="nav-link ">Tabs</a>
             </li>
             <li class="js-shortcode-filter__item nav-item blocks">
-              <a href="../../unify-main/shortcodes/portfolios/index.html" class="nav-link ">Portfolios</a>
+              <a href="../../unify-main/shortcodes/portfolios/index.php" class="nav-link ">Portfolios</a>
             </li>
             <li class="js-shortcode-filter__item nav-item blocks">
-              <a href="../../unify-main/shortcodes/headers/index.html" class="nav-link ">Headers</a>
+              <a href="../../unify-main/shortcodes/headers/index.php" class="nav-link ">Headers</a>
             </li>
             <li class="js-shortcode-filter__item nav-item blocks">
-              <a href="../../unify-main/shortcodes/promo/index.html" class="nav-link ">Promo</a>
+              <a href="../../unify-main/shortcodes/promo/index.php" class="nav-link ">Promo</a>
             </li>
             <li class="js-shortcode-filter__item nav-item dropdown blocks">
               <a class="nav-link dropdown-toggle " href="#!" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Footers</a>
               <div class="dropdown-menu u-dropdown-static">
                 <ul class="nav flex-column">
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/footers/shortcode-blocks-footer-classic.html" class="nav-link ">Footer Classic</a>
+                    <a href="../../unify-main/shortcodes/footers/shortcode-blocks-footer-classic.php" class="nav-link ">Footer Classic</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/footers/shortcode-blocks-footer-contact-forms.html" class="nav-link ">Footer Contact Forms</a>
+                    <a href="../../unify-main/shortcodes/footers/shortcode-blocks-footer-contact-forms.php" class="nav-link ">Footer Contact Forms</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/footers/shortcode-blocks-footer-maps.html" class="nav-link ">Footer Maps</a>
+                    <a href="../../unify-main/shortcodes/footers/shortcode-blocks-footer-maps.php" class="nav-link ">Footer Maps</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/footers/shortcode-blocks-footer-modern.html" class="nav-link ">Footer Modern</a>
+                    <a href="../../unify-main/shortcodes/footers/shortcode-blocks-footer-modern.php" class="nav-link ">Footer Modern</a>
                   </li>
                 </ul>
               </div>
             </li>
             <li class="js-shortcode-filter__item nav-item blocks">
-              <a href="../../unify-main/shortcodes/shortcode-blocks-banners.html" class="nav-link ">Banners</a>
+              <a href="../../unify-main/shortcodes/shortcode-blocks-banners.php" class="nav-link ">Banners</a>
             </li>
             <li class="js-shortcode-filter__item nav-item blocks">
-              <a href="../../unify-main/shortcodes/shortcode-blocks-clients.html" class="nav-link ">Clients</a>
+              <a href="../../unify-main/shortcodes/shortcode-blocks-clients.php" class="nav-link ">Clients</a>
             </li>
             <li class="js-shortcode-filter__item nav-item blocks">
-              <a href="../../unify-main/shortcodes/shortcode-blocks-comments.html" class="nav-link ">Comments</a>
+              <a href="../../unify-main/shortcodes/shortcode-blocks-comments.php" class="nav-link ">Comments</a>
             </li>
             <li class="js-shortcode-filter__item nav-item blocks">
-              <a href="../../unify-main/shortcodes/shortcode-blocks-countdowns.html" class="nav-link ">Countdowns</a>
+              <a href="../../unify-main/shortcodes/shortcode-blocks-countdowns.php" class="nav-link ">Countdowns</a>
             </li>
             <li class="js-shortcode-filter__item nav-item blocks">
-              <a href="../../unify-main/shortcodes/shortcode-blocks-counters.html" class="nav-link ">Counters</a>
+              <a href="../../unify-main/shortcodes/shortcode-blocks-counters.php" class="nav-link ">Counters</a>
             </li>
             <li class="js-shortcode-filter__item nav-item dropdown blocks">
               <a class="nav-link dropdown-toggle " href="#!" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Call To Action</a>
               <div class="dropdown-menu u-dropdown-static">
                 <ul class="nav flex-column">
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-cta-boxed.html" class="nav-link ">Call To Action (boxed)</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-cta-boxed.php" class="nav-link ">Call To Action (boxed)</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-cta-full-width.html" class="nav-link ">Call To Action (full width)</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-cta-full-width.php" class="nav-link ">Call To Action (full width)</a>
                   </li>
                 </ul>
               </div>
@@ -1275,19 +1275,19 @@
               <div class="dropdown-menu u-dropdown-static">
                 <ul class="nav flex-column">
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-gallery-grid.html" class="nav-link ">Gallery Grid</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-gallery-grid.php" class="nav-link ">Gallery Grid</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-gallery-fullwidth.html" class="nav-link ">Gallery Fullwidth</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-gallery-fullwidth.php" class="nav-link ">Gallery Fullwidth</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-gallery-carousel.html" class="nav-link ">Gallery Carousel</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-gallery-carousel.php" class="nav-link ">Gallery Carousel</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-base-gallery-grid-layouts.html" class="nav-link ">Gallery Grid Layouts</a>
+                    <a href="../../unify-main/shortcodes/shortcode-base-gallery-grid-layouts.php" class="nav-link ">Gallery Grid Layouts</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-base-lightbox-options.html" class="nav-link ">Lightbox Options</a>
+                    <a href="../../unify-main/shortcodes/shortcode-base-lightbox-options.php" class="nav-link ">Lightbox Options</a>
                   </li>
                 </ul>
               </div>
@@ -1297,13 +1297,13 @@
               <div class="dropdown-menu u-dropdown-static">
                 <ul class="nav flex-column">
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-hero-info.html" class="nav-link ">Hero Info</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-hero-info.php" class="nav-link ">Hero Info</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-hero-blocks.html" class="nav-link ">Hero Blocks</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-hero-blocks.php" class="nav-link ">Hero Blocks</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-hero-content.html" class="nav-link ">Hero Content</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-hero-content.php" class="nav-link ">Hero Content</a>
                   </li>
                 </ul>
               </div>
@@ -1313,54 +1313,54 @@
               <div class="dropdown-menu u-dropdown-static">
                 <ul class="nav flex-column">
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-icons.html" class="nav-link ">Icon Blocks</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-icons.php" class="nav-link ">Icon Blocks</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-icons-app.html" class="nav-link ">Icons App</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-icons-app.php" class="nav-link ">Icons App</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-icons-interactive.html" class="nav-link ">Icons Interactive</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-icons-interactive.php" class="nav-link ">Icons Interactive</a>
                   </li>
                 </ul>
               </div>
             </li>
             <li class="js-shortcode-filter__item nav-item blocks">
-              <a href="../../unify-main/shortcodes/shortcode-blocks-info-blocks.html" class="nav-link ">Info Blocks</a>
+              <a href="../../unify-main/shortcodes/shortcode-blocks-info-blocks.php" class="nav-link ">Info Blocks</a>
             </li>
             <li class="js-shortcode-filter__item nav-item dropdown blocks">
               <a class="nav-link dropdown-toggle " href="#!" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">News Blocks</a>
               <div class="dropdown-menu u-dropdown-static">
                 <ul class="nav flex-column">
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-news.html" class="nav-link ">News</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-news.php" class="nav-link ">News</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-news-image.html" class="nav-link ">News Image</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-news-image.php" class="nav-link ">News Image</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-news-no-images.html" class="nav-link ">News Without Images</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-news-no-images.php" class="nav-link ">News Without Images</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-news-small.html" class="nav-link ">News Small</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-news-small.php" class="nav-link ">News Small</a>
                   </li>
                 </ul>
               </div>
             </li>
             <li class="js-shortcode-filter__item nav-item blocks">
-              <a href="../../unify-main/shortcodes/shortcode-blocks-tables.html" class="nav-link ">Table Designs</a>
+              <a href="../../unify-main/shortcodes/shortcode-blocks-tables.php" class="nav-link ">Table Designs</a>
             </li>
             <li class="js-shortcode-filter__item nav-item dropdown blocks">
               <a class="nav-link dropdown-toggle " href="#!" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pricing</a>
               <div class="dropdown-menu u-dropdown-static">
                 <ul class="nav flex-column">
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-pricing-plans.html" class="nav-link ">Pricing Plans</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-pricing-plans.php" class="nav-link ">Pricing Plans</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-pricing-sections.html" class="nav-link ">Pricing Sections</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-pricing-sections.php" class="nav-link ">Pricing Sections</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-pricing-table.html" class="nav-link ">Pricing Table</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-pricing-table.php" class="nav-link ">Pricing Table</a>
                   </li>
                 </ul>
               </div>
@@ -1370,16 +1370,16 @@
               <div class="dropdown-menu u-dropdown-static">
                 <ul class="nav flex-column">
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-products.html" class="nav-link ">Products</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-products.php" class="nav-link ">Products</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-products-advanced.html" class="nav-link ">Products Advanced</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-products-advanced.php" class="nav-link ">Products Advanced</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-products-list.html" class="nav-link ">Products List</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-products-list.php" class="nav-link ">Products List</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-products-overlay.html" class="nav-link ">Products Overlay</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-products-overlay.php" class="nav-link ">Products Overlay</a>
                   </li>
                 </ul>
               </div>
@@ -1389,10 +1389,10 @@
               <div class="dropdown-menu u-dropdown-static">
                 <ul class="nav flex-column">
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-team.html" class="nav-link ">Team</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-team.php" class="nav-link ">Team</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-team-advanced.html" class="nav-link ">Team Advanced</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-team-advanced.php" class="nav-link ">Team Advanced</a>
                   </li>
                 </ul>
               </div>
@@ -1402,19 +1402,19 @@
               <div class="dropdown-menu u-dropdown-static">
                 <ul class="nav flex-column">
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-testimonials.html" class="nav-link ">Testimonials</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-testimonials.php" class="nav-link ">Testimonials</a>
                   </li>
                   <li class="js-shortcode-filter__item nav-item blocks">
-                    <a href="../../unify-main/shortcodes/shortcode-blocks-testimonials-advanced.html" class="nav-link ">Testimonials Advanced</a>
+                    <a href="../../unify-main/shortcodes/shortcode-blocks-testimonials-advanced.php" class="nav-link ">Testimonials Advanced</a>
                   </li>
                 </ul>
               </div>
             </li>
             <li class="js-shortcode-filter__item nav-item blocks">
-              <a href="../../unify-main/shortcodes/shortcode-blocks-timelines.html" class="nav-link ">Timelines</a>
+              <a href="../../unify-main/shortcodes/shortcode-blocks-timelines.php" class="nav-link ">Timelines</a>
             </li>
             <li class="js-shortcode-filter__item nav-item blocks">
-              <a href="../../unify-main/shortcodes/shortcode-blocks-users.html" class="nav-link ">Users</a>
+              <a href="../../unify-main/shortcodes/shortcode-blocks-users.php" class="nav-link ">Users</a>
             </li>
           </ul>
 
@@ -3573,7 +3573,7 @@ Copy code
                       <p class="card-text">Utilizamos criterios en base a valores ajustados a la industria y
                       estándares internacionales del World Wide Web
                       Consortium, a demás de tendencias aceptadas a nivel mundial como las reglas de usabilidad de Jakob Nielsen y normas ISO relacionadas, 
-                      Normas de las Buenas Prácticas del Comercio Electrónico. Puedes ver los estándares <a href="https://qualitasplaza.com/estandares.html" target="_blank">aquí</a>.</p>
+                      Normas de las Buenas Prácticas del Comercio Electrónico. Puedes ver los estándares <a href="https://qualitasplaza.com/estandares.php" target="_blank">aquí</a>.</p>
                     </div>
                   </div>
                   <!-- End Unify Teal Outline Panel-->
@@ -3779,7 +3779,7 @@ Copy code
 
               <br>
 
-              <a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">www.htmlstream.com</a>
+              <a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">www.phpstream.com</a>
 
             </p>
 

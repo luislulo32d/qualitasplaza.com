@@ -16,7 +16,7 @@
             <!-- End Responsive Toggle Button -->
 
             <!-- Logo -->
-            <a href="index.html">
+            <a href="index.php">
               <img src="assets/img-temp/qualitasplaza.png" alt="qualitas plaza header" width="180" height="31.19"
                 style="margin-right: 80px;">
             </a>
@@ -43,31 +43,31 @@
               <ul class="navbar-nav text-uppercase g-pos-rel g-font-weight-600 ml-auto">
                 <!-- Intro -->
                 <li class="nav-item  g-mx-10--lg g-mx-15--xl">
-                  <a href="index.html" class="nav-link g-py-7 g-px-0">Inicio</a>
+                  <a href="index.php" class="nav-link g-py-7 g-px-0">Inicio</a>
                 </li>
                 <!-- End Intro -->
 
                 <!-- Nosotros -->
                 <li class="nav-item  g-mx-10--lg g-mx-15--xl">
-                  <a href="nosotros.html" class="nav-link g-py-7 g-px-0">Nosotros</a>
+                  <a href="nosotros.php" class="nav-link g-py-7 g-px-0">Nosotros</a>
                 </li>
                 <!-- End Nosotros -->
 
                 <!-- Servicios -->
                 <li class="nav-item  g-mx-10--lg g-mx-15--xl">
-                  <a href="servicios.html" class="nav-link g-py-7 g-px-0">Servicios</a>
+                  <a href="servicios.php" class="nav-link g-py-7 g-px-0">Servicios</a>
                 </li>
                 <!-- End Servicios -->
 
                 <!-- Instituto -->
                 <li class="nav-item  g-mx-10--lg g-mx-15--xl">
-                  <a href="planes.html" class="nav-link g-py-7 g-px-0">Planes</a>
+                  <a href="planes.php" class="nav-link g-py-7 g-px-0">Planes</a>
                 </li>
                 <!-- End Instituto -->
 
                 <!-- Contacto -->
                 <li class="nav-item  g-mx-10--lg g-mx-15--xl">
-                  <a href="soporte.html" class="nav-link g-py-7 g-px-0">Soporte</a>
+                  <a href="soporte.php" class="nav-link g-py-7 g-px-0">Soporte</a>
                 </li>
                 <!-- End Contacto -->
                 <!-- Blog -->
@@ -98,10 +98,10 @@
                       <div class="col-lg-12">
                         <ul class="list-unstyled">
                           <li class="dropdown-item">
-                            <a href="index.html" class="nav-link g-py-7 g-px-0">Iniciar sesión</a>
+                            <a href="index.php" class="nav-link g-py-7 g-px-0">Iniciar sesión</a>
                           </li>
                           <li class="dropdown-item">
-                            <a href="index.html" class="nav-link g-py-7 g-px-0">Registrarse</a>
+                            <a href="index.php" class="nav-link g-py-7 g-px-0">Registrarse</a>
                           </li>
                         </ul>
                       </div>
@@ -131,11 +131,11 @@
                       <div class="col-lg-12">
                         <ul class="list-unstyled">
                           <li class="dropdown-item active">
-                            <a href="index.html" class="nav-link"><img src="assets/img-temp/spanish.png"
+                            <a href="index.php" class="nav-link"><img src="assets/img-temp/spanish.png"
                                 width="30px" height="18px"></a>
                           </li>
                           <li class="dropdown-item ">
-                            <a href="index_en.html" class="nav-link"><img src="assets/img-temp/english.png"
+                            <a href="index_en.php" class="nav-link"><img src="assets/img-temp/english.png"
                                 width="30px" height="18px"></a>
                           </li>
                         </ul>

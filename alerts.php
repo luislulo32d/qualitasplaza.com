@@ -3,7 +3,7 @@
 
 <head>
   <!-- Title -->
-  <title>Alerts</title>
+  <title>Qualitas Plaza - Alerts - Personalized Notifications</title>
   <link rel="canonical" href="https://qualitasplaza.com/alerts.php">
 
   <!-- Required Meta Tags Always Come First -->

@@ -459,7 +459,7 @@
                       <span class="u-link-v6-arrow g-font-size-18">→</span>
                     </span>
 
-                    <a class="u-link-v2" href="quality.html"></a>
+                    <a class="u-link-v2" href="quality.php"></a>
                   </article>
                   <!-- End Icon Block -->
                 </div>
@@ -483,7 +483,7 @@
                       <span class="u-link-v6-arrow g-font-size-18">→</span>
                     </span>
 
-                    <a class="u-link-v2" href="ecommerce2.html"></a>
+                    <a class="u-link-v2" href="ecommerce2.php"></a>
                   </article>
                   <!-- End Icon Block -->
                 </div>
@@ -507,7 +507,7 @@
                       <span class="u-link-v6-arrow g-font-size-18">→</span>
                     </span>
 
-                    <a class="u-link-v2" href="alerts.html"></a>
+                    <a class="u-link-v2" href="alerts.php"></a>
                   </article>
                   <!-- End Icon Block -->
                 </div>
@@ -581,7 +581,7 @@
 <input type="hidden" id="_agile_form_name" name="_agile_form_name" value="Newsletter Subscription">
 <input type="hidden" id="_agile_domain" name="_agile_domain" value="qualitasplaza">
 <input type="hidden" id="_agile_api" name="_agile_api" value="4cfvjhag0ln8k6pkbrh4im157l">
-<input type="hidden" id="_agile_redirect_url" name="_agile_redirect_url" value="https://qualitasplaza.com/thanks-subscription.html">
+<input type="hidden" id="_agile_redirect_url" name="_agile_redirect_url" value="https://qualitasplaza.com/thanks-subscription.php">
 <input type="hidden" id="_agile_document_url" name="_agile_document_url" value="">
 <input type="hidden" id="_agile_confirmation_msg" name="_agile_confirmation_msg" value="">
 <input type="hidden" id="_agile_form_id_tags" name="tags" value="suscriptor-boletin-eng">
