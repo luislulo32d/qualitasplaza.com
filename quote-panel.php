@@ -3,7 +3,7 @@
 
 <head>
   <!-- Title -->
-  <title>Qualitas Plaza</title>
+  <title>Qualitas Plaza - Quote - Quote Tools</title>
 
   <!-- Required Meta Tags Always Come First -->
   <meta charset="utf-8">

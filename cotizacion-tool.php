@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <!-- Title -->
-  <title>Qualitas Plaza - Cotitation Tools</title>
+  <title>Qualitas Plaza - Cotización - Herramientas Para Cotizaciones</title>
   <link rel="canonical" href="https://qualitasplaza.com/cotizacion-tool.php">
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-68921505-1"></script>

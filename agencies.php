@@ -3,7 +3,7 @@
 
 <head>
   <!-- Title -->
-  <title>Agencies</title>
+  <title>Qualitas Plaza - Agencies - Supervise Customer Experience</title>
   <link rel="canonical" href="https://qualitasplaza.com/agencies.php">
 
   <!-- Required Meta Tags Always Come First -->

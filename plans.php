@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!-- Title -->
-  <title>Qualitas Plaza - Plans</title>
+  <title>Qualitas Plaza - Plans - Improved User Experience (UX)</title>
   <link rel="canonical" href="https://qualitasplaza.com/plans.php">
 
   <!-- Required Meta Tags Always Come First -->

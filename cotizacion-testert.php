@@ -3,7 +3,7 @@
 
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <!-- Title -->
-  <title>Qualitas Plaza</title>
+  <title>Qualitas Plaza - Cotizaciones - Prueba y Ajuste Cotizaciones</title>
   <link rel="canonical" href="https://qualitasplaza.com/cotizacion-testert.php">
  <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-68921505-1"></script>

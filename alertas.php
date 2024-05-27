@@ -3,7 +3,7 @@
 
 <head>
   <!-- Title -->
-  <title>Alertas</title>
+  <title>Qualitas Plaza - Alertas - Notificaciones Personalizadas</title>
   <link rel="canonical" href="https://qualitasplaza.com/alertas.php">
  <!-- Start of helloqp Zendesk Widget script -->
 <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=718eec9e-4bf9-4d9a-9775-d92d68b12a06"> </script>

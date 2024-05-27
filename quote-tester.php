@@ -3,7 +3,7 @@
 
 <head>
   <!-- Title -->
-  <title>Qualitas Plaza</title>
+  <title>Qualitas Plaza - Quote-Tester - Test and Adjust Quotes</title>
   <link rel="canonical" href="https://qualitasplaza.com/quote-tester.php">
   <!-- Required Meta Tags Always Come First -->
   <meta charset="utf-8">
