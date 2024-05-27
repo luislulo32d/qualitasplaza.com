@@ -80,8 +80,10 @@
         data-options='{direction: "reverse", settings_mode_oneelement_max_offset: "150"}'>
         <div
           class="divimage dzsparallaxer--target w-100 g-bg-cover g-bg-pos-top-center g-bg-img-hero g-bg-bluegray-opacity-0_2--after"
-          style="height: 130%; background-image: url(assets/img-temp/header.jpg);"></div>
-
+          style="height: 130%;"
+          loading="lazy"
+          data-src="assets/img-temp/header.jpg"
+        ></div>
         <div class="container g-bg-cover__inner g-py-100">
           <div class="row align-items-center">
             <div class="col-lg-6 g-mb-30 g-mb-0--lg">
