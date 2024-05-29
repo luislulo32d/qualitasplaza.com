@@ -78,12 +78,8 @@
     <section class="g-pos-rel">
       <div class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll"
         data-options='{direction: "reverse", settings_mode_oneelement_max_offset: "150"}'>
-        <div
-          class="divimage dzsparallaxer--target w-100 g-bg-cover g-bg-pos-top-center g-bg-img-hero g-bg-bluegray-opacity-0_2--after"
-          style="height: 130%;"
-          loading="lazy"
-          data-src="assets/img-temp/header.jpg"
-        ></div>
+        <div class="divimage dzsparallaxer--target w-100 g-bg-cover g-bg-pos-top-center g-bg-i…" style="height: 130%; background-image: url(&quot;assets/img-temp/header.jpg&quot;);" loading="lazy" src="assets/img-temp/header.jpg">
+        </div>
         <div class="container g-bg-cover__inner g-py-100">
           <div class="row align-items-center">
             <div class="col-lg-6 g-mb-30 g-mb-0--lg">
@@ -597,7 +593,6 @@
 <!-- JS Dark Skin -->
 
 <!-- JS Global Compulsory -->
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
 <script src="assets/vendor/jquery/jquery.min.js"></script>
 <script src="assets/vendor/jquery-migrate/jquery-migrate.min.js"></script>
 <script src="assets/vendor/popper.min.js"></script>
