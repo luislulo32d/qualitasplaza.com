@@ -85,9 +85,9 @@
                 <!-- Home -->
                 <li class="hs-has-mega-menu nav-item active g-mx-10--lg g-mx-15--xl" data-animation-in="fadeIn"
                   data-animation-out="fadeOut" data-max-width="100%" data-position="right">
-                  <a id="mega-menu-home" class="nav-link g-py-7 g-px-0" href="#!" aria-haspopup="true"
+                  <span id="mega-menu-home" class="nav-link g-py-7 g-px-0" aria-haspopup="true" style="cursor: pointer;"
                     aria-expanded="false">Cuenta <i class="icon-user"></i>
-                    <i class="hs-icon hs-icon-arrow-bottom g-font-size-11 g-ml-7"></i></a>
+                    <i class="hs-icon hs-icon-arrow-bottom g-font-size-11 g-ml-7"></i></span>
 
                   <!-- Mega Menu -->
                   <div
@@ -118,9 +118,9 @@
                 <!-- Home -->
                 <li class="hs-has-mega-menu nav-item active g-mx-10--lg g-mx-15--xl" data-animation-in="fadeIn"
                   data-animation-out="fadeOut" data-max-width="100%" data-position="right">
-                  <a id="mega-menu-home" class="nav-link g-py-7 g-px-0" href="#!" aria-haspopup="true"
+                  <span id="mega-menu-home" class="nav-link g-py-7 g-px-0" aria-haspopup="true" style="cursor: pointer;"
                     aria-expanded="false"><img src="assets/img-temp/spanish.png" width="30px" height="18px">
-                    <i class="hs-icon hs-icon-arrow-bottom g-font-size-11 g-ml-7"></i></a>
+                    <i class="hs-icon hs-icon-arrow-bottom g-font-size-11 g-ml-7"></i></span>
 
                   <!-- Mega Menu -->
                   <div
