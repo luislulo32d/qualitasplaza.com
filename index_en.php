@@ -8,7 +8,6 @@
   <link rel="canonical" href="https://qualitasplaza.com/index_en.php">
   <meta name="author" content="Dante de Virginy" />
   <meta name="copyright" content="Dante de Virginy - QualitasPlaza"/>
-  <meta name="description" content="SUPERVISE YOUR USERS' ONLINE EXPERIENCE! Get a comprehensive diagnosis to validate your business aimed at improving sales.">
 
   <!-- Required Meta Tags Always Come First -->
 

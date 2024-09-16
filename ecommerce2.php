@@ -4,8 +4,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <!-- Title -->
-  <title>Qualitas Plaza - Comercio Electrónico</title>
-  <link rel="canonical" href="https://qualitasplaza.com/ecommerce.php">
+  <title>Qualitas Plaza - Ecommerce</title>
+  <link rel="canonical" href="https://qualitasplaza.com/ecommerce2.php">
   <!-- Start of helloqp Zendesk Widget script -->
   <script id="ze-snippet"
     src="https://static.zdassets.com/ekr/snippet.js?key=718eec9e-4bf9-4d9a-9775-d92d68b12a06"> </script>
@@ -57,7 +57,7 @@
   <main>
     <!-- Header -->
     <?php
-      include_once 'includes/header.php'
+      include_once 'includes/header_en.php'
     ?>
     <!-- End Header -->
 
@@ -71,9 +71,9 @@
 
       <!-- Promo Block Content -->
       <div class="container g-color-white text-center g-py-120">
-        <h3 class="h1 g-font-weight-600 text-uppercase mb-2">Módulo e-Commerce</h3>
-        <p class="g-font-weight-300 g-font-size-22 text-uppercase">Revision exhaustiva para el cumplimiento de las
-          buenas practicas.</p>
+        <h3 class="h1 g-font-weight-600 text-uppercase mb-2">e-Commerce Module</h3>
+        <p class="g-font-weight-300 g-font-size-22 text-uppercase">Exhaustive review for compliance with the
+          good practices.</p>
       </div>
       <!-- Promo Block Content -->
     </section>
@@ -85,18 +85,13 @@
         <div class="row">
           <div class="col-lg-6 g-mb-50 g-mb-0--lg">
             <div class="u-heading-v2-3--bottom g-brd-primary g-mb-30">
-              <h2 class="h3 text-uppercase g-font-weight-300 u-heading-v2__title">Acreditación de buenas prácticas del
+              <h2 class="h3 text-uppercase g-font-weight-300 u-heading-v2__title">Accreditation of good practices
                 <br>e-Commerce</h2>
             </div>
 
-            <p class="lead">Hemos diseñado un sistema de acreditación para
-              Sitios Web que consiste en verificar la existencia de
-              la empresa y confirmar que lo que ofrece es lo que
-              realmente vende.</p>
+            <p class="lead">We have designed an accreditation system for Websites that consists of verifying the existence of the company and confirming that what it offers is what it really sells.</p>
 
-            <p class="g-mb-30">Asegura al cliente la identidad de la empresa con el Sitio Web, un factor que incide
-              positivamente en la decisión de compra. Este sistema ayuda a la PYME a mejorar sus ventas y funciona muy
-              bien para compradores nuevos que cuentan desde ahora con factores acreditados por Qualitas Plaza.</p>
+            <p class="g-mb-30">It assures the customer of the company's identity with the Website, a factor that positively affects the purchase decision. This system helps the SME to improve its sales and works very well for new buyers who now have factors accredited by Qualitas Plaza.</p>
           </div>
 
           <div class="col-lg-6 align-self-center">
@@ -107,8 +102,8 @@
 
       <header class="text-center g-width-60x--md mx-auto g-mb-50">
         <div class="u-heading-v2-3--bottom g-brd-primary g-mb-20">
-          <h2 class="h4 u-heading-v2__title g-font-weight-600 text-uppercase h2-margin-top">Pasos</h2>
-          <p class="g-font-size-16">En sólo 4 pasos podrás obtener tu acreditación de buenas prácticas del e-Commerce.
+          <h2 class="h4 u-heading-v2__title g-font-weight-600 text-uppercase h2-margin-top">Steps</h2>
+          <p class="g-font-size-16">In just 4 steps you can obtain your accreditation of good e-Commerce practices.
           </p>
         </div>
       </header>
@@ -122,8 +117,8 @@
               <i class="u-dot-line-v1-2 g-brd-transparent--before g-brd-gray-light-v2--after g-mb-20">
                 <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
               </i>
-              <h3 class="h5 g-font-weight-600 g-mb-10">Auditoría</h3>
-              <p class="mb-0">Confirmamos la aplicación de las buenas prácticas de tu organización.</p>
+              <h3 class="h5 g-font-weight-600 g-mb-10">Audit</h3>
+              <p class="mb-0">We confirm the application of good practices in your organization.</p>
             </div>
             <!-- End Static Process -->
           </div>
@@ -134,8 +129,8 @@
               <i class="u-dot-line-v1-2 g-brd-gray-light-v2--before g-brd-gray-light-v2--after g-mb-20">
                 <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
               </i>
-              <h3 class="h5 g-font-weight-600 g-mb-10">Reparación</h3>
-              <p class="mb-0">Corrige los errores con el apoyo de nuestros partners homologados.</p>
+              <h3 class="h5 g-font-weight-600 g-mb-10">Repair</h3>
+              <p class="mb-0">Correct errors with the support of our approved partners.</p>
             </div>
             <!-- End Static Process -->
           </div>
@@ -146,8 +141,8 @@
               <i class="u-dot-line-v1-2 g-brd-gray-light-v2--before g-brd-gray-light-v2--after g-mb-20">
                 <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
               </i>
-              <h3 class="h5 g-font-weight-600 g-mb-10">Validación</h3>
-              <p class="mb-0">Comprobamos las correcciones a través de una nueva auditoría.</p>
+              <h3 class="h5 g-font-weight-600 g-mb-10">Validation</h3>
+              <p class="mb-0">We verify the corrections through a new audit.</p>
             </div>
             <!-- End Static Process -->
           </div>
@@ -158,8 +153,8 @@
               <i class="u-dot-line-v1-2 g-brd-gray-light-v2--before g-brd-transparent--after g-mb-20">
                 <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
               </i>
-              <h3 class="h5 g-font-weight-600 g-mb-10">Aprobación</h3>
-              <p class="mb-0">Otorgamos el sello de acreditación de buenas prácticas del e-Commerce.</p>
+              <h3 class="h5 g-font-weight-600 g-mb-10">Approval</h3>
+              <p class="mb-0">We grant the seal of accreditation of good e-Commerce practices.</p>
             </div>
             <!-- End Static Process -->
           </div>
@@ -169,8 +164,7 @@
 
       <header class="text-center g-width-60x--md mx-auto g-mb-50">
         <div class="u-heading-v2-3--bottom g-brd-primary g-mb-20">
-          <h2 class="h4 u-heading-v2__title g-font-weight-600 text-uppercase h2-margin-top">Revisión y cumplimiento de
-            las buenas prácticas del<br> e-Commerce</h2>
+          <h2 class="h4 u-heading-v2__title g-font-weight-600 text-uppercase h2-margin-top">Review and compliance with good e-Commerce practices</h2>
         </div>
       </header>
 
@@ -187,7 +181,7 @@
                   <i class="icon-real-estate-077 u-line-icon-pro icon-color"></i>
                 </span>
               </span>
-              <p>Reconocimiento de la organización, descripción de productos y servicios, entre otros.</p>
+              <p>Recognition of the organization, description of products and services, among others.</p>
             </div>
             <!-- End Icon Blocks -->
           </div>
@@ -201,7 +195,7 @@
                   <i class="icon-education-164 u-line-icon-pro icon-color"></i>
                 </span>
               </span>
-              <p>Verificación de Información sobre legislación aplicable y jurisprudencia.</p>
+              <p>Verification of Information on applicable legislation and jurisprudence.</p>
             </div>
             <!-- End Icon Blocks -->
           </div>
@@ -215,7 +209,7 @@
                   <i class="icon-travel-055 u-line-icon-pro icon-color"></i>
                 </span>
               </span>
-              <p>Comprobación de usos de sistemas seguros en las transacciones de pago.</p>
+              <p>Verification of uses of secure systems in payment transactions.</p>
             </div>
             <!-- End Icon Blocks -->
           </div>
@@ -229,7 +223,7 @@
                   <i class="icon-travel-019 u-line-icon-pro icon-color"></i>
                 </span>
               </span>
-              <p>Evaluación de servicios de postventa.</p>
+              <p>Evaluation of after-sales services.</p>
             </div>
             <!-- End Icon Blocks -->
           </div>
@@ -250,7 +244,7 @@
                   <i class="icon-travel-025 u-line-icon-pro icon-color"></i>
                 </span>
               </span>
-              <p>Verificación de tiempos de entrega y términos acordados.</p>
+              <p>Verification of delivery times and agreed terms.</p>
             </div>
             <!-- End Icon Blocks -->
           </div>
@@ -264,7 +258,7 @@
                   <i class="icon-education-142 u-line-icon-pro icon-color"></i>
                 </span>
               </span>
-              <p>Procesos de atención al cliente y protección de datos personales.</p>
+              <p>Customer service processes and personal data protection.</p>
             </div>
             <!-- End Icon Blocks -->
           </div>
@@ -278,7 +272,7 @@
                   <i class="icon-education-087 u-line-icon-pro icon-color"></i>
                 </span>
               </span>
-              <p>Contenidos, información útil y acceso a políticas de privacidad.</p>
+              <p>Contents, useful information and access to privacy policies.</p>
             </div>
             <!-- End Icon Blocks -->
           </div>
@@ -288,8 +282,7 @@
 
       <header class="mx-auto g-mb-50">
         <div class="u-heading-v2-3--bottom g-brd-primary g-mb-20">
-          <h2 class="h4 u-heading-v2__title g-font-weight-600 text-uppercase h2-margin-top">Requisitos y elementos a
-            evaluar:</h2>
+          <h2 class="h4 u-heading-v2__title g-font-weight-600 text-uppercase h2-margin-top">Requirements and elements to evaluate:</h2>
         </div>
       </header>
 
@@ -307,7 +300,7 @@
                     <i class="fa fa-minus"></i>
                   </span>
                   <span class="g-pa-20">
-                    PROCESO DE COMPRA
+                    PURCHASING PROCESS
                   </span>
                 </a>
               </h5>
@@ -316,12 +309,12 @@
               aria-labelledby="accordion-07-heading-01" data-parent="#accordion-07">
               <div class="u-accordion__body g-px-50 g-py-30">
                 <ul>
-                  <li>Comunicación comercial.</li>
-                  <li>Venta.</li>
-                  <li>Contratación.</li>
-                  <li>Pago.</li>
-                  <li>Entrega del bien o servicio.</li>
-                  <li>Servicio posventa.</li>
+                  <li>Commercial communication.</li>
+                  <li>Sale.</li>
+                  <li>Recruitment.</li>
+                  <li>Payment.</li>
+                  <li>Delivery of the good or service.</li>
+                  <li>After-sales service.</li>
                 </ul>
               </div>
             </div>
@@ -340,7 +333,7 @@
                     <i class="fa fa-minus"></i>
                   </span>
                   <span class="g-pa-20">
-                    OTROS ASPECTOS COMPLEMENTARIOS
+                    OTHER ADDITIONAL ASPECTS
                   </span>
                 </a>
               </h5>
@@ -348,12 +341,12 @@
             <div id="accordion-07-body-02" class="collapse" role="tabpanel" aria-labelledby="accordion-07-heading-02"
               data-parent="#accordion-07">
               <div class="u-accordion__body g-px-50 g-py-30">
-                <li>Sistema de Resolución Extrajudicial de Conflictos.</li>
-                <li>Tecnología.</li>
-                <li>Protección de datos personales.</li>
-                <li>Ética.</li>
-                <li>Protección de la propiedad intelectual.</li>
-                <li>Proveedores.</li>
+              <li>Extrajudicial Conflict Resolution System.</li>
+              <li>Technology.</li>
+              <li>Protection of personal data.</li>
+              <li>Ethics.</li>
+              <li>Protection of intellectual property.</li>
+              <li>Suppliers.</li>
               </div>
             </div>
           </div>
@@ -364,11 +357,10 @@
     <div class="shortcode-html">
       <!-- Footer -->
       <?php
-        include_once 'includes/footer.php'
+        include_once 'includes/footer_en.php'
       ?>
       <!-- End Footer -->
     </div>
-
     <a class="js-go-to u-go-to-v1" href="#!" data-type="fixed" data-position='{
      "bottom": 15,
      "right": 15
