@@ -98,10 +98,10 @@
                       <div class="col-lg-12">
                         <ul class="list-unstyled">
                           <li class="dropdown-item">
-                            <a href="index.php" class="nav-link g-py-7 g-px-0">Iniciar sesión</a>
+                            <a href="registro.php" class="nav-link g-py-7 g-px-0">Iniciar sesión</a>
                           </li>
                           <li class="dropdown-item">
-                            <a href="index.php" class="nav-link g-py-7 g-px-0">Registrarse</a>
+                            <a href="registro.php" class="nav-link g-py-7 g-px-0">Registrarse</a>
                           </li>
                         </ul>
                       </div>
